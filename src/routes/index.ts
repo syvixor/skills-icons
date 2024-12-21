@@ -8,8 +8,15 @@ import { genSVG } from "../utils";
 const router: Router = express.Router();
 
 const short_names: Record<string, string> = {
+    "angular": "angularjs",
     "js": "javascript",
-    "ts": "typescript"
+    "mongo": "mongodb",
+    "node": "nodejs",
+    "nuxt": "nuxtjs",
+    "pb": "pocketbase",
+    "react": "reactjs",
+    "ts": "typescript",
+    "vue": "vuejs"
 }
 
 router.get("/icons", async (_req: Request, res: Response) => {
