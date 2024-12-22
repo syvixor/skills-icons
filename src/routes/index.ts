@@ -9,12 +9,14 @@ const router: Router = express.Router();
 
 const short_names: Record<string, string> = {
     "angular": "angularjs",
+    "express": "expressjs",
     "js": "javascript",
     "mongo": "mongodb",
     "node": "nodejs",
     "nuxt": "nuxtjs",
     "pb": "pocketbase",
     "react": "reactjs",
+    "tailwind": "tailwindcss",
     "ts": "typescript",
     "vue": "vuejs"
 }
