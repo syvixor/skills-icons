@@ -16,7 +16,7 @@ api.use(morgan("tiny"));
 api.get("/", (_req: Request, res: Response) => {
     res.status(200).json({
         status: res.statusCode,
-        github: "https://github.com/ixzrz/skills-icons"
+        github: "https://github.com/ixrzr/skills-icons"
     });
 });
 
