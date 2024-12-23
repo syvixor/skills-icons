@@ -26,7 +26,7 @@ const short_names: Record<string, string> = {
 }
 
 router.get("/icons", async (_req: Request, res: Response) => {
-    const { i } = _req.query;
+    const { i, perline } = _req.query
     if (i && typeof i === "string") {
         const icons_list = i.split(",");
         const full_icons_list = icons_list.map(icon => short_names[icon.trim()] || icon.trim());
@@ -48,7 +48,17 @@ router.get("/icons", async (_req: Request, res: Response) => {
                 hint: "Hmm... There's no valid icon."
             });
         } else {
-            const response = genSVG(icons);
+            let response
+            if (perline !== undefined) {
+                const perlineNumber = Number(perline);
+                if (!isNaN(perlineNumber) && perlineNumber > 0 && perlineNumber <= 15) {
+                    response = genSVG(icons, perlineNumber);
+                } else {
+                    response = genSVG(icons);
+                }
+            } else {
+                response = genSVG(icons);
+            }
             res.setHeader("Content-Type", "image/svg+xml");
             return res.status(200).send(response);
         }
@@ -62,6 +72,7 @@ router.get("/icons", async (_req: Request, res: Response) => {
 });
 
 router.get("/icons/all", async (_req: Request, res: Response) => {
+    const { perline } = _req.query
     const icons_dir = path.join(__dirname, "../icons");
     try {
         const files = await fs.readdir(icons_dir);
@@ -79,7 +90,17 @@ router.get("/icons/all", async (_req: Request, res: Response) => {
                 hint: "Hmm... There's no valid icon."
             });
         } else {
-            const response = genSVG(icons);
+            let response
+            if (perline !== undefined) {
+                const perlineNumber = Number(perline);
+                if (!isNaN(perlineNumber) && perlineNumber > 0 && perlineNumber <= 15) {
+                    response = genSVG(icons, perlineNumber);
+                } else {
+                    response = genSVG(icons);
+                }
+            } else {
+                response = genSVG(icons);
+            }
             res.setHeader("Content-Type", "image/svg+xml");
             res.status(200).send(response);
         }

@@ -14,9 +14,10 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,expressjs,mongodb,prisma)
 
 ### Configuration Options 🛠️
-| Parameter | Description                        | Required |
-|-----------|------------------------------------|----------|
-| `i`       | Comma-separated list of icon names | Yes      |
+| Parameter | Description                        | Required | Default |
+|-----------|------------------------------------|----------|---------|
+| `i`       | Comma-separated list of icon names | Yes      | /       |
+| `perline` | Number of icons per line           | No       | 15      |
 
 ### Available Icons 🎨
 ![Skills](https://skills-icons.vercel.app/api/icons/all)
