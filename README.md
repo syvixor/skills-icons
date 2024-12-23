@@ -8,10 +8,10 @@ Showcase skills in projects or profiles effortlessly ✨
 Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
 
 ```md
-![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,prisma)
+![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,expressjs,mongodb,prisma)
 ```
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,prisma)
+![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,expressjs,mongodb,prisma)
 
 ### Configuration Options 🛠️
 | Parameter | Description                        | Required |
@@ -19,7 +19,7 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 | `i`       | Comma-separated list of icon names | Yes      |
 
 ### Available Icons 🎨
-`🚧 Under Construction...`
+![Skills](https://skills-icons.vercel.app/api/icons/all)
 
 ### Contributing 🎖️
 We welcome contributions from anyone! Here's how you can help:
