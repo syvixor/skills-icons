@@ -31,7 +31,7 @@ router.get("/icons", async (_req: Request, res: Response) => {
         const icons_list = i.split(",");
         const full_icons_list = icons_list.map(icon => short_names[icon.trim()] || icon.trim());
         const icons: string[] = [];
-        const icons_dir = path.join(__dirname, "../icons");
+        const icons_dir = path.join(__dirname, "../../icons");
         for (const icon of full_icons_list) {
             const icon_path = path.join(icons_dir, `${icon.trim()}.svg`);
             try {
@@ -73,7 +73,7 @@ router.get("/icons", async (_req: Request, res: Response) => {
 
 router.get("/icons/all", async (_req: Request, res: Response) => {
     const { perline } = _req.query
-    const icons_dir = path.join(__dirname, "../icons");
+    const icons_dir = path.join(__dirname, "../../icons");
     try {
         const files = await fs.readdir(icons_dir);
         const svgs = files.filter(file => file.endsWith(".svg"));
