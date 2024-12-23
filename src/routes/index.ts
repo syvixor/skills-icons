@@ -9,16 +9,20 @@ const router: Router = express.Router();
 
 const short_names: Record<string, string> = {
     "angular": "angularjs",
+    "arch": "archlinux",
     "express": "expressjs",
+    "go": "golang",
     "js": "javascript",
     "mongo": "mongodb",
     "node": "nodejs",
     "nuxt": "nuxtjs",
     "pb": "pocketbase",
     "react": "reactjs",
+    "solid": "solidjs",
     "tailwind": "tailwindcss",
     "ts": "typescript",
-    "vue": "vuejs"
+    "vue": "vuejs",
+    "wp": "wordpress"
 }
 
 router.get("/icons", async (_req: Request, res: Response) => {
