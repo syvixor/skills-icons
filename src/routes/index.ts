@@ -11,6 +11,7 @@ const short_names: Record<string, string> = {
     "adonis": "adonisjs",
     "angular": "angularjs",
     "arch": "archlinux",
+    "drf": "djangorestframework",
     "express": "expressjs",
     "fb": "facebook",
     "go": "golang",
