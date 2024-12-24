@@ -8,10 +8,14 @@ import { genSVG } from "../utils";
 const router: Router = express.Router();
 
 const short_names: Record<string, string> = {
+    "adonis": "adonisjs",
     "angular": "angularjs",
     "arch": "archlinux",
     "express": "expressjs",
+    "fb": "facebook",
     "go": "golang",
+    "gcloud": "googlecloud",
+    "ig": "instagram",
     "js": "javascript",
     "mongo": "mongodb",
     "node": "nodejs",
