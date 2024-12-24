@@ -1,0 +1,26 @@
+name: 🍂 Other
+description: Other questions or issues
+title: "[Other]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please provide as much detail as possible about your question or issue."
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What would you like to discuss?
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Documentation
+        - Feature Request
+        - Question
+        - Other
+    validations:
+      required: true

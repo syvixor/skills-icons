@@ -1,0 +1,30 @@
+name: ⭐ Icon Request
+description: Request a new icon
+title: "[Icon Request]: "
+labels: ["icon-request"]
+body:
+  - type: input
+    id: icon-name
+    attributes:
+      label: Icon Name
+      description: What's the icon name?
+      placeholder: "Example: JavaScript"
+    validations:
+      required: true
+  - type: textarea
+    id: icon-description
+    attributes:
+      label: Icon Description
+      description: Why should we add this icon?
+      placeholder: "Example: JavaScript is a scripting or programming language that allows you to implement complex features on web pages"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched for similar icon requests
+          required: true
+        - label: I have checked if the icon is not already available
+          required: true
