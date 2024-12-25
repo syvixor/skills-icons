@@ -1,14 +1,13 @@
 name: ⭐ Icon Request
 description: Request a new icon
 title: "[Icon Request]: "
-labels: ["icon-request"]
+labels: ["icon request"]
 body:
   - type: input
     id: icon-name
     attributes:
       label: Icon Name
       description: What's the icon name?
-      placeholder: "Example: JavaScript"
     validations:
       required: true
   - type: textarea
@@ -16,9 +15,15 @@ body:
     attributes:
       label: Icon Description
       description: Why should we add this icon?
-      placeholder: "Example: JavaScript is a scripting or programming language that allows you to implement complex features on web pages"
     validations:
       required: true
+  - type: textarea
+    id: reference-image
+    attributes:
+      label: Reference Image (Logo)
+      description: Skill logo if available share it here.
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:

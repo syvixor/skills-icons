@@ -1,7 +1,7 @@
 ## Icon Contribution
 
-### Icon Details
-- Name: 
+### Icon Name
+- None
 
 ### Checklist
 - [ ] Icon follows design guidelines.
@@ -13,3 +13,6 @@
 
 ### Additional Notes
 Any extra information about the icon design or implementation.
+
+### Issues Closed
+If merging this pr closes an issue link it here.
