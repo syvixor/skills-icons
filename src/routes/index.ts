@@ -9,6 +9,7 @@ const router: Router = express.Router();
 
 const short_names: Record<string, string> = {
     "adonis": "adonisjs",
+    "aws": "amazonwebservices",
     "angular": "angularjs",
     "arch": "archlinux",
     "drf": "djangorestframework",
