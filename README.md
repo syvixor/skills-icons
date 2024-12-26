@@ -51,6 +51,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `chakraui` | <img src="https://skills-icons.vercel.app/api/icons?i=chakraui" /> | - |
 | `chatgpt` | <img src="https://skills-icons.vercel.app/api/icons?i=chatgpt" /> | - |
 | `circleci` | <img src="https://skills-icons.vercel.app/api/icons?i=circleci" /> | - |
+| `claudeai` | <img src="https://skills-icons.vercel.app/api/icons?i=claudeai" /> | - |
 | `clerk` | <img src="https://skills-icons.vercel.app/api/icons?i=clerk" /> | - |
 | `cloudflare` | <img src="https://skills-icons.vercel.app/api/icons?i=cloudflare" /> | - |
 | `codepen` | <img src="https://skills-icons.vercel.app/api/icons?i=codepen" /> | - |
@@ -196,6 +197,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `render` | <img src="https://skills-icons.vercel.app/api/icons?i=render" /> | - |
 | `replit` | <img src="https://skills-icons.vercel.app/api/icons?i=replit" /> | - |
 | `rollupjs` | <img src="https://skills-icons.vercel.app/api/icons?i=rollupjs" /> | - |
+| `ruby` | <img src="https://skills-icons.vercel.app/api/icons?i=ruby" /> | - |
 | `rust` | <img src="https://skills-icons.vercel.app/api/icons?i=rust" /> | - |
 | `sanity` | <img src="https://skills-icons.vercel.app/api/icons?i=sanity" /> | - |
 | `sap` | <img src="https://skills-icons.vercel.app/api/icons?i=sap" /> | - |
@@ -205,6 +207,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `sentry` | <img src="https://skills-icons.vercel.app/api/icons?i=sentry" /> | - |
 | `shadcnui` | <img src="https://skills-icons.vercel.app/api/icons?i=shadcnui" /> | - |
 | `shopify` | <img src="https://skills-icons.vercel.app/api/icons?i=shopify" /> | - |
+| `signal` | <img src="https://skills-icons.vercel.app/api/icons?i=signal" /> | - |
 | `skeletonui` | <img src="https://skills-icons.vercel.app/api/icons?i=skeletonui" /> | - |
 | `snowflake` | <img src="https://skills-icons.vercel.app/api/icons?i=snowflake" /> | - |
 | `socketio` | <img src="https://skills-icons.vercel.app/api/icons?i=socketio" /> | - |
@@ -236,6 +239,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `umbraco` | <img src="https://skills-icons.vercel.app/api/icons?i=umbraco" /> | - |
 | `unity` | <img src="https://skills-icons.vercel.app/api/icons?i=unity" /> | - |
 | `unocss` | <img src="https://skills-icons.vercel.app/api/icons?i=unocss" /> | - |
+| `unrealengine` | <img src="https://skills-icons.vercel.app/api/icons?i=unrealengine" /> | - |
 | `vercel` | <img src="https://skills-icons.vercel.app/api/icons?i=vercel" /> | - |
 | `vim` | <img src="https://skills-icons.vercel.app/api/icons?i=vim" /> | - |
 | `virtualbox` | <img src="https://skills-icons.vercel.app/api/icons?i=virtualbox" /> | - |
