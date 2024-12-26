@@ -23,18 +23,20 @@ jobs:
           ICONS_TABLE=$(curl -s "https://skills-icons.vercel.app/api/icons/table")
           
           awk -v table="$ICONS_TABLE" '
-          /### Available Icons 🎨/{
-            print
-            print ""
-            print "Below is a complete list of available icons and their IDs. You can use either the full ID or its alias (if available) in the `i` parameter."
-            print ""
-            print table
-            print ""
-            found=1
+          /### Available Icons 🎨/,/### Contributing 🎖️/ {
+            if ($0 ~ /### Available Icons 🎨/) {
+              print $0
+              print ""
+              print "Below is a complete list of available icons and their IDs. You can use either the full ID or its alias (if available) in the `i` parameter."
+              print ""
+              print table
+              print ""
+            }
+            if ($0 ~ /### Contributing 🎖️/) {
+              print $0
+            }
             next
           }
-          found == 1 && NF == 0 { found=0; next }
-          found == 1 { next }
           { print }
           ' README.md > README.new
           
