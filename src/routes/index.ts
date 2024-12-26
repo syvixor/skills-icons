@@ -31,6 +31,14 @@ const short_names: Record<string, string> = {
     "wp": "wordpress"
 }
 
+const short_names_reverse: Record<string, string[]> = {};
+Object.entries(short_names).forEach(([short, full]) => {
+    if (!short_names_reverse[full]) {
+        short_names_reverse[full] = [];
+    }
+    short_names_reverse[full].push(short);
+});
+
 router.get("/icons", async (_req: Request, res: Response) => {
     const { i, perline } = _req.query
     if (i && typeof i === "string") {
@@ -77,39 +85,26 @@ router.get("/icons", async (_req: Request, res: Response) => {
     }
 });
 
-router.get("/icons/all", async (_req: Request, res: Response) => {
-    const { perline } = _req.query
+router.get("/icons/table", async (_req: Request, res: Response) => {
     const icons_dir = path.join(__dirname, "../../icons");
     try {
         const files = await fs.readdir(icons_dir);
         const svgs = files.filter(file => file.endsWith(".svg"));
-        const icons: string[] = [];
+
+        let table = "| Icon ID | Icon | Aliases |\n";
+        table += "|---------|------|----------|\n";
+
+        svgs.sort((a, b) => a.localeCompare(b));
+
         for (const file of svgs) {
-            const file_path = path.join(icons_dir, file);
-            const content = await fs.readFile(file_path, "utf-8");
-            icons.push(content);
+            const id = file.replace(".svg", "");
+            const aliases = short_names_reverse[id] ? short_names_reverse[id].join(", ") : "";
+            const alias = aliases ? `\`${aliases}\`` : "-";
+            table += `| \`${id}\` | <img src="https://skills-icons.vercel.app/api/icons?i=${id}" /> | ${alias} |\n`;
         }
-        if (icons.length === 0) {
-            return res.status(404).json({
-                status: res.statusCode,
-                message: "Not Found!",
-                hint: "Hmm... There's no valid icon."
-            });
-        } else {
-            let response
-            if (perline !== undefined) {
-                const perlineNumber = Number(perline);
-                if (!isNaN(perlineNumber) && perlineNumber > 0 && perlineNumber <= 15) {
-                    response = genSVG(icons, perlineNumber);
-                } else {
-                    response = genSVG(icons);
-                }
-            } else {
-                response = genSVG(icons);
-            }
-            res.setHeader("Content-Type", "image/svg+xml");
-            res.status(200).send(response);
-        }
+
+        res.setHeader("Content-Type", "text/markdown");
+        return res.status(200).send(table);
     } catch (error) {
         res.status(500).json({
             status: res.statusCode,

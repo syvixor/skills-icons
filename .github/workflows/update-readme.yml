@@ -1,0 +1,45 @@
+name: Update README
+
+on:
+  push:
+    paths:
+      - "icons/**"
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+        
+      - name: Update README
+        run: |
+          ICONS_TABLE=$(curl -s "https://skills-icons.vercel.app/api/icons/table")
+          
+          awk -v table="$ICONS_TABLE" '
+          /### Available Icons 🎨/{
+            print
+            print ""
+            print "Below is a complete list of available icons and their IDs. You can use either the full ID or its alias (if available) in the `i` parameter."
+            print ""
+            print table
+            print ""
+            found=1
+            next
+          }
+          found == 1 && NF == 0 { found=0; next }
+          found == 1 { next }
+          { print }
+          ' README.md > README.new
+          
+          mv README.new README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update icons table" && git push)
