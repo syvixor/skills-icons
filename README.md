@@ -1,9 +1,6 @@
 ## Skills Icons 💡
 Showcase skills in projects or profiles effortlessly ✨
 
-### Preview Example 🔎
-![Preview](https://files.catbox.moe/rmvy2t.png)
-
 ### Quick Start 🚀
 Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
 
