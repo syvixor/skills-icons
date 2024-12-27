@@ -42,6 +42,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `avaloniaui` | <img src="https://skills-icons.vercel.app/api/icons?i=avaloniaui" /> | - |
 | `azure` | <img src="https://skills-icons.vercel.app/api/icons?i=azure" /> | - |
 | `bash` | <img src="https://skills-icons.vercel.app/api/icons?i=bash" /> | - |
+| `biome` | <img src="https://skills-icons.vercel.app/api/icons?i=biome" /> | - |
 | `bluesky` | <img src="https://skills-icons.vercel.app/api/icons?i=bluesky" /> | - |
 | `bootstrap` | <img src="https://skills-icons.vercel.app/api/icons?i=bootstrap" /> | - |
 | `bugsnag` | <img src="https://skills-icons.vercel.app/api/icons?i=bugsnag" /> | - |
@@ -86,6 +87,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `emberjs` | <img src="https://skills-icons.vercel.app/api/icons?i=emberjs" /> | - |
 | `emelentplus` | <img src="https://skills-icons.vercel.app/api/icons?i=emelentplus" /> | - |
 | `erlang` | <img src="https://skills-icons.vercel.app/api/icons?i=erlang" /> | - |
+| `esbuild` | <img src="https://skills-icons.vercel.app/api/icons?i=esbuild" /> | - |
 | `eslint` | <img src="https://skills-icons.vercel.app/api/icons?i=eslint" /> | - |
 | `expo` | <img src="https://skills-icons.vercel.app/api/icons?i=expo" /> | - |
 | `expressjs` | <img src="https://skills-icons.vercel.app/api/icons?i=expressjs" /> | `express` |
@@ -171,6 +173,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `passportjs` | <img src="https://skills-icons.vercel.app/api/icons?i=passportjs" /> | `passport` |
 | `php` | <img src="https://skills-icons.vercel.app/api/icons?i=php" /> | - |
 | `pinia` | <img src="https://skills-icons.vercel.app/api/icons?i=pinia" /> | - |
+| `pkgroll` | <img src="https://skills-icons.vercel.app/api/icons?i=pkgroll" /> | - |
 | `plausible` | <img src="https://skills-icons.vercel.app/api/icons?i=plausible" /> | - |
 | `playwright` | <img src="https://skills-icons.vercel.app/api/icons?i=playwright" /> | - |
 | `pnpm` | <img src="https://skills-icons.vercel.app/api/icons?i=pnpm" /> | - |
@@ -183,6 +186,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `prometheus` | <img src="https://skills-icons.vercel.app/api/icons?i=prometheus" /> | - |
 | `proxmox` | <img src="https://skills-icons.vercel.app/api/icons?i=proxmox" /> | - |
 | `pug` | <img src="https://skills-icons.vercel.app/api/icons?i=pug" /> | - |
+| `puppeteer` | <img src="https://skills-icons.vercel.app/api/icons?i=puppeteer" /> | - |
 | `python` | <img src="https://skills-icons.vercel.app/api/icons?i=python" /> | - |
 | `qwik` | <img src="https://skills-icons.vercel.app/api/icons?i=qwik" /> | - |
 | `r` | <img src="https://skills-icons.vercel.app/api/icons?i=r" /> | - |
@@ -241,6 +245,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `unocss` | <img src="https://skills-icons.vercel.app/api/icons?i=unocss" /> | - |
 | `unrealengine` | <img src="https://skills-icons.vercel.app/api/icons?i=unrealengine" /> | - |
 | `vercel` | <img src="https://skills-icons.vercel.app/api/icons?i=vercel" /> | - |
+| `vike` | <img src="https://skills-icons.vercel.app/api/icons?i=vike" /> | - |
 | `vim` | <img src="https://skills-icons.vercel.app/api/icons?i=vim" /> | - |
 | `virtualbox` | <img src="https://skills-icons.vercel.app/api/icons?i=virtualbox" /> | - |
 | `vite` | <img src="https://skills-icons.vercel.app/api/icons?i=vite" /> | - |
