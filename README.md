@@ -22,249 +22,249 @@ Below is a complete list of available icons and their IDs. You can use either th
 
 | Icon ID | Icon | Aliases |
 |---------|------|----------|
-| `adonisjs` | <img src="https://skills-icons.vercel.app/api/icons?i=adonisjs" /> | `adonis` |
-| `airflow` | <img src="https://skills-icons.vercel.app/api/icons?i=airflow" /> | - |
-| `algolia` | <img src="https://skills-icons.vercel.app/api/icons?i=algolia" /> | - |
-| `amazonwebservices` | <img src="https://skills-icons.vercel.app/api/icons?i=amazonwebservices" /> | `aws` |
-| `androidstudio` | <img src="https://skills-icons.vercel.app/api/icons?i=androidstudio" /> | - |
-| `angularjs` | <img src="https://skills-icons.vercel.app/api/icons?i=angularjs" /> | `angular` |
-| `ansible` | <img src="https://skills-icons.vercel.app/api/icons?i=ansible" /> | - |
-| `apache` | <img src="https://skills-icons.vercel.app/api/icons?i=apache" /> | - |
-| `apollo` | <img src="https://skills-icons.vercel.app/api/icons?i=apollo" /> | - |
-| `appium` | <img src="https://skills-icons.vercel.app/api/icons?i=appium" /> | - |
-| `appwrite` | <img src="https://skills-icons.vercel.app/api/icons?i=appwrite" /> | - |
-| `archlinux` | <img src="https://skills-icons.vercel.app/api/icons?i=archlinux" /> | `arch` |
-| `arduino` | <img src="https://skills-icons.vercel.app/api/icons?i=arduino" /> | - |
-| `argocd` | <img src="https://skills-icons.vercel.app/api/icons?i=argocd" /> | - |
-| `aseprite` | <img src="https://skills-icons.vercel.app/api/icons?i=aseprite" /> | - |
-| `astro` | <img src="https://skills-icons.vercel.app/api/icons?i=astro" /> | - |
-| `atom` | <img src="https://skills-icons.vercel.app/api/icons?i=atom" /> | - |
-| `avaloniaui` | <img src="https://skills-icons.vercel.app/api/icons?i=avaloniaui" /> | - |
-| `azure` | <img src="https://skills-icons.vercel.app/api/icons?i=azure" /> | - |
-| `bash` | <img src="https://skills-icons.vercel.app/api/icons?i=bash" /> | - |
-| `biome` | <img src="https://skills-icons.vercel.app/api/icons?i=biome" /> | - |
-| `bluesky` | <img src="https://skills-icons.vercel.app/api/icons?i=bluesky" /> | - |
-| `bootstrap` | <img src="https://skills-icons.vercel.app/api/icons?i=bootstrap" /> | - |
-| `bugsnag` | <img src="https://skills-icons.vercel.app/api/icons?i=bugsnag" /> | - |
-| `bulma` | <img src="https://skills-icons.vercel.app/api/icons?i=bulma" /> | - |
-| `bun` | <img src="https://skills-icons.vercel.app/api/icons?i=bun" /> | - |
-| `c` | <img src="https://skills-icons.vercel.app/api/icons?i=c" /> | - |
-| `chakraui` | <img src="https://skills-icons.vercel.app/api/icons?i=chakraui" /> | - |
-| `chatgpt` | <img src="https://skills-icons.vercel.app/api/icons?i=chatgpt" /> | - |
-| `circleci` | <img src="https://skills-icons.vercel.app/api/icons?i=circleci" /> | - |
-| `claudeai` | <img src="https://skills-icons.vercel.app/api/icons?i=claudeai" /> | - |
-| `clerk` | <img src="https://skills-icons.vercel.app/api/icons?i=clerk" /> | - |
-| `cloudflare` | <img src="https://skills-icons.vercel.app/api/icons?i=cloudflare" /> | - |
-| `codepen` | <img src="https://skills-icons.vercel.app/api/icons?i=codepen" /> | - |
-| `coolify` | <img src="https://skills-icons.vercel.app/api/icons?i=coolify" /> | - |
-| `cpp` | <img src="https://skills-icons.vercel.app/api/icons?i=cpp" /> | - |
-| `csharp` | <img src="https://skills-icons.vercel.app/api/icons?i=csharp" /> | - |
-| `css` | <img src="https://skills-icons.vercel.app/api/icons?i=css" /> | - |
-| `cypress` | <img src="https://skills-icons.vercel.app/api/icons?i=cypress" /> | - |
-| `daisyui` | <img src="https://skills-icons.vercel.app/api/icons?i=daisyui" /> | - |
-| `dart` | <img src="https://skills-icons.vercel.app/api/icons?i=dart" /> | - |
-| `databricks` | <img src="https://skills-icons.vercel.app/api/icons?i=databricks" /> | - |
-| `dbeaver` | <img src="https://skills-icons.vercel.app/api/icons?i=dbeaver" /> | - |
-| `dbt` | <img src="https://skills-icons.vercel.app/api/icons?i=dbt" /> | - |
-| `debian` | <img src="https://skills-icons.vercel.app/api/icons?i=debian" /> | - |
-| `deno` | <img src="https://skills-icons.vercel.app/api/icons?i=deno" /> | - |
-| `digitalocean` | <img src="https://skills-icons.vercel.app/api/icons?i=digitalocean" /> | - |
-| `directus` | <img src="https://skills-icons.vercel.app/api/icons?i=directus" /> | - |
-| `discord` | <img src="https://skills-icons.vercel.app/api/icons?i=discord" /> | - |
-| `discordjs` | <img src="https://skills-icons.vercel.app/api/icons?i=discordjs" /> | - |
-| `django` | <img src="https://skills-icons.vercel.app/api/icons?i=django" /> | - |
-| `djangorestframework` | <img src="https://skills-icons.vercel.app/api/icons?i=djangorestframework" /> | `drf` |
-| `docker` | <img src="https://skills-icons.vercel.app/api/icons?i=docker" /> | - |
-| `dotnet` | <img src="https://skills-icons.vercel.app/api/icons?i=dotnet" /> | - |
-| `drizzle` | <img src="https://skills-icons.vercel.app/api/icons?i=drizzle" /> | - |
-| `dropbox` | <img src="https://skills-icons.vercel.app/api/icons?i=dropbox" /> | - |
-| `drupal` | <img src="https://skills-icons.vercel.app/api/icons?i=drupal" /> | - |
-| `duckdb` | <img src="https://skills-icons.vercel.app/api/icons?i=duckdb" /> | - |
-| `elasticsearch` | <img src="https://skills-icons.vercel.app/api/icons?i=elasticsearch" /> | `es` |
-| `electron` | <img src="https://skills-icons.vercel.app/api/icons?i=electron" /> | - |
-| `elixir` | <img src="https://skills-icons.vercel.app/api/icons?i=elixir" /> | - |
-| `elysiajs` | <img src="https://skills-icons.vercel.app/api/icons?i=elysiajs" /> | `elysia` |
-| `emberjs` | <img src="https://skills-icons.vercel.app/api/icons?i=emberjs" /> | - |
-| `emelentplus` | <img src="https://skills-icons.vercel.app/api/icons?i=emelentplus" /> | - |
-| `erlang` | <img src="https://skills-icons.vercel.app/api/icons?i=erlang" /> | - |
-| `esbuild` | <img src="https://skills-icons.vercel.app/api/icons?i=esbuild" /> | - |
-| `eslint` | <img src="https://skills-icons.vercel.app/api/icons?i=eslint" /> | - |
-| `expo` | <img src="https://skills-icons.vercel.app/api/icons?i=expo" /> | - |
-| `expressjs` | <img src="https://skills-icons.vercel.app/api/icons?i=expressjs" /> | `express` |
-| `facebook` | <img src="https://skills-icons.vercel.app/api/icons?i=facebook" /> | `fb` |
-| `fastapi` | <img src="https://skills-icons.vercel.app/api/icons?i=fastapi" /> | - |
-| `figma` | <img src="https://skills-icons.vercel.app/api/icons?i=figma" /> | - |
-| `firebase` | <img src="https://skills-icons.vercel.app/api/icons?i=firebase" /> | - |
-| `flask` | <img src="https://skills-icons.vercel.app/api/icons?i=flask" /> | - |
-| `flutter` | <img src="https://skills-icons.vercel.app/api/icons?i=flutter" /> | - |
-| `flutterflow` | <img src="https://skills-icons.vercel.app/api/icons?i=flutterflow" /> | - |
-| `framer` | <img src="https://skills-icons.vercel.app/api/icons?i=framer" /> | - |
-| `gimp` | <img src="https://skills-icons.vercel.app/api/icons?i=gimp" /> | - |
-| `git` | <img src="https://skills-icons.vercel.app/api/icons?i=git" /> | - |
-| `github` | <img src="https://skills-icons.vercel.app/api/icons?i=github" /> | - |
-| `gitkraken` | <img src="https://skills-icons.vercel.app/api/icons?i=gitkraken" /> | - |
-| `gitlab` | <img src="https://skills-icons.vercel.app/api/icons?i=gitlab" /> | - |
-| `gitmind` | <img src="https://skills-icons.vercel.app/api/icons?i=gitmind" /> | - |
-| `gleam` | <img src="https://skills-icons.vercel.app/api/icons?i=gleam" /> | - |
-| `godot` | <img src="https://skills-icons.vercel.app/api/icons?i=godot" /> | - |
-| `golang` | <img src="https://skills-icons.vercel.app/api/icons?i=golang" /> | `go` |
-| `googlecloud` | <img src="https://skills-icons.vercel.app/api/icons?i=googlecloud" /> | `gcloud` |
-| `gradle` | <img src="https://skills-icons.vercel.app/api/icons?i=gradle" /> | - |
-| `grafana` | <img src="https://skills-icons.vercel.app/api/icons?i=grafana" /> | - |
-| `graphql` | <img src="https://skills-icons.vercel.app/api/icons?i=graphql" /> | - |
-| `headlessui` | <img src="https://skills-icons.vercel.app/api/icons?i=headlessui" /> | - |
-| `heroku` | <img src="https://skills-icons.vercel.app/api/icons?i=heroku" /> | - |
-| `hono` | <img src="https://skills-icons.vercel.app/api/icons?i=hono" /> | - |
-| `html` | <img src="https://skills-icons.vercel.app/api/icons?i=html" /> | - |
-| `iceberg` | <img src="https://skills-icons.vercel.app/api/icons?i=iceberg" /> | - |
-| `insomnia` | <img src="https://skills-icons.vercel.app/api/icons?i=insomnia" /> | - |
-| `instagram` | <img src="https://skills-icons.vercel.app/api/icons?i=instagram" /> | `ig` |
-| `ionic` | <img src="https://skills-icons.vercel.app/api/icons?i=ionic" /> | - |
-| `java` | <img src="https://skills-icons.vercel.app/api/icons?i=java" /> | - |
-| `javascript` | <img src="https://skills-icons.vercel.app/api/icons?i=javascript" /> | `js` |
-| `jenkins` | <img src="https://skills-icons.vercel.app/api/icons?i=jenkins" /> | - |
-| `jest` | <img src="https://skills-icons.vercel.app/api/icons?i=jest" /> | - |
-| `joomla` | <img src="https://skills-icons.vercel.app/api/icons?i=joomla" /> | - |
-| `jquery` | <img src="https://skills-icons.vercel.app/api/icons?i=jquery" /> | - |
-| `json` | <img src="https://skills-icons.vercel.app/api/icons?i=json" /> | - |
-| `julia` | <img src="https://skills-icons.vercel.app/api/icons?i=julia" /> | - |
-| `jupyter` | <img src="https://skills-icons.vercel.app/api/icons?i=jupyter" /> | - |
-| `jwt` | <img src="https://skills-icons.vercel.app/api/icons?i=jwt" /> | - |
-| `kafka` | <img src="https://skills-icons.vercel.app/api/icons?i=kafka" /> | - |
-| `kotlin` | <img src="https://skills-icons.vercel.app/api/icons?i=kotlin" /> | - |
-| `kubernetes` | <img src="https://skills-icons.vercel.app/api/icons?i=kubernetes" /> | - |
-| `laravel` | <img src="https://skills-icons.vercel.app/api/icons?i=laravel" /> | - |
-| `latex` | <img src="https://skills-icons.vercel.app/api/icons?i=latex" /> | - |
-| `linkedin` | <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" /> | - |
-| `linux` | <img src="https://skills-icons.vercel.app/api/icons?i=linux" /> | - |
-| `linuxmint` | <img src="https://skills-icons.vercel.app/api/icons?i=linuxmint" /> | - |
-| `logto` | <img src="https://skills-icons.vercel.app/api/icons?i=logto" /> | - |
-| `lua` | <img src="https://skills-icons.vercel.app/api/icons?i=lua" /> | - |
-| `lucia` | <img src="https://skills-icons.vercel.app/api/icons?i=lucia" /> | - |
-| `lucide` | <img src="https://skills-icons.vercel.app/api/icons?i=lucide" /> | - |
-| `mambaui` | <img src="https://skills-icons.vercel.app/api/icons?i=mambaui" /> | - |
-| `manjaro` | <img src="https://skills-icons.vercel.app/api/icons?i=manjaro" /> | - |
-| `mapbox` | <img src="https://skills-icons.vercel.app/api/icons?i=mapbox" /> | - |
-| `mariadb` | <img src="https://skills-icons.vercel.app/api/icons?i=mariadb" /> | - |
-| `markdown` | <img src="https://skills-icons.vercel.app/api/icons?i=markdown" /> | - |
-| `materialui` | <img src="https://skills-icons.vercel.app/api/icons?i=materialui" /> | - |
-| `matlab` | <img src="https://skills-icons.vercel.app/api/icons?i=matlab" /> | - |
-| `maven` | <img src="https://skills-icons.vercel.app/api/icons?i=maven" /> | - |
-| `mermaid` | <img src="https://skills-icons.vercel.app/api/icons?i=mermaid" /> | - |
-| `metasploit` | <img src="https://skills-icons.vercel.app/api/icons?i=metasploit" /> | - |
-| `milligram` | <img src="https://skills-icons.vercel.app/api/icons?i=milligram" /> | - |
-| `mongodb` | <img src="https://skills-icons.vercel.app/api/icons?i=mongodb" /> | `mongo` |
-| `mysql` | <img src="https://skills-icons.vercel.app/api/icons?i=mysql" /> | - |
-| `neo4j` | <img src="https://skills-icons.vercel.app/api/icons?i=neo4j" /> | - |
-| `neovim` | <img src="https://skills-icons.vercel.app/api/icons?i=neovim" /> | - |
-| `nestjs` | <img src="https://skills-icons.vercel.app/api/icons?i=nestjs" /> | - |
-| `netlify` | <img src="https://skills-icons.vercel.app/api/icons?i=netlify" /> | - |
-| `nextjs` | <img src="https://skills-icons.vercel.app/api/icons?i=nextjs" /> | - |
-| `nextui` | <img src="https://skills-icons.vercel.app/api/icons?i=nextui" /> | - |
-| `nginx` | <img src="https://skills-icons.vercel.app/api/icons?i=nginx" /> | - |
-| `ngrok` | <img src="https://skills-icons.vercel.app/api/icons?i=ngrok" /> | - |
-| `nitro` | <img src="https://skills-icons.vercel.app/api/icons?i=nitro" /> | - |
-| `nixos` | <img src="https://skills-icons.vercel.app/api/icons?i=nixos" /> | - |
-| `nodejs` | <img src="https://skills-icons.vercel.app/api/icons?i=nodejs" /> | `node` |
-| `notion` | <img src="https://skills-icons.vercel.app/api/icons?i=notion" /> | - |
-| `npm` | <img src="https://skills-icons.vercel.app/api/icons?i=npm" /> | - |
-| `nuxtjs` | <img src="https://skills-icons.vercel.app/api/icons?i=nuxtjs" /> | `nuxt` |
-| `obsidian` | <img src="https://skills-icons.vercel.app/api/icons?i=obsidian" /> | - |
-| `passportjs` | <img src="https://skills-icons.vercel.app/api/icons?i=passportjs" /> | `passport` |
-| `php` | <img src="https://skills-icons.vercel.app/api/icons?i=php" /> | - |
-| `pinia` | <img src="https://skills-icons.vercel.app/api/icons?i=pinia" /> | - |
-| `pkgroll` | <img src="https://skills-icons.vercel.app/api/icons?i=pkgroll" /> | - |
-| `plausible` | <img src="https://skills-icons.vercel.app/api/icons?i=plausible" /> | - |
-| `playwright` | <img src="https://skills-icons.vercel.app/api/icons?i=playwright" /> | - |
-| `pnpm` | <img src="https://skills-icons.vercel.app/api/icons?i=pnpm" /> | - |
-| `pocketbase` | <img src="https://skills-icons.vercel.app/api/icons?i=pocketbase" /> | `pb` |
-| `postgresql` | <img src="https://skills-icons.vercel.app/api/icons?i=postgresql" /> | - |
-| `postman` | <img src="https://skills-icons.vercel.app/api/icons?i=postman" /> | - |
-| `primevue` | <img src="https://skills-icons.vercel.app/api/icons?i=primevue" /> | - |
-| `prisma` | <img src="https://skills-icons.vercel.app/api/icons?i=prisma" /> | - |
-| `prismic` | <img src="https://skills-icons.vercel.app/api/icons?i=prismic" /> | - |
-| `prometheus` | <img src="https://skills-icons.vercel.app/api/icons?i=prometheus" /> | - |
-| `proxmox` | <img src="https://skills-icons.vercel.app/api/icons?i=proxmox" /> | - |
-| `pug` | <img src="https://skills-icons.vercel.app/api/icons?i=pug" /> | - |
-| `puppeteer` | <img src="https://skills-icons.vercel.app/api/icons?i=puppeteer" /> | - |
-| `python` | <img src="https://skills-icons.vercel.app/api/icons?i=python" /> | - |
-| `qwik` | <img src="https://skills-icons.vercel.app/api/icons?i=qwik" /> | - |
-| `r` | <img src="https://skills-icons.vercel.app/api/icons?i=r" /> | - |
-| `rabbitmq` | <img src="https://skills-icons.vercel.app/api/icons?i=rabbitmq" /> | - |
-| `radixui` | <img src="https://skills-icons.vercel.app/api/icons?i=radixui" /> | - |
-| `railway` | <img src="https://skills-icons.vercel.app/api/icons?i=railway" /> | - |
-| `raspberrypi` | <img src="https://skills-icons.vercel.app/api/icons?i=raspberrypi" /> | - |
-| `reactjs` | <img src="https://skills-icons.vercel.app/api/icons?i=reactjs" /> | `react` |
-| `redis` | <img src="https://skills-icons.vercel.app/api/icons?i=redis" /> | - |
-| `redux` | <img src="https://skills-icons.vercel.app/api/icons?i=redux" /> | - |
-| `rekaui` | <img src="https://skills-icons.vercel.app/api/icons?i=rekaui" /> | - |
-| `render` | <img src="https://skills-icons.vercel.app/api/icons?i=render" /> | - |
-| `replit` | <img src="https://skills-icons.vercel.app/api/icons?i=replit" /> | - |
-| `rollupjs` | <img src="https://skills-icons.vercel.app/api/icons?i=rollupjs" /> | - |
-| `ruby` | <img src="https://skills-icons.vercel.app/api/icons?i=ruby" /> | - |
-| `rust` | <img src="https://skills-icons.vercel.app/api/icons?i=rust" /> | - |
-| `sanity` | <img src="https://skills-icons.vercel.app/api/icons?i=sanity" /> | - |
-| `sap` | <img src="https://skills-icons.vercel.app/api/icons?i=sap" /> | - |
-| `sass` | <img src="https://skills-icons.vercel.app/api/icons?i=sass" /> | - |
-| `scala` | <img src="https://skills-icons.vercel.app/api/icons?i=scala" /> | - |
-| `semanticui` | <img src="https://skills-icons.vercel.app/api/icons?i=semanticui" /> | - |
-| `sentry` | <img src="https://skills-icons.vercel.app/api/icons?i=sentry" /> | - |
-| `shadcnui` | <img src="https://skills-icons.vercel.app/api/icons?i=shadcnui" /> | - |
-| `shopify` | <img src="https://skills-icons.vercel.app/api/icons?i=shopify" /> | - |
-| `signal` | <img src="https://skills-icons.vercel.app/api/icons?i=signal" /> | - |
-| `skeletonui` | <img src="https://skills-icons.vercel.app/api/icons?i=skeletonui" /> | - |
-| `snowflake` | <img src="https://skills-icons.vercel.app/api/icons?i=snowflake" /> | - |
-| `socketio` | <img src="https://skills-icons.vercel.app/api/icons?i=socketio" /> | - |
-| `solidjs` | <img src="https://skills-icons.vercel.app/api/icons?i=solidjs" /> | `solid` |
-| `spark` | <img src="https://skills-icons.vercel.app/api/icons?i=spark" /> | - |
-| `sqlite` | <img src="https://skills-icons.vercel.app/api/icons?i=sqlite" /> | - |
-| `storyblok` | <img src="https://skills-icons.vercel.app/api/icons?i=storyblok" /> | - |
-| `storybook` | <img src="https://skills-icons.vercel.app/api/icons?i=storybook" /> | - |
-| `strapi` | <img src="https://skills-icons.vercel.app/api/icons?i=strapi" /> | - |
-| `streamlit` | <img src="https://skills-icons.vercel.app/api/icons?i=streamlit" /> | - |
-| `sublime` | <img src="https://skills-icons.vercel.app/api/icons?i=sublime" /> | - |
-| `supabase` | <img src="https://skills-icons.vercel.app/api/icons?i=supabase" /> | - |
-| `surrealdb` | <img src="https://skills-icons.vercel.app/api/icons?i=surrealdb" /> | - |
-| `svelte` | <img src="https://skills-icons.vercel.app/api/icons?i=svelte" /> | - |
-| `swagger` | <img src="https://skills-icons.vercel.app/api/icons?i=swagger" /> | - |
-| `swift` | <img src="https://skills-icons.vercel.app/api/icons?i=swift" /> | - |
-| `swiper` | <img src="https://skills-icons.vercel.app/api/icons?i=swiper" /> | - |
-| `t0ggles` | <img src="https://skills-icons.vercel.app/api/icons?i=t0ggles" /> | - |
-| `tailwindcss` | <img src="https://skills-icons.vercel.app/api/icons?i=tailwindcss" /> | `tailwind` |
-| `tauri` | <img src="https://skills-icons.vercel.app/api/icons?i=tauri" /> | - |
-| `telegram` | <img src="https://skills-icons.vercel.app/api/icons?i=telegram" /> | - |
-| `terraform` | <img src="https://skills-icons.vercel.app/api/icons?i=terraform" /> | - |
-| `threejs` | <img src="https://skills-icons.vercel.app/api/icons?i=threejs" /> | - |
-| `turso` | <img src="https://skills-icons.vercel.app/api/icons?i=turso" /> | - |
-| `twilio` | <img src="https://skills-icons.vercel.app/api/icons?i=twilio" /> | - |
-| `twitter` | <img src="https://skills-icons.vercel.app/api/icons?i=twitter" /> | - |
-| `typescript` | <img src="https://skills-icons.vercel.app/api/icons?i=typescript" /> | `ts` |
-| `ubuntu` | <img src="https://skills-icons.vercel.app/api/icons?i=ubuntu" /> | - |
-| `umbraco` | <img src="https://skills-icons.vercel.app/api/icons?i=umbraco" /> | - |
-| `unity` | <img src="https://skills-icons.vercel.app/api/icons?i=unity" /> | - |
-| `unocss` | <img src="https://skills-icons.vercel.app/api/icons?i=unocss" /> | - |
-| `unrealengine` | <img src="https://skills-icons.vercel.app/api/icons?i=unrealengine" /> | - |
-| `vercel` | <img src="https://skills-icons.vercel.app/api/icons?i=vercel" /> | - |
-| `vike` | <img src="https://skills-icons.vercel.app/api/icons?i=vike" /> | - |
-| `vim` | <img src="https://skills-icons.vercel.app/api/icons?i=vim" /> | - |
-| `virtualbox` | <img src="https://skills-icons.vercel.app/api/icons?i=virtualbox" /> | - |
-| `vite` | <img src="https://skills-icons.vercel.app/api/icons?i=vite" /> | - |
-| `vitest` | <img src="https://skills-icons.vercel.app/api/icons?i=vitest" /> | - |
-| `vmware` | <img src="https://skills-icons.vercel.app/api/icons?i=vmware" /> | - |
-| `vscode` | <img src="https://skills-icons.vercel.app/api/icons?i=vscode" /> | - |
-| `vuefire` | <img src="https://skills-icons.vercel.app/api/icons?i=vuefire" /> | - |
-| `vuejs` | <img src="https://skills-icons.vercel.app/api/icons?i=vuejs" /> | `vue` |
-| `vuetify` | <img src="https://skills-icons.vercel.app/api/icons?i=vuetify" /> | - |
-| `vueuse` | <img src="https://skills-icons.vercel.app/api/icons?i=vueuse" /> | - |
-| `whatsapp` | <img src="https://skills-icons.vercel.app/api/icons?i=whatsapp" /> | - |
-| `windicss` | <img src="https://skills-icons.vercel.app/api/icons?i=windicss" /> | - |
-| `windows` | <img src="https://skills-icons.vercel.app/api/icons?i=windows" /> | - |
-| `wordpress` | <img src="https://skills-icons.vercel.app/api/icons?i=wordpress" /> | `wp` |
-| `x` | <img src="https://skills-icons.vercel.app/api/icons?i=x" /> | - |
-| `xampp` | <img src="https://skills-icons.vercel.app/api/icons?i=xampp" /> | - |
-| `yarn` | <img src="https://skills-icons.vercel.app/api/icons?i=yarn" /> | - |
-| `zod` | <img src="https://skills-icons.vercel.app/api/icons?i=zod" /> | - |
-| `zorinos` | <img src="https://skills-icons.vercel.app/api/icons?i=zorinos" /> | - |
+| `adonisjs` | <img src="./icons/adonisjs.svg" width="48" /> | `adonis` |
+| `airflow` | <img src="./icons/airflow.svg" width="48" /> | - |
+| `algolia` | <img src="./icons/algolia.svg" width="48" /> | - |
+| `amazonwebservices` | <img src="./icons/amazonwebservices.svg" width="48" /> | `aws` |
+| `androidstudio` | <img src="./icons/androidstudio.svg" width="48" /> | - |
+| `angularjs` | <img src="./icons/angularjs.svg" width="48" /> | `angular` |
+| `ansible` | <img src="./icons/ansible.svg" width="48" /> | - |
+| `apache` | <img src="./icons/apache.svg" width="48" /> | - |
+| `apollo` | <img src="./icons/apollo.svg" width="48" /> | - |
+| `appium` | <img src="./icons/appium.svg" width="48" /> | - |
+| `appwrite` | <img src="./icons/appwrite.svg" width="48" /> | - |
+| `archlinux` | <img src="./icons/archlinux.svg" width="48" /> | `arch` |
+| `arduino` | <img src="./icons/arduino.svg" width="48" /> | - |
+| `argocd` | <img src="./icons/argocd.svg" width="48" /> | - |
+| `aseprite` | <img src="./icons/aseprite.svg" width="48" /> | - |
+| `astro` | <img src="./icons/astro.svg" width="48" /> | - |
+| `atom` | <img src="./icons/atom.svg" width="48" /> | - |
+| `avaloniaui` | <img src="./icons/avaloniaui.svg" width="48" /> | - |
+| `azure` | <img src="./icons/azure.svg" width="48" /> | - |
+| `bash` | <img src="./icons/bash.svg" width="48" /> | - |
+| `biome` | <img src="./icons/biome.svg" width="48" /> | - |
+| `bluesky` | <img src="./icons/bluesky.svg" width="48" /> | - |
+| `bootstrap` | <img src="./icons/bootstrap.svg" width="48" /> | - |
+| `bugsnag` | <img src="./icons/bugsnag.svg" width="48" /> | - |
+| `bulma` | <img src="./icons/bulma.svg" width="48" /> | - |
+| `bun` | <img src="./icons/bun.svg" width="48" /> | - |
+| `c` | <img src="./icons/c.svg" width="48" /> | - |
+| `chakraui` | <img src="./icons/chakraui.svg" width="48" /> | - |
+| `chatgpt` | <img src="./icons/chatgpt.svg" width="48" /> | - |
+| `circleci` | <img src="./icons/circleci.svg" width="48" /> | - |
+| `claudeai` | <img src="./icons/claudeai.svg" width="48" /> | - |
+| `clerk` | <img src="./icons/clerk.svg" width="48" /> | - |
+| `cloudflare` | <img src="./icons/cloudflare.svg" width="48" /> | - |
+| `codepen` | <img src="./icons/codepen.svg" width="48" /> | - |
+| `coolify` | <img src="./icons/coolify.svg" width="48" /> | - |
+| `cpp` | <img src="./icons/cpp.svg" width="48" /> | - |
+| `csharp` | <img src="./icons/csharp.svg" width="48" /> | - |
+| `css` | <img src="./icons/css.svg" width="48" /> | - |
+| `cypress` | <img src="./icons/cypress.svg" width="48" /> | - |
+| `daisyui` | <img src="./icons/daisyui.svg" width="48" /> | - |
+| `dart` | <img src="./icons/dart.svg" width="48" /> | - |
+| `databricks` | <img src="./icons/databricks.svg" width="48" /> | - |
+| `dbeaver` | <img src="./icons/dbeaver.svg" width="48" /> | - |
+| `dbt` | <img src="./icons/dbt.svg" width="48" /> | - |
+| `debian` | <img src="./icons/debian.svg" width="48" /> | - |
+| `deno` | <img src="./icons/deno.svg" width="48" /> | - |
+| `digitalocean` | <img src="./icons/digitalocean.svg" width="48" /> | - |
+| `directus` | <img src="./icons/directus.svg" width="48" /> | - |
+| `discord` | <img src="./icons/discord.svg" width="48" /> | - |
+| `discordjs` | <img src="./icons/discordjs.svg" width="48" /> | - |
+| `django` | <img src="./icons/django.svg" width="48" /> | - |
+| `djangorestframework` | <img src="./icons/djangorestframework.svg" width="48" /> | `drf` |
+| `docker` | <img src="./icons/docker.svg" width="48" /> | - |
+| `dotnet` | <img src="./icons/dotnet.svg" width="48" /> | - |
+| `drizzle` | <img src="./icons/drizzle.svg" width="48" /> | - |
+| `dropbox` | <img src="./icons/dropbox.svg" width="48" /> | - |
+| `drupal` | <img src="./icons/drupal.svg" width="48" /> | - |
+| `duckdb` | <img src="./icons/duckdb.svg" width="48" /> | - |
+| `elasticsearch` | <img src="./icons/elasticsearch.svg" width="48" /> | `es` |
+| `electron` | <img src="./icons/electron.svg" width="48" /> | - |
+| `elixir` | <img src="./icons/elixir.svg" width="48" /> | - |
+| `elysiajs` | <img src="./icons/elysiajs.svg" width="48" /> | `elysia` |
+| `emberjs` | <img src="./icons/emberjs.svg" width="48" /> | - |
+| `emelentplus` | <img src="./icons/emelentplus.svg" width="48" /> | - |
+| `erlang` | <img src="./icons/erlang.svg" width="48" /> | - |
+| `esbuild` | <img src="./icons/esbuild.svg" width="48" /> | - |
+| `eslint` | <img src="./icons/eslint.svg" width="48" /> | - |
+| `expo` | <img src="./icons/expo.svg" width="48" /> | - |
+| `expressjs` | <img src="./icons/expressjs.svg" width="48" /> | `express` |
+| `facebook` | <img src="./icons/facebook.svg" width="48" /> | `fb` |
+| `fastapi` | <img src="./icons/fastapi.svg" width="48" /> | - |
+| `figma` | <img src="./icons/figma.svg" width="48" /> | - |
+| `firebase` | <img src="./icons/firebase.svg" width="48" /> | - |
+| `flask` | <img src="./icons/flask.svg" width="48" /> | - |
+| `flutter` | <img src="./icons/flutter.svg" width="48" /> | - |
+| `flutterflow` | <img src="./icons/flutterflow.svg" width="48" /> | - |
+| `framer` | <img src="./icons/framer.svg" width="48" /> | - |
+| `gimp` | <img src="./icons/gimp.svg" width="48" /> | - |
+| `git` | <img src="./icons/git.svg" width="48" /> | - |
+| `github` | <img src="./icons/github.svg" width="48" /> | - |
+| `gitkraken` | <img src="./icons/gitkraken.svg" width="48" /> | - |
+| `gitlab` | <img src="./icons/gitlab.svg" width="48" /> | - |
+| `gitmind` | <img src="./icons/gitmind.svg" width="48" /> | - |
+| `gleam` | <img src="./icons/gleam.svg" width="48" /> | - |
+| `godot` | <img src="./icons/godot.svg" width="48" /> | - |
+| `golang` | <img src="./icons/golang.svg" width="48" /> | `go` |
+| `googlecloud` | <img src="./icons/googlecloud.svg" width="48" /> | `gcloud` |
+| `gradle` | <img src="./icons/gradle.svg" width="48" /> | - |
+| `grafana` | <img src="./icons/grafana.svg" width="48" /> | - |
+| `graphql` | <img src="./icons/graphql.svg" width="48" /> | - |
+| `headlessui` | <img src="./icons/headlessui.svg" width="48" /> | - |
+| `heroku` | <img src="./icons/heroku.svg" width="48" /> | - |
+| `hono` | <img src="./icons/hono.svg" width="48" /> | - |
+| `html` | <img src="./icons/html.svg" width="48" /> | - |
+| `iceberg` | <img src="./icons/iceberg.svg" width="48" /> | - |
+| `insomnia` | <img src="./icons/insomnia.svg" width="48" /> | - |
+| `instagram` | <img src="./icons/instagram.svg" width="48" /> | `ig` |
+| `ionic` | <img src="./icons/ionic.svg" width="48" /> | - |
+| `java` | <img src="./icons/java.svg" width="48" /> | - |
+| `javascript` | <img src="./icons/javascript.svg" width="48" /> | `js` |
+| `jenkins` | <img src="./icons/jenkins.svg" width="48" /> | - |
+| `jest` | <img src="./icons/jest.svg" width="48" /> | - |
+| `joomla` | <img src="./icons/joomla.svg" width="48" /> | - |
+| `jquery` | <img src="./icons/jquery.svg" width="48" /> | - |
+| `json` | <img src="./icons/json.svg" width="48" /> | - |
+| `julia` | <img src="./icons/julia.svg" width="48" /> | - |
+| `jupyter` | <img src="./icons/jupyter.svg" width="48" /> | - |
+| `jwt` | <img src="./icons/jwt.svg" width="48" /> | - |
+| `kafka` | <img src="./icons/kafka.svg" width="48" /> | - |
+| `kotlin` | <img src="./icons/kotlin.svg" width="48" /> | - |
+| `kubernetes` | <img src="./icons/kubernetes.svg" width="48" /> | - |
+| `laravel` | <img src="./icons/laravel.svg" width="48" /> | - |
+| `latex` | <img src="./icons/latex.svg" width="48" /> | - |
+| `linkedin` | <img src="./icons/linkedin.svg" width="48" /> | - |
+| `linux` | <img src="./icons/linux.svg" width="48" /> | - |
+| `linuxmint` | <img src="./icons/linuxmint.svg" width="48" /> | - |
+| `logto` | <img src="./icons/logto.svg" width="48" /> | - |
+| `lua` | <img src="./icons/lua.svg" width="48" /> | - |
+| `lucia` | <img src="./icons/lucia.svg" width="48" /> | - |
+| `lucide` | <img src="./icons/lucide.svg" width="48" /> | - |
+| `mambaui` | <img src="./icons/mambaui.svg" width="48" /> | - |
+| `manjaro` | <img src="./icons/manjaro.svg" width="48" /> | - |
+| `mapbox` | <img src="./icons/mapbox.svg" width="48" /> | - |
+| `mariadb` | <img src="./icons/mariadb.svg" width="48" /> | - |
+| `markdown` | <img src="./icons/markdown.svg" width="48" /> | - |
+| `materialui` | <img src="./icons/materialui.svg" width="48" /> | - |
+| `matlab` | <img src="./icons/matlab.svg" width="48" /> | - |
+| `maven` | <img src="./icons/maven.svg" width="48" /> | - |
+| `mermaid` | <img src="./icons/mermaid.svg" width="48" /> | - |
+| `metasploit` | <img src="./icons/metasploit.svg" width="48" /> | - |
+| `milligram` | <img src="./icons/milligram.svg" width="48" /> | - |
+| `mongodb` | <img src="./icons/mongodb.svg" width="48" /> | `mongo` |
+| `mysql` | <img src="./icons/mysql.svg" width="48" /> | - |
+| `neo4j` | <img src="./icons/neo4j.svg" width="48" /> | - |
+| `neovim` | <img src="./icons/neovim.svg" width="48" /> | - |
+| `nestjs` | <img src="./icons/nestjs.svg" width="48" /> | - |
+| `netlify` | <img src="./icons/netlify.svg" width="48" /> | - |
+| `nextjs` | <img src="./icons/nextjs.svg" width="48" /> | - |
+| `nextui` | <img src="./icons/nextui.svg" width="48" /> | - |
+| `nginx` | <img src="./icons/nginx.svg" width="48" /> | - |
+| `ngrok` | <img src="./icons/ngrok.svg" width="48" /> | - |
+| `nitro` | <img src="./icons/nitro.svg" width="48" /> | - |
+| `nixos` | <img src="./icons/nixos.svg" width="48" /> | - |
+| `nodejs` | <img src="./icons/nodejs.svg" width="48" /> | `node` |
+| `notion` | <img src="./icons/notion.svg" width="48" /> | - |
+| `npm` | <img src="./icons/npm.svg" width="48" /> | - |
+| `nuxtjs` | <img src="./icons/nuxtjs.svg" width="48" /> | `nuxt` |
+| `obsidian` | <img src="./icons/obsidian.svg" width="48" /> | - |
+| `passportjs` | <img src="./icons/passportjs.svg" width="48" /> | `passport` |
+| `php` | <img src="./icons/php.svg" width="48" /> | - |
+| `pinia` | <img src="./icons/pinia.svg" width="48" /> | - |
+| `pkgroll` | <img src="./icons/pkgroll.svg" width="48" /> | - |
+| `plausible` | <img src="./icons/plausible.svg" width="48" /> | - |
+| `playwright` | <img src="./icons/playwright.svg" width="48" /> | - |
+| `pnpm` | <img src="./icons/pnpm.svg" width="48" /> | - |
+| `pocketbase` | <img src="./icons/pocketbase.svg" width="48" /> | `pb` |
+| `postgresql` | <img src="./icons/postgresql.svg" width="48" /> | - |
+| `postman` | <img src="./icons/postman.svg" width="48" /> | - |
+| `primevue` | <img src="./icons/primevue.svg" width="48" /> | - |
+| `prisma` | <img src="./icons/prisma.svg" width="48" /> | - |
+| `prismic` | <img src="./icons/prismic.svg" width="48" /> | - |
+| `prometheus` | <img src="./icons/prometheus.svg" width="48" /> | - |
+| `proxmox` | <img src="./icons/proxmox.svg" width="48" /> | - |
+| `pug` | <img src="./icons/pug.svg" width="48" /> | - |
+| `puppeteer` | <img src="./icons/puppeteer.svg" width="48" /> | - |
+| `python` | <img src="./icons/python.svg" width="48" /> | - |
+| `qwik` | <img src="./icons/qwik.svg" width="48" /> | - |
+| `r` | <img src="./icons/r.svg" width="48" /> | - |
+| `rabbitmq` | <img src="./icons/rabbitmq.svg" width="48" /> | - |
+| `radixui` | <img src="./icons/radixui.svg" width="48" /> | - |
+| `railway` | <img src="./icons/railway.svg" width="48" /> | - |
+| `raspberrypi` | <img src="./icons/raspberrypi.svg" width="48" /> | - |
+| `reactjs` | <img src="./icons/reactjs.svg" width="48" /> | `react` |
+| `redis` | <img src="./icons/redis.svg" width="48" /> | - |
+| `redux` | <img src="./icons/redux.svg" width="48" /> | - |
+| `rekaui` | <img src="./icons/rekaui.svg" width="48" /> | - |
+| `render` | <img src="./icons/render.svg" width="48" /> | - |
+| `replit` | <img src="./icons/replit.svg" width="48" /> | - |
+| `rollupjs` | <img src="./icons/rollupjs.svg" width="48" /> | - |
+| `ruby` | <img src="./icons/ruby.svg" width="48" /> | - |
+| `rust` | <img src="./icons/rust.svg" width="48" /> | - |
+| `sanity` | <img src="./icons/sanity.svg" width="48" /> | - |
+| `sap` | <img src="./icons/sap.svg" width="48" /> | - |
+| `sass` | <img src="./icons/sass.svg" width="48" /> | - |
+| `scala` | <img src="./icons/scala.svg" width="48" /> | - |
+| `semanticui` | <img src="./icons/semanticui.svg" width="48" /> | - |
+| `sentry` | <img src="./icons/sentry.svg" width="48" /> | - |
+| `shadcnui` | <img src="./icons/shadcnui.svg" width="48" /> | - |
+| `shopify` | <img src="./icons/shopify.svg" width="48" /> | - |
+| `signal` | <img src="./icons/signal.svg" width="48" /> | - |
+| `skeletonui` | <img src="./icons/skeletonui.svg" width="48" /> | - |
+| `snowflake` | <img src="./icons/snowflake.svg" width="48" /> | - |
+| `socketio` | <img src="./icons/socketio.svg" width="48" /> | - |
+| `solidjs` | <img src="./icons/solidjs.svg" width="48" /> | `solid` |
+| `spark` | <img src="./icons/spark.svg" width="48" /> | - |
+| `sqlite` | <img src="./icons/sqlite.svg" width="48" /> | - |
+| `storyblok` | <img src="./icons/storyblok.svg" width="48" /> | - |
+| `storybook` | <img src="./icons/storybook.svg" width="48" /> | - |
+| `strapi` | <img src="./icons/strapi.svg" width="48" /> | - |
+| `streamlit` | <img src="./icons/streamlit.svg" width="48" /> | - |
+| `sublime` | <img src="./icons/sublime.svg" width="48" /> | - |
+| `supabase` | <img src="./icons/supabase.svg" width="48" /> | - |
+| `surrealdb` | <img src="./icons/surrealdb.svg" width="48" /> | - |
+| `svelte` | <img src="./icons/svelte.svg" width="48" /> | - |
+| `swagger` | <img src="./icons/swagger.svg" width="48" /> | - |
+| `swift` | <img src="./icons/swift.svg" width="48" /> | - |
+| `swiper` | <img src="./icons/swiper.svg" width="48" /> | - |
+| `t0ggles` | <img src="./icons/t0ggles.svg" width="48" /> | - |
+| `tailwindcss` | <img src="./icons/tailwindcss.svg" width="48" /> | `tailwind` |
+| `tauri` | <img src="./icons/tauri.svg" width="48" /> | - |
+| `telegram` | <img src="./icons/telegram.svg" width="48" /> | - |
+| `terraform` | <img src="./icons/terraform.svg" width="48" /> | - |
+| `threejs` | <img src="./icons/threejs.svg" width="48" /> | - |
+| `turso` | <img src="./icons/turso.svg" width="48" /> | - |
+| `twilio` | <img src="./icons/twilio.svg" width="48" /> | - |
+| `twitter` | <img src="./icons/twitter.svg" width="48" /> | - |
+| `typescript` | <img src="./icons/typescript.svg" width="48" /> | `ts` |
+| `ubuntu` | <img src="./icons/ubuntu.svg" width="48" /> | - |
+| `umbraco` | <img src="./icons/umbraco.svg" width="48" /> | - |
+| `unity` | <img src="./icons/unity.svg" width="48" /> | - |
+| `unocss` | <img src="./icons/unocss.svg" width="48" /> | - |
+| `unrealengine` | <img src="./icons/unrealengine.svg" width="48" /> | - |
+| `vercel` | <img src="./icons/vercel.svg" width="48" /> | - |
+| `vike` | <img src="./icons/vike.svg" width="48" /> | - |
+| `vim` | <img src="./icons/vim.svg" width="48" /> | - |
+| `virtualbox` | <img src="./icons/virtualbox.svg" width="48" /> | - |
+| `vite` | <img src="./icons/vite.svg" width="48" /> | - |
+| `vitest` | <img src="./icons/vitest.svg" width="48" /> | - |
+| `vmware` | <img src="./icons/vmware.svg" width="48" /> | - |
+| `vscode` | <img src="./icons/vscode.svg" width="48" /> | - |
+| `vuefire` | <img src="./icons/vuefire.svg" width="48" /> | - |
+| `vuejs` | <img src="./icons/vuejs.svg" width="48" /> | `vue` |
+| `vuetify` | <img src="./icons/vuetify.svg" width="48" /> | - |
+| `vueuse` | <img src="./icons/vueuse.svg" width="48" /> | - |
+| `whatsapp` | <img src="./icons/whatsapp.svg" width="48" /> | - |
+| `windicss` | <img src="./icons/windicss.svg" width="48" /> | - |
+| `windows` | <img src="./icons/windows.svg" width="48" /> | - |
+| `wordpress` | <img src="./icons/wordpress.svg" width="48" /> | `wp` |
+| `x` | <img src="./icons/x.svg" width="48" /> | - |
+| `xampp` | <img src="./icons/xampp.svg" width="48" /> | - |
+| `yarn` | <img src="./icons/yarn.svg" width="48" /> | - |
+| `zod` | <img src="./icons/zod.svg" width="48" /> | - |
+| `zorinos` | <img src="./icons/zorinos.svg" width="48" /> | - |
 
 ### Contributing 🎖️
 We welcome contributions from anyone! Here's how you can help:
