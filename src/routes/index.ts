@@ -103,7 +103,7 @@ router.get("/icons/table", async (_req: Request, res: Response) => {
             const id = file.replace(".svg", "");
             const aliases = short_names_reverse[id] ? short_names_reverse[id].join(", ") : "";
             const alias = aliases ? `\`${aliases}\`` : "-";
-            table += `| \`${id}\` | <img src="https://skills-icons.vercel.app/api/icons?i=${id}" /> | ${alias} |\n`;
+            table += `| \`${id}\` | <img src="./icons/${id}.svg" width="48" /> | ${alias} |\n`;
         }
 
         res.setHeader("Content-Type", "text/markdown");
