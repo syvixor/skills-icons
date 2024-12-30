@@ -22,6 +22,7 @@ const shortNames: Record<string, string> = {
     "gcloud": "googlecloud",
     "ig": "instagram",
     "js": "javascript",
+    "kali": "kalilinux",
     "lottie": "lottiefiles",
     "manifold": "manifoldjs",
     "mongo": "mongodb",
