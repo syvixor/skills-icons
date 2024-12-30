@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Wait for 2 minutes
-        run: sleep 120
+      - name: Cooldown
+        run: sleep 60
         
       - uses: actions/checkout@v4
         
-      - name: Update README
+      - name: Generating
         run: |
-          ICONS_TABLE=$(curl -s "https://skills-icons.vercel.app/api/icons/table")
+          ICONS_TABLE=$(curl -s "https://skills-icons.vercel.app/api/readme")
           
           awk -v table="$ICONS_TABLE" '
           /### Available Icons 🎨/,/### Contributing 🎖️/ {
@@ -48,4 +48,4 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update icons table" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update readme" && git push)

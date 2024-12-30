@@ -93,22 +93,40 @@ router.get("/icons", async (_req: Request, res: Response) => {
     }
 });
 
-router.get("/icons/table", async (_req: Request, res: Response) => {
+router.get("/readme", async (_req: Request, res: Response) => {
     const icons_dir = path.join(__dirname, "../../icons");
     try {
         const files = await fs.readdir(icons_dir);
         const svgs = files.filter(file => file.endsWith(".svg"));
 
-        let table = "| Icon ID | Icon | Aliases |\n";
-        table += "|---------|------|----------|\n";
+        const total_icons = svgs.length;
+        const half_total = Math.ceil(total_icons / 2);
 
-        svgs.sort((a, b) => a.localeCompare(b));
+        const first_half = svgs.slice(0, half_total);
+        const second_half = svgs.slice(half_total);
 
-        for (const file of svgs) {
-            const id = file.replace(".svg", "");
-            const aliases = short_names_reverse[id] ? short_names_reverse[id].join(", ") : "";
-            const alias = aliases ? `\`${aliases}\`` : "-";
-            table += `| \`${id}\` | <img src="./icons/${id}.svg" width="48" /> | ${alias} |\n`;
+        let table = "| ID | Icon | Alias | ID | Icon | Alias |\n";
+        table += "|----|------|-------|----|------|-------|\n";
+
+        for (let i = 0; i < half_total; i++) {
+            const left_side = first_half[i];
+            const right_side = second_half[i];
+
+            const left_id = left_side.replace(".svg", "");
+            const left_alias = short_names_reverse[left_id] ? 
+                `\`${short_names_reverse[left_id].join(", ")}\`` : "-";
+            let row = `| \`${left_id}\` | <img src="./icons/${left_id}.svg" width="48" /> | ${left_alias}`;
+
+            if (right_side) {
+                const right_id = right_side.replace(".svg", "");
+                const right_alias = short_names_reverse[right_id] ? 
+                    `\`${short_names_reverse[right_id].join(", ")}\`` : "-";
+                row += ` | \`${right_id}\` | <img src="./icons/${right_id}.svg" width="48" /> | ${right_alias}`;
+            } else {
+                row += ` | | | `;
+            }
+
+            table += row + "|\n";
         }
 
         res.setHeader("Content-Type", "text/markdown");
