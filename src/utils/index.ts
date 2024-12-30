@@ -1,28 +1,28 @@
-export const genSVG = (icons: string[], perline: number = 15) => {
-    const length = Math.min(perline * 300, icons.length * 300) - 44;
-    const height = Math.ceil(icons.length / perline) * 300 - 44;
-    const scaled_height = height * (48 / (300 - 44));
-    const scaled_width = length * (48 / (300 - 44));
+export const generateSVG = (icons: string[], perLine: number = 15) => {
+    const length = Math.min(perLine * 300, icons.length * 300) - 44;
+    const height = Math.ceil(icons.length / perLine) * 300 - 44;
+    const scaledHeight = height * (48 / (300 - 44));
+    const scaledWidth = length * (48 / (300 - 44));
 
     const processSVG = (svg: string, index: number) => {
-        const gradient_matches = svg.match(/<(?:linear|radial)Gradient.*?<\/(?:linear|radial)Gradient>/gs) || [];
+        const gradientMatches = svg.match(/<(?:linear|radial)Gradient.*?<\/(?:linear|radial)Gradient>/gs) || [];
         let modified = svg;
         const defs: string[] = [];
 
-        gradient_matches.forEach(gradient => {
+        gradientMatches.forEach(gradient => {
             const match = gradient.match(/id="([^"]+)"/);
             if (match) {
-                const old_identifier = match[1];
-                const new_identifier = `icon_${index}_${old_identifier}`;
-                const new_gradient = gradient.replace(
-                    `id="${old_identifier}"`,
-                    `id="${new_identifier}"`
+                const oldID = match[1];
+                const newID = `icon_${index}_${oldID}`;
+                const newGradient = gradient.replace(
+                    `id="${oldID}"`,
+                    `id="${newID}"`
                 );
                 modified = modified.replace(
-                    new RegExp(`url\\(#${old_identifier}\\)`, "g"),
-                    `url(#${new_identifier})`
+                    new RegExp(`url\\(#${oldID}\\)`, "g"),
+                    `url(#${newID})`
                 );
-                defs.push(new_gradient);
+                defs.push(newGradient);
                 modified = modified.replace(gradient, "");
             }
         });
@@ -33,15 +33,15 @@ export const genSVG = (icons: string[], perline: number = 15) => {
         }
     }
 
-    const processed_icons = icons.map((icon, index) => processSVG(icon, index));
+    const processedIcons = icons.map((icon, index) => processSVG(icon, index));
 
-    return `<svg width="${scaled_width}" height="${scaled_height}" viewBox="0 0 ${length} ${height}" 
+    return `<svg width="${scaledWidth}" height="${scaledHeight}" viewBox="0 0 ${length} ${height}" 
         fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
         <defs>
-            ${processed_icons.map(icon => icon.defs).join('\n')}
+            ${processedIcons.map(icon => icon.defs).join("\n")}
         </defs>
-        ${processed_icons.map((icon, index) => `
-            <g transform="translate(${(index % perline) * 300}, ${Math.floor(index / perline) * 300})">
+        ${processedIcons.map((icon, index) => `
+            <g transform="translate(${(index % perLine) * 300}, ${Math.floor(index / perLine) * 300})">
                 ${icon.content}
             </g>`).join("\n")}
     </svg>`

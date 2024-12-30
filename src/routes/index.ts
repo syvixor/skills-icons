@@ -3,11 +3,11 @@ import type { Router, Request, Response } from "express";
 import path from "path";
 import fs from "fs/promises";
 
-import { genSVG } from "../utils";
+import { generateSVG } from "../utils";
 
 const router: Router = express.Router();
 
-const short_names: Record<string, string> = {
+const shortNames: Record<string, string> = {
     "adonis": "adonisjs",
     "aws": "amazonwebservices",
     "angular": "angularjs",
@@ -37,27 +37,27 @@ const short_names: Record<string, string> = {
     "ts": "typescript",
     "vue": "vuejs",
     "wp": "wordpress"
-}
+};
 
-const short_names_reverse: Record<string, string[]> = {};
-Object.entries(short_names).forEach(([short, full]) => {
-    if (!short_names_reverse[full]) {
-        short_names_reverse[full] = [];
+const shortNamesReverse: Record<string, string[]> = {};
+Object.entries(shortNames).forEach(([short, full]) => {
+    if (!shortNamesReverse[full]) {
+        shortNamesReverse[full] = [];
     }
-    short_names_reverse[full].push(short);
+    shortNamesReverse[full].push(short);
 });
 
-router.get("/icons", async (_req: Request, res: Response) => {
-    const { i, perline } = _req.query
+router.get("/icons", async (req: Request, res: Response) => {
+    const { i, perline } = req.query;
     if (i && typeof i === "string") {
-        const icons_list = i.split(",");
-        const full_icons_list = icons_list.map(icon => short_names[icon.trim()] || icon.trim());
+        const iconsList = i.split(",");
+        const fullIconsList = iconsList.map(icon => shortNames[icon.trim()] || icon.trim());
         const icons: string[] = [];
-        const icons_dir = path.join(__dirname, "../../icons");
-        for (const icon of full_icons_list) {
-            const icon_path = path.join(icons_dir, `${icon.trim()}.svg`);
+        const iconsDir = path.join(__dirname, "../../icons");
+        for (const icon of fullIconsList) {
+            const iconPath = path.join(iconsDir, `${icon.trim()}.svg`);
             try {
-                const content = await fs.readFile(icon_path, "utf-8");
+                const content = await fs.readFile(iconPath, "utf-8");
                 icons.push(content);
             } catch (error) {
                 console.error(`Icon isn't valid → ${icon}`);
@@ -70,16 +70,16 @@ router.get("/icons", async (_req: Request, res: Response) => {
                 hint: "Hmm... There's no valid icon."
             });
         } else {
-            let response
+            let response;
             if (perline !== undefined) {
                 const perlineNumber = Number(perline);
                 if (!isNaN(perlineNumber) && perlineNumber > 0 && perlineNumber <= 15) {
-                    response = genSVG(icons, perlineNumber);
+                    response = generateSVG(icons, perlineNumber);
                 } else {
-                    response = genSVG(icons);
+                    response = generateSVG(icons);
                 }
             } else {
-                response = genSVG(icons);
+                response = generateSVG(icons);
             }
             res.setHeader("Content-Type", "image/svg+xml");
             return res.status(200).send(response);
@@ -94,34 +94,34 @@ router.get("/icons", async (_req: Request, res: Response) => {
 });
 
 router.get("/readme", async (_req: Request, res: Response) => {
-    const icons_dir = path.join(__dirname, "../../icons");
+    const iconsDir = path.join(__dirname, "../../icons");
     try {
-        const files = await fs.readdir(icons_dir);
+        const files = await fs.readdir(iconsDir);
         const svgs = files.filter(file => file.endsWith(".svg"));
 
-        const total_icons = svgs.length;
-        const half_total = Math.ceil(total_icons / 2);
+        const totalIcons = svgs.length;
+        const halfTotal = Math.ceil(totalIcons / 2);
 
-        const first_half = svgs.slice(0, half_total);
-        const second_half = svgs.slice(half_total);
+        const firstHalf = svgs.slice(0, halfTotal);
+        const secondHalf = svgs.slice(halfTotal);
 
         let table = "| ID | Icon | Alias | ID | Icon | Alias |\n";
         table += "|----|------|-------|----|------|-------|\n";
 
-        for (let i = 0; i < half_total; i++) {
-            const left_side = first_half[i];
-            const right_side = second_half[i];
+        for (let i = 0; i < halfTotal; i++) {
+            const leftSide = firstHalf[i];
+            const rightSide = secondHalf[i];
 
-            const left_id = left_side.replace(".svg", "");
-            const left_alias = short_names_reverse[left_id] ? 
-                `\`${short_names_reverse[left_id].join(", ")}\`` : "-";
-            let row = `| \`${left_id}\` | <img src="./icons/${left_id}.svg" width="48" /> | ${left_alias}`;
+            const leftId = leftSide.replace(".svg", "");
+            const leftAlias = shortNamesReverse[leftId] ?
+                `\`${shortNamesReverse[leftId].join(", ")}\`` : "-";
+            let row = `| \`${leftId}\` | <img src="./icons/${leftId}.svg" width="48" /> | ${leftAlias}`;
 
-            if (right_side) {
-                const right_id = right_side.replace(".svg", "");
-                const right_alias = short_names_reverse[right_id] ? 
-                    `\`${short_names_reverse[right_id].join(", ")}\`` : "-";
-                row += ` | \`${right_id}\` | <img src="./icons/${right_id}.svg" width="48" /> | ${right_alias}`;
+            if (rightSide) {
+                const rightId = rightSide.replace(".svg", "");
+                const rightAlias = shortNamesReverse[rightId] ?
+                    `\`${shortNamesReverse[rightId].join(", ")}\`` : "-";
+                row += ` | \`${rightId}\` | <img src="./icons/${rightId}.svg" width="48" /> | ${rightAlias}`;
             } else {
                 row += ` | | | `;
             }
@@ -139,4 +139,4 @@ router.get("/readme", async (_req: Request, res: Response) => {
     }
 });
 
-export default router
+export default router;
