@@ -11,8 +11,23 @@ import router from "./routes";
 const api: Express = express();
 
 api.use(express.json());
-api.use(helmet());
-api.use(cors());
+api.use(helmet({
+    crossOriginResourcePolicy: { policy: "cross-origin" },
+    contentSecurityPolicy: {
+        directives: {
+            defaultSrc: ["'self'"],
+            imgSrc: ["'self'", "data:", "blob:", "*"],
+            connectSrc: ["'self'", "*"]
+        }
+    }
+}));
+api.use(cors({
+    origin: "*",
+    methods: ["GET", "HEAD"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+    credentials: true,
+    optionsSuccessStatus: 200
+}));
 api.use(morgan("tiny"));
 
 api.get("/", async (_req: Request, res: Response) => {
@@ -33,6 +48,17 @@ api.get("/", async (_req: Request, res: Response) => {
             message: "Internal Server Error!"
         });
     }
+});
+
+api.use((_req: Request, res: Response, next) => {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Cross-Origin-Resource-Policy", "cross-origin");
+    res.header("Cross-Origin-Embedder-Policy", "require-corp");
+    if (_req.path.endsWith(".svg")) {
+        res.header("Content-Type", "image/svg+xml");
+        res.header("Content-Security-Policy", "default-src 'self' data: 'unsafe-inline'");
+    }
+    next();
 });
 
 api.use("/api", router);
