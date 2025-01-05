@@ -20,6 +20,8 @@ const shortNames: Record<string, string> = {
     "elysia": "elysiajs",
     "express": "expressjs",
     "fb": "facebook",
+    "gh": "github",
+    "ghactions": "githubactions",
     "go": "golang",
     "gcloud": "googlecloud",
     "ig": "instagram",
