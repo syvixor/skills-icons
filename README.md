@@ -171,7 +171,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `lottiefiles` | <img src="./icons/lottiefiles.svg" width="48" /> | `lottie` | `yarn` | <img src="./icons/yarn.svg" width="48" /> | -|
 | `lua` | <img src="./icons/lua.svg" width="48" /> | - | `zod` | <img src="./icons/zod.svg" width="48" /> | -|
 | `lucia` | <img src="./icons/lucia.svg" width="48" /> | - | `zorinos` | <img src="./icons/zorinos.svg" width="48" /> | -|
-| `lucide` | <img src="./icons/lucide.svg" width="48" /> | - | | | |
+| `lucide` | <img src="./icons/lucide.svg" width="48" /> | - | `zustand` | <img src="./icons/zustand.svg" width="48" /> | -|
 
 ### Contributing 🎖️
 We welcome contributions from anyone! Here's how you can help:
