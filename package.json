@@ -9,7 +9,7 @@
     "scripts": {
         "dev": "tsx watch src/index.ts",
         "start": "node dist/index.js",
-        "build": "tsc && cp -r src/icons dist/"
+        "build": "tsc"
     },
     "dependencies": {
         "cors": "^2.8.5",

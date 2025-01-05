@@ -211,6 +211,31 @@ pnpm install # or npm install
 # Run development server
 pnpm dev # or npm run dev
 ```
+
+### Docker Usage 🐳
+#### Prerequisites
+Before you begin, ensure you have the following installed:
+- Docker (version 18.09 or higher)
+
+#### Building the Docker Image
+To build the Docker image for `Skills Icons`, follow these steps:
+1. Open a terminal and navigate to the directory.
+2. Run the following command to build the image:
+```bash
+docker build -t skills-icons .
+# or
+sudo docker build -t skills-icons .
+```
+#### Running the Docker Container
+Once the image is built, you can run it in a container:
+1. Execute the following command:
+```bash
+docker run -p 3000:3000 skills-icons
+# or
+sudo docker run -p 3000:3000 skills-icons
+```
+This command maps port 3000 of your host machine to port 3000 of the container, allowing you to access `Skills Icons` at http://localhost:3000.
+
 ### Support 💝
 If you find this project helpful, consider:
 
