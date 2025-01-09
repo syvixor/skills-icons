@@ -7,6 +7,13 @@ body:
     id: description
     attributes:
       label: Bug Description
-      description: What happened?
+      description: What happened? Please provide a detailed description of the issue.
     validations:
       required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I confirm that I have read and agree to abide by the Code of Conduct.
+          required: true

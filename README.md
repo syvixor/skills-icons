@@ -185,20 +185,12 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `mapbox` | <img src="./icons/mapbox.svg" width="48" /> | - | `zustand` | <img src="./icons/zustand.svg" width="48" /> | -|
 
 ### Contributing 🎖️
-We welcome contributions from anyone! Here's how you can help:
+We welcome contributions from anyone! If you'd like to help, please follow the detailed guidelines in our [CONTRIBUTING.md](.github/CONTRIBUTING.md) file.
 
 #### Ways to Contribute
-- Add New Icons: Submit PRs to expand our icon collection
-- Bug Fixes: Help us identify and fix issues
-- Feature Requests: Suggest new features or improvements
-- Documentation: Help improve documentation
-
-#### Getting Started
-- Fork the repository
-- Create your feature branch (git checkout -b feature/AmazingFeature)
-- Commit your changes (git commit -m 'Add some AmazingFeature')
-- Push to the branch (git push origin feature/AmazingFeature)
-- Open a Pull Request
+- Add New Icons: Submit PRs to expand our icon collection.
+- Bug Fixes: Help us identify and fix issues.
+- Documentation: Help improve documentation.
 
 #### Development Setup
 ```bash
@@ -211,6 +203,8 @@ pnpm install # or npm install
 # Run development server
 pnpm dev # or npm run dev
 ```
+
+For more instructions on how to get started, check out the guidelines in the [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ### Docker Usage 🐳
 #### Prerequisites

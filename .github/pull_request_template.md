@@ -1,18 +1,24 @@
 ## Icon Contribution
 
 ### Icon Name
-- None
+
+- () Specify the name of the icon here.
 
 ### Checklist
-- [ ] Icon follows design guidelines.
-- [ ] Added to correct directory.
-- [ ] Preview image attached.
+
+- [ ] The icon is created using one of the provided [icon templates](icon-templates)
+- [ ] The icon is added to the correct directory (`/icons`).
+- [ ] A preview image is attached.
+- [ ] The icon name follows the naming convention (e.g., `iconname.svg`).
 
 ### Preview
-`Please attach a preview image of the icon here.`
+
+Please attach a preview image of the icon here.
 
 ### Additional Notes
-Any extra information about the icon design or implementation.
+
+Provide any extra information about the icon design, implementation, or relevant context.
 
 ### Issues Closed
-If merging this pr closes an issue link it here.
+
+If this PR closes an issue, link it here (e.g., `Closes #123`).

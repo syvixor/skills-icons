@@ -21,7 +21,7 @@ body:
     id: reference-image
     attributes:
       label: Reference Image (Logo)
-      description: Skill logo if available share it here.
+      description: Skill logo if available, please share it here.
     validations:
       required: false
   - type: checkboxes
@@ -29,7 +29,9 @@ body:
     attributes:
       label: Confirmation
       options:
-        - label: I have searched for similar icon requests
+        - label: I have searched for similar icon requests.
           required: true
-        - label: I have checked if the icon is not already available
+        - label: I have checked if the icon is not already available.
+          required: true
+        - label: I confirm that I have read and agree to abide by the Code of Conduct.
           required: true
