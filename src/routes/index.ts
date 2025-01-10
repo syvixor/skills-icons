@@ -34,6 +34,7 @@ const shortNames: Record<string, string> = {
     "mongo": "mongodb",
     "node": "nodejs",
     "nuxt": "nuxtjs",
+    "otel": "opentelemetry",
     "pb": "pocketbase",
     "passport": "passportjs",
     "ps": "photoshop",
