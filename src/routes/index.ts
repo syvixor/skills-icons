@@ -12,6 +12,7 @@ const shortNames: Record<string, string> = {
     "ae": "aftereffects",
     "aws": "amazonwebservices",
     "angular": "angularjs",
+    "arc": "arcbrowser",
     "arch": "archlinux",
     "capacitor": "capacitorjs",
     "drf": "djangorestframework",
@@ -24,6 +25,8 @@ const shortNames: Record<string, string> = {
     "ghactions": "githubactions",
     "go": "golang",
     "gcloud": "googlecloud",
+    "drive": "googledrive",
+    "idx": "googleidx",
     "ig": "instagram",
     "intellij": "intellijidea",
     "js": "javascript",
@@ -44,6 +47,7 @@ const shortNames: Record<string, string> = {
     "spring": "springboot",
     "tailwind": "tailwindcss",
     "ts": "typescript",
+    "vscode": "visualstudiocode",
     "vue": "vuejs",
     "wp": "wordpress"
 };
