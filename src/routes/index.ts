@@ -33,6 +33,7 @@ const shortNames: Record<string, string> = {
     "kali": "kalilinux",
     "lottie": "lottiefiles",
     "manifold": "manifoldjs",
+    "mui": "materialui",
     "md": "markdown",
     "mongo": "mongodb",
     "node": "nodejs",
@@ -45,12 +46,13 @@ const shortNames: Record<string, string> = {
     "sclearn": "scikitlearn",
     "solid": "solidjs",
     "spring": "springboot",
+    "so": "stackoverflow",
     "tailwind": "tailwindcss",
     "ts": "typescript",
     "vscode": "visualstudiocode",
     "vue": "vuejs",
     "wp": "wordpress"
-};
+}
 
 const shortNamesReverse: Record<string, string[]> = {};
 Object.entries(shortNames).forEach(([short, full]) => {

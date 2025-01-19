@@ -1,0 +1,14 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="stackoverflow">
+<style>
+#stackoverflow {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="25" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M174.88 151.279H189.116V208.219H61V151.279H75.2351V193.984H174.88V151.279Z" fill="#BBBBBB"/>
+<path d="M90.7485 147.048L160.662 161.742L163.601 147.766L93.6874 133.065L90.7485 147.048ZM100 113.571L164.764 143.733L170.797 130.781L106.032 100.618L100 113.571ZM117.921 81.7966L172.827 127.518L181.971 116.538L127.065 70.8175L117.921 81.7966ZM153.362 48L141.896 56.5281L184.534 113.857L196 105.33L153.362 48ZM89.4701 179.749H160.645V165.514H89.4701V179.749Z" fill="#F58025"/>
+</svg>

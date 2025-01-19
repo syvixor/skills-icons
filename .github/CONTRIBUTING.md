@@ -30,6 +30,12 @@ If you'd like to contribute a new icon, please follow these steps:
 
 - Icons should be placed in the /icons directory. Ensure the icon file is named consistently with the naming convention (e.g., iconname.svg).
 
+### 3. Pull Request Review Process
+
+Once you submit a pull request, the maintainers will review it and may ask for clarifications or changes. Please be responsive to any feedback or requests for changes.
+
+If the pull request opener does not respond to the maintainer's questions or requested changes within **one week**, the pull request may be closed as **abandoned**.
+
 ## Code of Conduct
 
 By contributing to this project, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md), which sets expectations for respectful and inclusive communication.

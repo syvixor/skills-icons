@@ -2,11 +2,11 @@
 
 ### Icon Name
 
-- () Specify the name of the icon here.
+- Specify the name of the icon here.
 
 ### Checklist
 
-- [ ] The icon is created using one of the provided [icon templates](icon-templates)
+- [ ] The icon is created using one of the provided [icon templates](https://github.com/ixrzr/skills-icons/tree/main/.github/icon-templates)
 - [ ] The icon is added to the correct directory (`/icons`).
 - [ ] A preview image is attached.
 - [ ] The icon name follows the naming convention (e.g., `iconname.svg`).
