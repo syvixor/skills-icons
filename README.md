@@ -46,7 +46,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `aseprite` | <img src="./icons/aseprite.svg" width="48" /> | - | `nitro` | <img src="./icons/nitro.svg" width="48" /> | -|
 | `astro` | <img src="./icons/astro.svg" width="48" /> | - | `nixos` | <img src="./icons/nixos.svg" width="48" /> | -|
 | `atom` | <img src="./icons/atom.svg" width="48" /> | - | `nodejs` | <img src="./icons/nodejs.svg" width="48" /> | `node`|
-| `auth0` | <img src="./icons/auth0.svg" width="48" /> | - | `notepad++` | <img src="./icons/notepad++.svg" width="48" /> | -|
+| `auth0` | <img src="./icons/auth0.svg" width="48" /> | - | `notepadplusplus` | <img src="./icons/notepadplusplus.svg" width="48" /> | `notepadpp`|
 | `authy` | <img src="./icons/authy.svg" width="48" /> | - | `notion` | <img src="./icons/notion.svg" width="48" /> | -|
 | `avaloniaui` | <img src="./icons/avaloniaui.svg" width="48" /> | - | `npm` | <img src="./icons/npm.svg" width="48" /> | -|
 | `azure` | <img src="./icons/azure.svg" width="48" /> | - | `nunjucks` | <img src="./icons/nunjucks.svg" width="48" /> | -|
