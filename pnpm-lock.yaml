@@ -39,9 +39,6 @@ importers:
       tsx:
         specifier: ^4.7.0
         version: 4.19.2
-      typescript:
-        specifier: ^5.3.3
-        version: 5.7.2
 
 packages:
 
@@ -1138,11 +1135,6 @@ packages:
   typescript@4.9.5:
     resolution: {integrity: sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==}
     engines: {node: '>=4.2.0'}
-    hasBin: true
-
-  typescript@5.7.2:
-    resolution: {integrity: sha512-i5t66RHxDvVN40HfDd1PsEThGNnlMCMT3jMUuoh9/0TaqWevNontacunWyN02LA9/fIbEWlcHZcgTKb9QoaLfg==}
-    engines: {node: '>=14.17'}
     hasBin: true
 
   undici-types@6.20.0:
@@ -2247,8 +2239,6 @@ snapshots:
       mime-types: 2.1.35
 
   typescript@4.9.5: {}
-
-  typescript@5.7.2: {}
 
   undici-types@6.20.0: {}
 

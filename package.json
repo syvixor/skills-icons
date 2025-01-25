@@ -1,11 +1,7 @@
 {
     "name": "skills-icons",
     "private": true,
-    "version": "0.1.0",
     "main": "dist/index.js",
-    "engines": {
-        "node": ">=18.x"
-    },
     "scripts": {
         "dev": "tsx watch src/index.ts",
         "start": "node dist/index.js",
@@ -23,9 +19,8 @@
         "@types/morgan": "^1.9.9",
         "@types/node": "^22.10.2",
         "@vercel/node": "^5.0.0",
-        "tsx": "^4.7.0",
-        "typescript": "^5.3.3"
+        "tsx": "^4.7.0"
     },
-    "author": "ixrzr",
+    "author": "sckoorp",
     "license": "MIT"
 }
