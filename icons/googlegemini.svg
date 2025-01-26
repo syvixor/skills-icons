@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="googlegemini">
+<style>
+#googlegemini {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="25" fill="#15191C"/>
+<path d="M208 128.16C187.242 129.434 167.666 138.255 152.96 152.96C138.255 167.666 129.434 187.242 128.16 208H127.84C126.568 187.241 117.748 167.664 103.042 152.958C88.3358 138.252 68.7588 129.432 48 128.16L48 127.84C68.7588 126.568 88.3358 117.748 103.042 103.042C117.748 88.3358 126.568 68.7588 127.84 48L128.16 48C129.434 68.7581 138.255 88.3339 152.96 103.04C167.666 117.745 187.242 126.566 208 127.84V128.16Z" fill="url(#radialGradient)"/>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(63.88 113.03) rotate(18.6832) scale(170.3 1364.21)">
+<stop offset="0.067" stop-color="#9168C0"/>
+<stop offset="0.343" stop-color="#5684D1"/>
+<stop offset="0.672" stop-color="#1BA1E3"/>
+</radialGradient>
+</svg>
