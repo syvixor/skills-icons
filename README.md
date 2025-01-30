@@ -1,7 +1,9 @@
 ## Skills Icons 💡
+
 Showcase skills in projects or profiles effortlessly ✨
 
 ### Quick Start 🚀
+
 Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
 
 ```md
@@ -11,6 +13,7 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,expressjs,mongodb,prisma)
 
 ### Configuration Options 🛠️
+
 | Parameter | Description                        | Required | Default |
 |-----------|------------------------------------|----------|---------|
 | `i`       | Comma-separated list of icon names | Yes      | /       |
@@ -235,6 +238,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `markdown` | <img src="./icons/markdown.svg" width="48" /> | `md` | | | |
 
 ### Contributing 🎖️
+
 We welcome contributions from anyone! If you'd like to help, please follow the detailed guidelines in our [CONTRIBUTING.md](.github/CONTRIBUTING.md) file.
 
 #### Ways to Contribute
@@ -243,9 +247,10 @@ We welcome contributions from anyone! If you'd like to help, please follow the d
 - Documentation: Help improve documentation.
 
 #### Development Setup
+
 ```bash
 # Clone the repository
-git clone https://github.com/realsckoorp/skills-icons.git
+git clone https://github.com/sckrp/skills-icons.git
 
 # Install dependencies
 pnpm install # or npm install
@@ -257,11 +262,16 @@ pnpm dev # or npm run dev
 For more instructions on how to get started, check out the guidelines in the [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ### Docker Usage 🐳
+
+This section provides instructions on building and running the `Skills Icons` project using Docker. Follow the steps below to containerize and manage the application efficiently.
+
 #### Prerequisites
+
 Before you begin, ensure you have the following installed:
 - Docker (version 18.09 or higher)
 
 #### Building the Docker Image
+
 To build the Docker image for `Skills Icons`, follow these steps:
 1. Open a terminal and navigate to the directory.
 2. Run the following command to build the image:
@@ -270,7 +280,9 @@ docker build -t skills-icons .
 # or
 sudo docker build -t skills-icons .
 ```
+
 #### Running the Docker Container
+
 Once the image is built, you can run it in a container:
 1. Execute the following command:
 ```bash
@@ -278,9 +290,11 @@ docker run -p 3000:3000 skills-icons
 # or
 sudo docker run -p 3000:3000 skills-icons
 ```
+
 This command maps port 3000 of your host machine to port 3000 of the container, allowing you to access `Skills Icons` at http://localhost:3000.
 
 ### Support 💝
+
 If you find this project helpful, consider:
 
 - Starring the repository
@@ -288,4 +302,5 @@ If you find this project helpful, consider:
 - Contributing to its development
 
 ### License 📝
+
 This project is licensed under [MIT License](LICENSE)
