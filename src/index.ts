@@ -40,7 +40,7 @@ api.get("/", async (_req: Request, res: Response) => {
         res.status(200).json({
             status: res.statusCode,
             message: "Total Icons → " + totalIcons,
-            github: "https://github.com/sckrp/skills-icons"
+            github: "https://github.com/syvixor/skills-icons"
         });
     } catch (error) {
         res.status(500).json({

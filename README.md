@@ -257,7 +257,7 @@ We welcome contributions from anyone! If you'd like to help, please follow the d
 
 ```bash
 # Clone the repository
-git clone https://github.com/sckrp/skills-icons.git
+git clone https://github.com/syvixor/skills-icons.git
 
 # Install dependencies
 pnpm install # or npm install
