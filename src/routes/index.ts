@@ -55,6 +55,7 @@ const shortNames: Record<string, string> = {
     "ts": "typescript",
     "vscode": "visualstudiocode",
     "vue": "vuejs",
+    "ws": "websocket",
     "wp": "wordpress"
 }
 
