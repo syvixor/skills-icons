@@ -23,6 +23,7 @@ const shortNames: Record<string, string> = {
     "fb": "facebook",
     "gh": "github",
     "ghactions": "githubactions",
+    "ghcopilot": "githubcopilot",
     "go": "golang",
     "gcloud": "googlecloud",
     "gcp": "googlecloud",
@@ -56,7 +57,8 @@ const shortNames: Record<string, string> = {
     "vscode": "visualstudiocode",
     "vue": "vuejs",
     "ws": "websocket",
-    "wp": "wordpress"
+    "wp": "wordpress",
+    "yt": "youtube"
 }
 
 const shortNamesReverse: Record<string, string[]> = {};
