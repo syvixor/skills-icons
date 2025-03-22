@@ -132,10 +132,10 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `edge` | <img src="./icons/edge.svg" width="48" /> | - | `rust` | <img src="./icons/rust.svg" width="48" /> | -|
 | `elasticsearch` | <img src="./icons/elasticsearch.svg" width="48" /> | `es` | `rxjs` | <img src="./icons/rxjs.svg" width="48" /> | -|
 | `electron` | <img src="./icons/electron.svg" width="48" /> | - | `sanity` | <img src="./icons/sanity.svg" width="48" /> | -|
-| `elixir` | <img src="./icons/elixir.svg" width="48" /> | - | `sap` | <img src="./icons/sap.svg" width="48" /> | -|
-| `elysiajs` | <img src="./icons/elysiajs.svg" width="48" /> | `elysia` | `sass` | <img src="./icons/sass.svg" width="48" /> | -|
-| `emberjs` | <img src="./icons/emberjs.svg" width="48" /> | - | `scala` | <img src="./icons/scala.svg" width="48" /> | -|
-| `emelentplus` | <img src="./icons/emelentplus.svg" width="48" /> | - | `scikitlearn` | <img src="./icons/scikitlearn.svg" width="48" /> | `sclearn`|
+| `elementplus` | <img src="./icons/elementplus.svg" width="48" /> | - | `sap` | <img src="./icons/sap.svg" width="48" /> | -|
+| `elixir` | <img src="./icons/elixir.svg" width="48" /> | - | `sass` | <img src="./icons/sass.svg" width="48" /> | -|
+| `elysiajs` | <img src="./icons/elysiajs.svg" width="48" /> | `elysia` | `scala` | <img src="./icons/scala.svg" width="48" /> | -|
+| `emberjs` | <img src="./icons/emberjs.svg" width="48" /> | - | `scikitlearn` | <img src="./icons/scikitlearn.svg" width="48" /> | `sclearn`|
 | `erlang` | <img src="./icons/erlang.svg" width="48" /> | - | `semanticui` | <img src="./icons/semanticui.svg" width="48" /> | -|
 | `esbuild` | <img src="./icons/esbuild.svg" width="48" /> | - | `sentry` | <img src="./icons/sentry.svg" width="48" /> | -|
 | `eslint` | <img src="./icons/eslint.svg" width="48" /> | - | `sequelize` | <img src="./icons/sequelize.svg" width="48" /> | -|
