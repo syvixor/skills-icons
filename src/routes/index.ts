@@ -57,6 +57,7 @@ const shortNames: Record<string, string> = {
     "vscode": "visualstudiocode",
     "vue": "vuejs",
     "ws": "websocket",
+    "wasdk": "windowsappsdk",
     "wp": "wordpress",
     "yt": "youtube"
 }
