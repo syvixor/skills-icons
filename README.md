@@ -1,16 +1,16 @@
 ## Skills Icons 💡
 
-Showcase skills in projects or profiles effortlessly ✨
+![](./.github/banner.png)
 
 ### Quick Start 🚀
 
 Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
 
 ```md
-![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,expressjs,mongodb,prisma)
+![Skills](https://skills-icons.vercel.app/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
 ```
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,expressjs,mongodb,prisma)
+![Skills](https://skills-icons.vercel.app/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
 
 ### Configuration Options 🛠️
 
