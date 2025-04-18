@@ -30,6 +30,7 @@ const shortNames: Record<string, string> = {
     "drive": "googledrive",
     "gemini": "googlegemini",
     "idx": "googleidx",
+    "grunt": "gruntjs",
     "htb": "hackthebox",
     "ig": "instagram",
     "intellij": "intellijidea",
