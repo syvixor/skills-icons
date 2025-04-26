@@ -6,11 +6,16 @@
 
 Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
 
+#### Main URLs 🔗
+
+- https://skills.syvixor.com
+- https://skills-icons.vercel.app
+
 ```md
-![Skills](https://skills-icons.vercel.app/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
+![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
 ```
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
+![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
 
 ### Configuration Options 🛠️
 
