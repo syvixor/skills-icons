@@ -75,11 +75,11 @@ Object.entries(shortNames).forEach(([short, full]) => {
 
 router.get("/icons", async (req: Request, res: Response) => {
     const { i, perline } = req.query;
+    const iconsDir = path.join(__dirname, "../../icons");
     if (i && typeof i === "string") {
         const iconsList = i.split(",");
         const fullIconsList = iconsList.map(icon => shortNames[icon.trim()] || icon.trim());
         const icons: string[] = [];
-        const iconsDir = path.join(__dirname, "../../icons");
         for (const icon of fullIconsList) {
             const iconPath = path.join(iconsDir, `${icon.trim()}.svg`);
             try {
@@ -111,11 +111,22 @@ router.get("/icons", async (req: Request, res: Response) => {
             return res.status(200).send(response);
         }
     } else {
-        res.status(400).json({
-            status: res.statusCode,
-            message: "Bad Request!",
-            hint: "You did not specify any icon."
-        });
+        try {
+            const files = await fs.readdir(iconsDir);
+            const icons = files
+                .filter(file => file.endsWith(".svg"))
+                .map(file => path.basename(file, ".svg"));
+
+            return res.status(200).json({
+                status: res.statusCode,
+                icons
+            });
+        } catch (error) {
+            res.status(500).json({
+                status: res.statusCode,
+                message: "Internal Server Error!"
+            });
+        }
     }
 });
 
