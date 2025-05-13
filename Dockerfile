@@ -1,5 +1,5 @@
-# Use Node.js 18 alpine as base
-FROM node:18-alpine
+# Use Node.js 22 alpine as base
+FROM node:22-alpine
 
 # Create app directory
 WORKDIR /usr/src/app
