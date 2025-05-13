@@ -3,6 +3,12 @@ description: Request a new icon
 title: "[Icon Request]: "
 labels: ["icon request"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        <br />
+        We'd really appreciate it if you would consider starring our repository! It helps us gain visibility and support the project. ✨
+        <br />
   - type: input
     id: icon-name
     attributes:
