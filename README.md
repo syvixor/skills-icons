@@ -375,6 +375,10 @@ sudo docker run -p 3000:3000 skills-icons
 
 This command maps port 3000 of your host machine to port 3000 of the container, allowing you to access `Skills Icons` at http://localhost:3000.
 
+### Icon Removal Requests 🚫
+
+We strive to respect all branding guidelines and intellectual property. If you represent a company whose icon is included in this project and you would like it removed, or if you believe we have used an icon in a way that violates your branding guidelines, please open an issue on this repository detailing your request. We will review your request promptly and take appropriate action. We appreciate your understanding and cooperation.
+
 ### Support 💝
 
 If you find this project helpful, consider:
