@@ -24,6 +24,7 @@ const shortNames: Record<string, string> = {
     "gh": "github",
     "ghactions": "githubactions",
     "ghcopilot": "githubcopilot",
+    "ghpages": "githubpages",
     "go": "golang",
     "gcloud": "googlecloud",
     "gcp": "googlecloud",
