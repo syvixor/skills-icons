@@ -35,27 +35,27 @@ Below is a complete list of available icons and their IDs. You can use either th
 
 | ID | Icon | Alias | ID | Icon | Alias |
 |----|------|-------|----|------|-------|
-| `actix` | <img src="./icons/actix.svg" width="48" /> | - | `medium` | <img src="./icons/medium.svg" width="48" /> | -|
-| `adonisjs` | <img src="./icons/adonisjs.svg" width="48" /> | `adonis` | `medusa` | <img src="./icons/medusa.svg" width="48" /> | -|
-| `aftereffects` | <img src="./icons/aftereffects.svg" width="48" /> | `ae` | `mermaid` | <img src="./icons/mermaid.svg" width="48" /> | -|
-| `airflow` | <img src="./icons/airflow.svg" width="48" /> | - | `metasploit` | <img src="./icons/metasploit.svg" width="48" /> | -|
-| `alacritty` | <img src="./icons/alacritty.svg" width="48" /> | - | `microsoftcopilot` | <img src="./icons/microsoftcopilot.svg" width="48" /> | -|
-| `algolia` | <img src="./icons/algolia.svg" width="48" /> | - | `milligram` | <img src="./icons/milligram.svg" width="48" /> | -|
-| `alpinelinux` | <img src="./icons/alpinelinux.svg" width="48" /> | - | `mimir` | <img src="./icons/mimir.svg" width="48" /> | -|
-| `amazonwebservices` | <img src="./icons/amazonwebservices.svg" width="48" /> | `aws` | `mongodb` | <img src="./icons/mongodb.svg" width="48" /> | `mongo`|
-| `anaconda` | <img src="./icons/anaconda.svg" width="48" /> | - | `motherduck` | <img src="./icons/motherduck.svg" width="48" /> | -|
-| `androidstudio` | <img src="./icons/androidstudio.svg" width="48" /> | - | `motion` | <img src="./icons/motion.svg" width="48" /> | -|
-| `angularjs` | <img src="./icons/angularjs.svg" width="48" /> | `angular` | `msdos` | <img src="./icons/msdos.svg" width="48" /> | -|
-| `ansible` | <img src="./icons/ansible.svg" width="48" /> | - | `mysql` | <img src="./icons/mysql.svg" width="48" /> | -|
-| `apache` | <img src="./icons/apache.svg" width="48" /> | - | `n8n` | <img src="./icons/n8n.svg" width="48" /> | -|
-| `apidog` | <img src="./icons/apidog.svg" width="48" /> | - | `navicat` | <img src="./icons/navicat.svg" width="48" /> | -|
-| `apollo` | <img src="./icons/apollo.svg" width="48" /> | - | `neo4j` | <img src="./icons/neo4j.svg" width="48" /> | -|
-| `appian` | <img src="./icons/appian.svg" width="48" /> | - | `neon` | <img src="./icons/neon.svg" width="48" /> | -|
-| `appium` | <img src="./icons/appium.svg" width="48" /> | - | `neovim` | <img src="./icons/neovim.svg" width="48" /> | -|
-| `apple` | <img src="./icons/apple.svg" width="48" /> | - | `nestjs` | <img src="./icons/nestjs.svg" width="48" /> | -|
-| `appwrite` | <img src="./icons/appwrite.svg" width="48" /> | - | `netbeans` | <img src="./icons/netbeans.svg" width="48" /> | -|
-| `arcbrowser` | <img src="./icons/arcbrowser.svg" width="48" /> | `arc` | `netlify` | <img src="./icons/netlify.svg" width="48" /> | -|
-| `archlinux` | <img src="./icons/archlinux.svg" width="48" /> | `arch` | `newrelic` | <img src="./icons/newrelic.svg" width="48" /> | -|
+| `actix` | <img src="./icons/actix.svg" width="48" /> | - | `medusa` | <img src="./icons/medusa.svg" width="48" /> | -|
+| `adonisjs` | <img src="./icons/adonisjs.svg" width="48" /> | `adonis` | `mermaid` | <img src="./icons/mermaid.svg" width="48" /> | -|
+| `aftereffects` | <img src="./icons/aftereffects.svg" width="48" /> | `ae` | `metasploit` | <img src="./icons/metasploit.svg" width="48" /> | -|
+| `airflow` | <img src="./icons/airflow.svg" width="48" /> | - | `microsoftcopilot` | <img src="./icons/microsoftcopilot.svg" width="48" /> | -|
+| `alacritty` | <img src="./icons/alacritty.svg" width="48" /> | - | `milligram` | <img src="./icons/milligram.svg" width="48" /> | -|
+| `algolia` | <img src="./icons/algolia.svg" width="48" /> | - | `mimir` | <img src="./icons/mimir.svg" width="48" /> | -|
+| `alpinelinux` | <img src="./icons/alpinelinux.svg" width="48" /> | - | `mongodb` | <img src="./icons/mongodb.svg" width="48" /> | `mongo`|
+| `amazonwebservices` | <img src="./icons/amazonwebservices.svg" width="48" /> | `aws` | `motherduck` | <img src="./icons/motherduck.svg" width="48" /> | -|
+| `anaconda` | <img src="./icons/anaconda.svg" width="48" /> | - | `motion` | <img src="./icons/motion.svg" width="48" /> | -|
+| `androidstudio` | <img src="./icons/androidstudio.svg" width="48" /> | - | `msdos` | <img src="./icons/msdos.svg" width="48" /> | -|
+| `angularjs` | <img src="./icons/angularjs.svg" width="48" /> | `angular` | `mysql` | <img src="./icons/mysql.svg" width="48" /> | -|
+| `ansible` | <img src="./icons/ansible.svg" width="48" /> | - | `n8n` | <img src="./icons/n8n.svg" width="48" /> | -|
+| `apache` | <img src="./icons/apache.svg" width="48" /> | - | `navicat` | <img src="./icons/navicat.svg" width="48" /> | -|
+| `apidog` | <img src="./icons/apidog.svg" width="48" /> | - | `neo4j` | <img src="./icons/neo4j.svg" width="48" /> | -|
+| `apollo` | <img src="./icons/apollo.svg" width="48" /> | - | `neon` | <img src="./icons/neon.svg" width="48" /> | -|
+| `appian` | <img src="./icons/appian.svg" width="48" /> | - | `neovim` | <img src="./icons/neovim.svg" width="48" /> | -|
+| `appium` | <img src="./icons/appium.svg" width="48" /> | - | `nestjs` | <img src="./icons/nestjs.svg" width="48" /> | -|
+| `apple` | <img src="./icons/apple.svg" width="48" /> | - | `netbeans` | <img src="./icons/netbeans.svg" width="48" /> | -|
+| `appwrite` | <img src="./icons/appwrite.svg" width="48" /> | - | `netlify` | <img src="./icons/netlify.svg" width="48" /> | -|
+| `arcbrowser` | <img src="./icons/arcbrowser.svg" width="48" /> | `arc` | `newrelic` | <img src="./icons/newrelic.svg" width="48" /> | -|
+| `archlinux` | <img src="./icons/archlinux.svg" width="48" /> | `arch` | `nextdns` | <img src="./icons/nextdns.svg" width="48" /> | -|
 | `archunit` | <img src="./icons/archunit.svg" width="48" /> | - | `nextjs` | <img src="./icons/nextjs.svg" width="48" /> | -|
 | `arduino` | <img src="./icons/arduino.svg" width="48" /> | - | `nginx` | <img src="./icons/nginx.svg" width="48" /> | -|
 | `argocd` | <img src="./icons/argocd.svg" width="48" /> | - | `ngrok` | <img src="./icons/ngrok.svg" width="48" /> | -|
@@ -326,6 +326,7 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `materialui` | <img src="./icons/materialui.svg" width="48" /> | `mui` | `zod` | <img src="./icons/zod.svg" width="48" /> | -|
 | `matlab` | <img src="./icons/matlab.svg" width="48" /> | - | `zorinos` | <img src="./icons/zorinos.svg" width="48" /> | -|
 | `maven` | <img src="./icons/maven.svg" width="48" /> | - | `zustand` | <img src="./icons/zustand.svg" width="48" /> | -|
+| `medium` | <img src="./icons/medium.svg" width="48" /> | - | | | |
 
 ### Contributing 🎖️
 
