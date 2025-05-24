@@ -14,6 +14,7 @@ const shortNames: Record<string, string> = {
     "angular": "angularjs",
     "arc": "arcbrowser",
     "arch": "archlinux",
+    "beef": "beeflang",
     "capacitor": "capacitorjs",
     "drf": "djangorestframework",
     "dw": "dreamweaver",
