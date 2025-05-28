@@ -8,6 +8,7 @@ import { generateSVG } from "../utils";
 const router: Router = express.Router();
 
 const shortNames: Record<string, string> = {
+    "audition": "adobeaudition",
     "adonis": "adonisjs",
     "ae": "aftereffects",
     "aws": "amazonwebservices",
@@ -16,6 +17,7 @@ const shortNames: Record<string, string> = {
     "arch": "archlinux",
     "beef": "beeflang",
     "capacitor": "capacitorjs",
+    "d3": "d3js",
     "drf": "djangorestframework",
     "dw": "dreamweaver",
     "es": "elasticsearch",
