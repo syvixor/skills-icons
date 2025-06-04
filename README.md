@@ -24,11 +24,6 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 | `i`       | Comma-separated list of icon names | Yes      | /       |
 | `perline` | Number of icons per line           | No       | 15      |
 
-### Icons URL Builder 📌
-To make it even easier to create your skills icons URL, You can use our graphical `URL Builder` tool!
-
-🔗 URL Builder: https://builder.syvixor.com
-
 ### Available Icons 🎨
 
 Below is a complete list of available icons and their IDs. You can use either the full ID or its alias (if available) in the `i` parameter.
