@@ -87,8 +87,10 @@ Object.entries(shortNames).forEach(([short, full]) => {
 });
 
 router.get("/icons", async (req: Request, res: Response) => {
-    const { i, perline } = req.query;
+    const { i, perline, radius="25" } = req.query;
     const iconsDir = path.join(__dirname, "../../icons");
+    const minRadius = 0
+    const maxRadius = 100
     if (i && typeof i === "string") {
         const iconsList = i.split(",");
         const fullIconsList = iconsList.map(icon => shortNames[icon.trim()] || icon.trim());
@@ -96,7 +98,16 @@ router.get("/icons", async (req: Request, res: Response) => {
         for (const icon of fullIconsList) {
             const iconPath = path.join(iconsDir, `${icon.trim()}.svg`);
             try {
-                const content = await fs.readFile(iconPath, "utf-8");
+                let content = await fs.readFile(iconPath, "utf-8");
+                let radiusValue = Number(radius);
+                if (isNaN(radiusValue) || radiusValue < minRadius) {
+                    radiusValue = minRadius
+                } else if (radiusValue > maxRadius) {
+                    radiusValue = maxRadius
+                }
+                content = content.replace(/<rect([^>]*)rx="(\d+)"/, (match, before) => {
+                    return `<rect${before}rx="${radiusValue}"`
+                });
                 icons.push(content);
             } catch (error) {
                 console.error(`Icon isn't valid → ${icon}`);
