@@ -87,7 +87,7 @@ Object.entries(shortNames).forEach(([short, full]) => {
 });
 
 router.get("/icons", async (req: Request, res: Response) => {
-    const { i, perline } = req.query;
+    const { i, perline, radius } = req.query;
     const iconsDir = path.join(__dirname, "../../icons");
     if (i && typeof i === "string") {
         const iconsList = i.split(",");
