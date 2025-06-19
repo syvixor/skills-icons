@@ -19,10 +19,11 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 
 ### Configuration Options 🛠️
 
-| Parameter | Description                        | Required | Default |
-|-----------|------------------------------------|----------|---------|
-| `i`       | Comma-separated list of icon names | Yes      | /       |
-| `perline` | Number of icons per line           | No       | 15      |
+| Parameter | Description                                     | Required | Default |
+|-----------|-------------------------------------------------|----------|---------|
+| `i`       | Comma-separated list of icon names              | Yes      | /       |
+| `perline` | Number of icons per line                        | No       | 15      |
+| `radius`  | Set icons corner radius (value between 0 & 100) | No       | 25      |
 
 ### Available Icons 🎨
 
