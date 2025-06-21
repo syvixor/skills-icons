@@ -1,6 +1,6 @@
 name: ⭐ Icon Request
 description: Request a new icon
-title: "[Icon Request]: "
+title: "[Icon Request] "
 labels: ["icon request"]
 body:
   - type: markdown
