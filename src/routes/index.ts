@@ -32,6 +32,7 @@ const shortNames: Record<string, string> = {
     "elysia": "elysiajs",
     "express": "expressjs",
     "fb": "facebook",
+    "fsd": "featuresliceddesign",
     "gh": "github",
     "ghactions": "githubactions",
     "ghcopilot": "githubcopilot",
