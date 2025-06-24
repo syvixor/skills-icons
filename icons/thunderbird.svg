@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="thunderbird">
+<svg width="256" height="256" title="Thunderbird" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="thunderbird">
 <style>
 #thunderbird {
     rect {fill: #15191C}

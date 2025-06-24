@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="mastodon">
+<svg width="256" height="256" title="Mastodon" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="mastodon">
 <style>
 #mastodon {
     rect {fill: #15191C}

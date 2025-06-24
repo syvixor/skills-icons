@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" title="Singularity" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="25" fill="white"/>
 <path d="M127.731 36C78.2648 36.1492 38.1894 77.1173 38 127.71H56.5188C56.7082 87.7148 88.4993 55.3396 127.727 55.2406L127.73 36H127.731Z" fill="#23A0DA"/>
 <path d="M131.865 36.0832V55.3511C169.337 57.4419 199.115 89.0063 199.298 127.71H218C217.815 78.3499 179.662 38.1496 131.865 36.0832Z" fill="#88C233"/>

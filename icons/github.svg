@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="github">
+<svg width="256" height="256" title="GitHub" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="github">
 <style>
 #github {
     rect {fill: #15191C}

@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="overleaf">
+<svg width="256" height="256" title="Overleaf" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="overleaf">
 <style>
 #overleaf {
     rect {fill: #15191C}

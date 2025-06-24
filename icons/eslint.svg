@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="eslint">
+<svg width="256" height="256" title="ESLint" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="eslint">
 <style>
 #eslint {
     rect {fill: #15191C}

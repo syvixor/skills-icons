@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="djangorestframework">
+<svg width="256" height="256" title="Django REST Framework" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="djangorestframework">
 <style>
 #djangorestframework {
     rect {fill: #15191C}

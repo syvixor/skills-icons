@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" title="Strapi" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="25" fill="#4945FF"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M187.04 67H88.0776V117.461H138.539V167.922H189V68.9597C189 67.8774 188.123 67 187.04 67Z" fill="white"/>
 <path d="M138.539 117.461H136.579V119.421H138.539V117.461Z" fill="white"/>

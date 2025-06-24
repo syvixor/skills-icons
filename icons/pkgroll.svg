@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="pkgroll">
+<svg width="256" height="256" title="Pkgroll" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="pkgroll">
 <style>
 #pkgroll {
     rect {fill: #15191C}

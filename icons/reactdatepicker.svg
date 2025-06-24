@@ -1,4 +1,4 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" title="React Datepicker" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="25" fill="#0414FB"/>
 <path d="M0 25C0 11.1929 11.1929 0 25 0H231C244.807 0 256 11.1929 256 25V50C256 63.8071 244.807 75 231 75H25C11.1929 75 0 63.8071 0 50V25Z" fill="#4493F8"/>
 <path d="M0 55H256V79H0V55Z" fill="#4493F8"/>
