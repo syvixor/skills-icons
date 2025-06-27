@@ -25,6 +25,10 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 | `perline` | Number of icons per line                         | No       | 15      |
 | `radius`  | Icon(s) corner radius (value between 25 and 125) | No       | 25      |
 
+### URL Builder 🏗️
+
+[URL Builder](https://builder.syvixor.com) - A user-friendly tool to quickly generate URLs for various skills icons
+
 ### Available Icons 🎨
 
 Below is a complete list of available icons and their IDs. You can use either the full ID or its alias (if available) in the `i` parameter.

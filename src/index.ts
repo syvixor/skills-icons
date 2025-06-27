@@ -50,6 +50,10 @@ api.get("/", async (_req: Request, res: Response) => {
     }
 });
 
+api.get("/builder", (_req: Request, res: Response) => {
+    res.redirect("https://builder.syvixor.com");
+});
+
 api.use((_req: Request, res: Response, next) => {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Cross-Origin-Resource-Policy", "cross-origin");
