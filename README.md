@@ -420,6 +420,10 @@ If you find this project helpful, consider:
 - Sharing it with others
 - Contributing to its development
 
+### Powered By
+
+This project is deployed and hosted using [Vercel](https://vercel.com)
+
 ### License 📝
 
 This project is licensed under [MIT License](LICENSE)
