@@ -6,6 +6,9 @@
 
 Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
 
+> [!IMPORTANT]
+> We'd really appreciate it if you would consider starring our repository! It helps us gain visibility and support the project.
+
 #### Main URLs 🔗
 
 - https://skills.syvixor.com
@@ -425,7 +428,7 @@ If you find this project helpful, consider:
 - Sharing it with others
 - Contributing to its development
 
-### Powered By
+### Powered By 🛟
 
 This project is deployed and hosted using [Vercel](https://vercel.com)
 
