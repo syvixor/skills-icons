@@ -340,21 +340,21 @@ Below is a complete list of available icons and their IDs. You can use either th
 | `leetcode` | <img src="./icons/leetcode.svg" width="48" /> | - | `xaml` | <img src="./icons/xaml.svg" width="48" /> | -|
 | `lemonsqueezy` | <img src="./icons/lemonsqueezy.svg" width="48" /> | - | `xampp` | <img src="./icons/xampp.svg" width="48" /> | -|
 | `less` | <img src="./icons/less.svg" width="48" /> | - | `xcode` | <img src="./icons/xcode.svg" width="48" /> | -|
-| `librepcb` | <img src="./icons/librepcb.svg" width="48" /> | - | `yaak` | <img src="./icons/yaak.svg" width="48" /> | -|
-| `linkedin` | <img src="./icons/linkedin.svg" width="48" /> | - | `yaml` | <img src="./icons/yaml.svg" width="48" /> | -|
-| `linux` | <img src="./icons/linux.svg" width="48" /> | - | `yandexen` | <img src="./icons/yandexen.svg" width="48" /> | -|
-| `linuxmint` | <img src="./icons/linuxmint.svg" width="48" /> | - | `yandexru` | <img src="./icons/yandexru.svg" width="48" /> | -|
-| `litestar` | <img src="./icons/litestar.svg" width="48" /> | - | `yarn` | <img src="./icons/yarn.svg" width="48" /> | -|
-| `litmus` | <img src="./icons/litmus.svg" width="48" /> | - | `yolo` | <img src="./icons/yolo.svg" width="48" /> | -|
-| `livewire` | <img src="./icons/livewire.svg" width="48" /> | - | `youtube` | <img src="./icons/youtube.svg" width="48" /> | `yt`|
-| `lmstudio` | <img src="./icons/lmstudio.svg" width="48" /> | - | `zeabur` | <img src="./icons/zeabur.svg" width="48" /> | -|
-| `logto` | <img src="./icons/logto.svg" width="48" /> | - | `zed` | <img src="./icons/zed.svg" width="48" /> | -|
-| `lokalise` | <img src="./icons/lokalise.svg" width="48" /> | - | `zen` | <img src="./icons/zen.svg" width="48" /> | -|
-| `loki` | <img src="./icons/loki.svg" width="48" /> | - | `zig` | <img src="./icons/zig.svg" width="48" /> | -|
-| `lottiefiles` | <img src="./icons/lottiefiles.svg" width="48" /> | `lottie` | `zod` | <img src="./icons/zod.svg" width="48" /> | -|
-| `lua` | <img src="./icons/lua.svg" width="48" /> | - | `zorinos` | <img src="./icons/zorinos.svg" width="48" /> | -|
-| `lucia` | <img src="./icons/lucia.svg" width="48" /> | - | `zustand` | <img src="./icons/zustand.svg" width="48" /> | -|
-| `lucide` | <img src="./icons/lucide.svg" width="48" /> | - | | | |
+| `librepcb` | <img src="./icons/librepcb.svg" width="48" /> | - | `xshell` | <img src="./icons/xshell.svg" width="48" /> | -|
+| `linkedin` | <img src="./icons/linkedin.svg" width="48" /> | - | `yaak` | <img src="./icons/yaak.svg" width="48" /> | -|
+| `linux` | <img src="./icons/linux.svg" width="48" /> | - | `yaml` | <img src="./icons/yaml.svg" width="48" /> | -|
+| `linuxmint` | <img src="./icons/linuxmint.svg" width="48" /> | - | `yandexen` | <img src="./icons/yandexen.svg" width="48" /> | -|
+| `litestar` | <img src="./icons/litestar.svg" width="48" /> | - | `yandexru` | <img src="./icons/yandexru.svg" width="48" /> | -|
+| `litmus` | <img src="./icons/litmus.svg" width="48" /> | - | `yarn` | <img src="./icons/yarn.svg" width="48" /> | -|
+| `livewire` | <img src="./icons/livewire.svg" width="48" /> | - | `yolo` | <img src="./icons/yolo.svg" width="48" /> | -|
+| `lmstudio` | <img src="./icons/lmstudio.svg" width="48" /> | - | `youtube` | <img src="./icons/youtube.svg" width="48" /> | `yt`|
+| `logto` | <img src="./icons/logto.svg" width="48" /> | - | `zeabur` | <img src="./icons/zeabur.svg" width="48" /> | -|
+| `lokalise` | <img src="./icons/lokalise.svg" width="48" /> | - | `zed` | <img src="./icons/zed.svg" width="48" /> | -|
+| `loki` | <img src="./icons/loki.svg" width="48" /> | - | `zen` | <img src="./icons/zen.svg" width="48" /> | -|
+| `lottiefiles` | <img src="./icons/lottiefiles.svg" width="48" /> | `lottie` | `zig` | <img src="./icons/zig.svg" width="48" /> | -|
+| `lua` | <img src="./icons/lua.svg" width="48" /> | - | `zod` | <img src="./icons/zod.svg" width="48" /> | -|
+| `lucia` | <img src="./icons/lucia.svg" width="48" /> | - | `zorinos` | <img src="./icons/zorinos.svg" width="48" /> | -|
+| `lucide` | <img src="./icons/lucide.svg" width="48" /> | - | `zustand` | <img src="./icons/zustand.svg" width="48" /> | -|
 
 ### Contributing 🎖️
 
