@@ -1,4 +1,5 @@
 import express from "express";
+import * as cheerio from "cheerio";
 import type { Router, Request, Response } from "express";
 import path from "path";
 import fs from "fs/promises";
@@ -92,7 +93,7 @@ Object.entries(shortNames).forEach(([short, full]) => {
 });
 
 router.get("/icons", async (req: Request, res: Response) => {
-    const { i, perline, radius="25" } = req.query;
+    const { i, perline, radius = "25" } = req.query;
     const iconsDir = path.join(__dirname, "../../icons");
     const minRadius = 25
     const maxRadius = 125
@@ -156,6 +157,46 @@ router.get("/icons", async (req: Request, res: Response) => {
                 message: "Internal Server Error!"
             });
         }
+    }
+});
+
+router.get("/icons/all", async (req: Request, res: Response) => {
+    const iconsDir = path.join(__dirname, "../../icons");
+    const baseUrl = "https://raw.githubusercontent.com/syvixor/skills-icons/refs/heads/main/icons";
+
+    try {
+        const files = await fs.readdir(iconsDir);
+        const icons: { id: string; name: string; url: string; }[] = [];
+
+        for (const file of files) {
+            if (file.endsWith(".svg")) {
+                const id = path.basename(file, ".svg");
+                const filePath = path.join(iconsDir, file);
+                try {
+                    const content = await fs.readFile(filePath, "utf-8");
+                    const $ = cheerio.load(content, { xmlMode: true });
+                    const title = $("svg").attr("title") || id
+
+                    icons.push({
+                        id,
+                        name: title,
+                        url: `${baseUrl}/${id}.svg`
+                    });
+                } catch (error) {
+                    res.status(500).json({
+                        status: res.statusCode,
+                        message: "Internal Server Error!"
+                    });
+                }
+            }
+        }
+
+        return res.status(200).json(icons);
+    } catch (error) {
+        return res.status(500).json({
+            status: res.statusCode,
+            message: "Internal Server Error!"
+        });
     }
 });
 
