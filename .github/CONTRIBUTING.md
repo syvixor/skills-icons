@@ -1,6 +1,6 @@
 # Contributing to Skills Icons
 
-Thank you for your interest in contributing to `Skills Icons`! We appreciate your time and effort. By contributing, you are helping to improve this project for everyone.
+Thank you for your interest in contributing to Skills Icons! We appreciate your time and effort. By contributing, you are helping to improve this project for everyone.
 
 Please read through the following guidelines to ensure that your contributions are aligned with the project's goals and standards.
 
@@ -17,8 +17,8 @@ If you find a bug or issue, please follow these steps:
 
 #### Icon Templates
 
-- [Normal Icon](icon-templates/icon-normal.svg)
-- [Icon With Theme Switcher](icon-templates/icon-theme-switcher.svg)
+- [Normal Icon](ICON_TEMPLATES/icon.svg)
+- [Themed Icon](ICON_TEMPLATES/themed_icon.svg)
 
 If you'd like to contribute a new icon, please follow these steps:
 
@@ -33,8 +33,6 @@ If you'd like to contribute a new icon, please follow these steps:
 ### 3. Pull Request Review Process
 
 Once you submit a pull request, the maintainers will review it and may ask for clarifications or changes. Please be responsive to any feedback or requests for changes.
-
-If the pull request opener does not respond to the maintainer's questions or requested changes within **one week**, the pull request may be closed as **abandoned**.
 
 ## Code of Conduct
 
