@@ -55,6 +55,7 @@ const shortNames: Record<string, string> = {
     "intellij": "intellijidea",
     "js": "javascript",
     "kali": "kalilinux",
+    "looker": "lookerstudio",
     "lottie": "lottiefiles",
     "manifold": "manifoldjs",
     "mui": "materialui",
