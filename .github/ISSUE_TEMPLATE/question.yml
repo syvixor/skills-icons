@@ -1,0 +1,21 @@
+name: ❓ Question
+description: Ask a general question about the project or its usage.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What would you like to ask? Please provide as much context as possible.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have checked the documentation and existing issues for an answer.
+          required: true
+        - label: I confirm that I have read and agree to abide by the Code of Conduct.
+          required: true
