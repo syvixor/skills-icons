@@ -25,7 +25,7 @@
 <!-- Put an `x` in all the boxes that apply. -->
 <!-- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] I created the icon(s) using one of the provided icon [templates](ICON_TEMPLATES).
+- [ ] I created the icon(s) using one of the provided icon [templates](../tree/main/.github/ICON_TEMPLATES).
 - [ ] I have added the icon to the correct directory (`/icons`).
 - [ ] I have ensured the icon name follows the naming convention (e.g., `iconname.svg`).
 - [ ] I have linked an issue or discussion.
