@@ -54,6 +54,7 @@ const shortNames: Record<string, string> = {
     "ig": "instagram",
     "intellij": "intellijidea",
     "js": "javascript",
+    "jsr": "javascriptregistry",
     "kali": "kalilinux",
     "looker": "lookerstudio",
     "lottie": "lottiefiles",
