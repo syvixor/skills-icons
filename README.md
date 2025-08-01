@@ -2,6 +2,10 @@
 
 ![](./.github/banner.png)
 
+<p align="center">
+English | <a href="/README_zh.md">中文</a>
+</p>
+
 ### Quick Start 🚀
 
 Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
