@@ -3,7 +3,7 @@
 ![](./.github/banner.png)
 
 <p align="center">
-中文 | <a href="/README.md">English</a>
+<a href="/README.md">English</a> | 中文
 </p>
 
 ### 快速开始 🚀
