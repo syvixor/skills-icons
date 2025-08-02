@@ -2,7 +2,7 @@
 
 ![Banner](../../.github/banner.png)
 
-### Available Languages 🌐
+### 可用语言 🌐
 
 - [English](../../README.md)
 - 中文 (Chinese) ⬅
@@ -99,7 +99,7 @@ sudo docker run -p 3000:3000 skills-icons
 - 分享给他人
 - 参与项目开发
 
-### Thanks To All The contributors 🙏
+### 感谢所有贡献者 🙏
 
 [![Contributors](https://contrib.rocks/image?repo=syvixor/skills-icons)](https://github.com/syvixor/skills-icons/graphs/contributors)
 
