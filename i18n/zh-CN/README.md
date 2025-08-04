@@ -39,7 +39,7 @@
 
 ### 参与贡献 🎖️
 
-欢迎任何人参与贡献！请遵循 [贡献指南](../../.github/CONTRIBUTING.md) 中的详细说明。
+欢迎任何人参与贡献！请遵循 [贡献指南](./CONTRIBUTING.md) 中的详细说明。
 
 #### 贡献方式
 
@@ -60,7 +60,7 @@ pnpm install  # 或 npm install
 pnpm dev  # 或 npm run dev
 ```
 
-更多指引请查看 [贡献指南](../../.github/CONTRIBUTING.md)。
+更多指引请查看 [贡献指南](./CONTRIBUTING.md)。
 
 ### Docker 使用 🐳
 
