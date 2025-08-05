@@ -8,7 +8,7 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path d="M66.837 112.073L89.5747 120.35L112.65 111.951L89.9123 103.674L66.837 112.073ZM89.6741 93.3878L112.413 101.664L135.487 93.265L112.749 84.9885L89.6741 93.3878Z" fill="#F7F7F4" stroke="#CCCCCC" stroke-width="0.378666" stroke-linejoin="bevel"/>
 <path d="M89.6741 93.3878L112.413 101.664V128.388L89.6741 120.113V93.3878Z" fill="#EFEEEA" stroke="#CCCCCC" stroke-width="0.378666" stroke-linejoin="bevel"/>
 <path d="M44 147.366L66.7377 155.644L89.813 147.245L67.0739 138.968L44 147.366Z" fill="#F7F7F4" stroke="#CCCCCC" stroke-width="0.378666" stroke-linejoin="bevel"/>

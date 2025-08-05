@@ -8,7 +8,7 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path d="M208 154.66L154.653 208L48 101.32L101.34 48L208 154.66Z" fill="url(#linearGradient)"/>
 <path d="M154.7 101.32H101.36V154.66H154.7V101.32Z" fill="black"/>
 <linearGradient id="linearGradient" x1="51.3333" y1="104.667" x2="151.333" y2="204.667" gradientUnits="userSpaceOnUse">

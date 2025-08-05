@@ -1,5 +1,5 @@
 <svg width="256" height="256" title="Cursor" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="25" fill="black"/>
+<rect width="256" height="256" rx="40" fill="black"/>
 <path d="M127.438 218L205.625 173L127.438 128L49.25 173L127.438 218Z" fill="url(#linearGradient1)"/>
 <path d="M205.625 173V83L127.438 38V128L205.625 173Z" fill="url(#linearGradient2)"/>
 <path d="M127.438 38L49.25 83V173L127.438 128V38Z" fill="url(#linearGradient3)"/>

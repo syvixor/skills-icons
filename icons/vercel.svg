@@ -10,6 +10,6 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path d="M208 198.333H48L128 58L208 198.333Z" fill="#F4F2ED"/>
 </svg>

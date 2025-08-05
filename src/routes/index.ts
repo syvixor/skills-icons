@@ -98,10 +98,10 @@ Object.entries(shortNames).forEach(([short, full]) => {
 });
 
 router.get("/icons", async (req: Request, res: Response) => {
-    const { i, perline, radius = "25" } = req.query;
+    const { i, perline, radius = "40" } = req.query;
     const iconsDir = path.join(__dirname, "../../icons");
     const minRadius = 25
-    const maxRadius = 125
+    const maxRadius = 85
     if (i && typeof i === "string") {
         const iconsList = i.split(",");
         const fullIconsList = iconsList.map(icon => shortNames[icon.trim()] || icon.trim());

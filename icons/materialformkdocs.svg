@@ -10,7 +10,7 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path d="M51 76.5562V156.851L131.007 197L51 76.5562Z" fill="white"/>
 <path d="M85.9869 59L165.996 179.442L131.007 197L51 76.5562L85.9869 59Z" fill="white" fill-opacity="0.5"/>
 <path d="M171.013 76.5562L120.208 110.513L160.979 171.892L171.013 176.924V76.5562Z" fill="white"/>

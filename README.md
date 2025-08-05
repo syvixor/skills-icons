@@ -31,7 +31,7 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 |-----------|--------------------------------------------------|----------|---------|
 | `i`       | Comma-separated list of icon names               | Yes      | /       |
 | `perline` | Number of icons per line                         | No       | 15      |
-| `radius`  | Icon(s) corner radius (value between 25 and 125) | No       | 25      |
+| `radius`  | Icon(s) corner radius (value between 25 and 85)  | No       | 40      |
 
 ### Available Icons 🎨
 

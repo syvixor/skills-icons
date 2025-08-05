@@ -8,7 +8,7 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path d="M89.0099 211.426L204.998 144.457L205 110.973L89.0099 177.948V211.426Z" fill="url(#linearGradient1)"/>
 <path opacity="0.16" d="M89.0099 211.426L204.998 144.457L205 110.973L89.0099 177.948V211.426Z" fill="url(#linearGradient2)"/>
 <path d="M60.0039 161.201L60.002 194.688L89.0099 211.426V177.948L60.0039 161.201Z" fill="url(#linearGradient3)"/>

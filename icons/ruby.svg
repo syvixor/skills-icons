@@ -8,7 +8,7 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M171.085 153.022L82.5899 205.57L197.175 197.794L206 82.2535L171.085 153.022Z" fill="url(#linearGradient1)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M197.362 197.715L187.514 129.74L160.688 165.163L197.362 197.715Z" fill="url(#linearGradient2)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M197.495 197.715L125.343 192.051L82.9732 205.422L197.495 197.715Z" fill="url(#linearGradient3)"/>

@@ -8,7 +8,7 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path d="M97.1331 53H53V97.1331H97.1331V53Z" fill="#2478BD"/>
 <path d="M97.1331 106.065H53V150.198H97.1331V106.065Z" fill="#2478BD"/>
 <path d="M150.198 106.065H106.065V150.198H150.198V106.065Z" fill="#2478BD"/>

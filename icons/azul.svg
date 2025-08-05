@@ -8,7 +8,7 @@
     }
 }
 </style>
-<rect width="256" height="256" rx="25" fill="#15191C"/>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 <path d="M128 208C172.183 208 208 172.183 208 128C208 83.8172 172.183 48 128 48C83.8172 48 48 83.8172 48 128C48 172.183 83.8172 208 128 208Z" fill="url(#radialGradient)" stroke="url(#linearGradient)" stroke-width="4.46557" stroke-linecap="square" stroke-linejoin="bevel"/>
 <path d="M125.178 79.7166L75.8708 175.622L110.736 175.774L126.617 145.038L144.405 175.79L180.196 175.711L125.178 79.7166Z" fill="black" fill-opacity="0.33333"/>
 <path d="M125.178 70.9021L75.8708 166.807L110.736 166.959L126.617 136.224L144.405 166.976L180.196 166.897L125.178 70.9021Z" fill="white"/>
