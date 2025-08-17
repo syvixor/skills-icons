@@ -39,6 +39,7 @@ const shortNames: Record<string, string> = {
     "fb": "facebook",
     "fsd": "featuresliceddesign",
     "firebaseai": "firebaseailogic",
+    "fasm": "flatassembler",
     "gh": "github",
     "ghactions": "githubactions",
     "ghcopilot": "githubcopilot",
