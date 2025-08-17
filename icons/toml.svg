@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="Toml" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="toml">
+<style>
+#toml {
+    rect {fill: #15191C}
+    path.toml {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.toml {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M168.416 56V72.2921H183.079V184.708H168.416V201H201V56L168.416 56Z" fill="#9C4221"/>
+<path d="M92.6572 103.247V85.3258H164.343V103.247H137.461V181.449H119.539V103.247H92.6572Z" class="toml" fill="white"/>
+<path d="M88.5843 56V72.2921H73.9213V184.708H88.5843V201H56V56H88.5843Z" fill="#9C4221"/>
+</svg>

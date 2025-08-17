@@ -1,0 +1,26 @@
+<svg width="256" height="256" title="Adobe Express" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="adobeexpress">
+<style>
+#adobeexpress {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#0B121E"/>
+<path d="M156.678 77.0409C151.79 65.503 140.476 58 127.914 58C115.353 58 103.927 65.5252 99.0497 77.0965L59.5505 170.989C54.1384 183.817 63.5594 198 77.5016 198H121.489C132.291 197.978 141.032 189.23 141.032 178.437C141.032 167.644 132.257 158.873 121.433 158.873C120.988 158.873 113.916 158.929 113.916 158.929C110.731 158.929 108.582 155.694 109.818 152.76L123.838 119.413C125.364 115.79 130.342 115.767 131.879 119.391L160.487 186.151C164.418 195.065 171.89 197.967 178.483 197.989C192.458 197.989 201.879 183.783 196.434 170.945L156.678 77.0409Z" fill="url(#linearGradient1)"/>
+<path d="M127.914 58C140.476 58 151.79 65.503 156.678 77.0409L196.434 170.945C201.879 183.783 192.458 197.989 178.483 197.989C171.89 197.967 164.418 195.065 160.487 186.151L131.879 119.391C130.342 115.767 125.364 115.79 123.838 119.413L92.5575 92.4581C100.909 72.4502 95.8984 84.6773 99.0497 77.0965C103.927 65.5252 115.353 58 127.914 58Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="120.397" y1="194.165" x2="90.9856" y2="100.764" gradientUnits="userSpaceOnUse">
+<stop stop-color="#348BCB"/>
+<stop offset="0.5" stop-color="#A96BAD"/>
+<stop offset="1" stop-color="#EE255A"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="133.204" y1="71.8944" x2="185.379" y2="198.123" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ED1D24"/>
+<stop offset="0.25" stop-color="#F25523" stop-opacity="0.04"/>
+<stop offset="0.5" stop-color="#F68D22"/>
+<stop offset="0.75" stop-color="#FDD614"/>
+<stop offset="1" stop-color="#56BB53"/>
+</linearGradient>
+</svg>
