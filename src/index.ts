@@ -4,6 +4,8 @@ import helmet from "helmet";
 import morgan from "morgan";
 import cors from "cors";
 
+import { sendError } from "./utils";
+
 import router from "./routes";
 
 const api: Express = express();
@@ -50,11 +52,7 @@ api.use((_req: Request, res: Response, next) => {
 api.use("/api", router);
 
 api.use((_req: Request, res: Response) => {
-    res.status(404).json({
-        status: res.statusCode,
-        message: "Not Found!",
-        hint: "Hmm... There's no such route."
-    });
+    sendError(res, 404, "Not Found", "The requested resource could not be found.");
 });
 
 api.listen(3000, () => console.log("→ Listening..."));

@@ -1,3 +1,5 @@
+import type { Response } from "express";
+
 export const generateSVG = (icons: string[], perLine: number = 15) => {
     const length = Math.min(perLine * 300, icons.length * 300) - 44;
     const height = Math.ceil(icons.length / perLine) * 300 - 44;
@@ -45,4 +47,13 @@ export const generateSVG = (icons: string[], perLine: number = 15) => {
                 ${icon.content}
             </g>`).join("\n")}
     </svg>`
+}
+
+export const sendError = (res: Response, statusCode: number, statusMessage: string, detail: string) => {
+    res.status(statusCode).statusMessage = statusMessage;
+    res.json({
+        statusCode,
+        statusMessage,
+        detail
+    });
 }
