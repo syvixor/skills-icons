@@ -1,15 +1,16 @@
-## Skills Icons 💡
+## Skills Icons ✨
 
-![Banner](./.github/banner.png)
+Showcase your tech stack with clean, customizable icons, just list the technologies you use, separated by commas.
+
+### Example 💡
+
+![Banner Dark](./.github/example-dark.png#gh-dark-mode-only)
+![Banner Light](./.github/example-light.png#gh-light-mode-only)
 
 ### Available Languages 🌐
 
 - English ⬅
 - [中文 (Chinese)](./i18n/zh-CN/README.md)
-
-### Quick Start 🚀
-
-Showcase your skills by using the URL below and adding the tech stack icons you want (separated by commas)
 
 > [!IMPORTANT]
 > We'd really appreciate it if you would consider starring our repository! It helps us gain visibility and support the project.

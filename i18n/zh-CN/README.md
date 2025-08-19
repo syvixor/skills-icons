@@ -1,15 +1,16 @@
-## Skills Icons 💡
+## Skills Icons ✨
 
-![Banner](../../.github/banner.png)
+使用干净、可定制的图标展示您的技术堆栈，只需列出您使用的技术，用逗号分隔。
+
+### 例子 💡
+
+![Banner Dark](../../.github/example-dark.png#gh-dark-mode-only)
+![Banner Light](../../.github/example-light.png#gh-light-mode-only)
 
 ### 可用语言 🌐
 
 - [English](../../README.md)
 - 中文 (Chinese) ⬅
-
-### 快速开始 🚀
-
-使用以下URL并添加所需技术栈图标（用逗号分隔）来展示您的技能：
 
 > [!IMPORTANT]
 > 如果您能为我们的仓库点个星星，我们将不胜感激！这有助于提升项目可见度并获得支持。
