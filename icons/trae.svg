@@ -1,4 +1,9 @@
 <svg width="256" height="256" title="Trae" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="40" fill="#FF4A36"/>
-<path d="M223 198H138V227H223V198Z" fill="white"/>
+<rect width="256" height="256" rx="40" fill="black"/>
+<path d="M53 75H203V96.4H53V75Z" fill="#30F290"/>
+<path d="M74.4286 160.6H203V182H74.4286V160.6Z" fill="#30F290"/>
+<path d="M53 96.4H74.4286V160.6H53V96.4Z" fill="#30F290"/>
+<path d="M181.571 96.4H203V160.6H181.571V96.4Z" fill="#30F290"/>
+<path d="M97.6429 128.445L112.824 113.342L127.947 128.502L112.766 143.606L97.6429 128.445Z" fill="#30F290"/>
+<path d="M140.5 128.445L155.681 113.342L170.805 128.502L155.624 143.606L140.5 128.445Z" fill="#30F290"/>
 </svg>
