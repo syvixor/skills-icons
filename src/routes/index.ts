@@ -137,6 +137,7 @@ router.get("/icons", async (req: Request, res: Response) => {
                 response = generateSVG(icons);
             }
             res.setHeader("Content-Type", "image/svg+xml");
+            res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=3600");
             res.status(200).statusMessage = "OK";
             return res.send(response);
         }
