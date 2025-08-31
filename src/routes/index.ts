@@ -28,6 +28,7 @@ const shortNames: Record<string, string> = {
     "maven": "apachemaven",
     "arc": "arcbrowser",
     "arch": "archlinux",
+    "uv": "astraluv",
     "beef": "beeflang",
     "capacitor": "capacitorjs",
     "cudacpp": "cudacplusplus",
