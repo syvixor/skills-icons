@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Spring Batch" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="springbatch">
+<style>
+#springbatch {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M51 152.356V164.276L128.495 209L206 164.276V152.356L128.495 197.08L51 152.356ZM51 128.505V140.425L128.495 185.149L206 140.425V128.505L128.495 173.229L51 128.505ZM128.495 48L51 92.7239V116.575L128.495 161.329L206 116.606V92.7239L128.495 48Z" fill="#6DB33F"/>
+</svg>
