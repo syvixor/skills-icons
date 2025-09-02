@@ -17,8 +17,8 @@ Si encontras un error o problema, segui estos pasos:
 
 #### Plantillas de Íconos
 
-- [Normal Icon](ICON_TEMPLATES/icon.svg)
-- [Themed Icon](ICON_TEMPLATES/themed_icon.svg)
+- [Normal Icon](../../../main/.github/ICON_TEMPLATES/icon.svg)
+- [Themed Icon](../../../main/.github/ICON_TEMPLATES/themed_icon.svg)
 
 Si queres contribuir con un nuevo ícono, sigue estos pasos:
 
@@ -36,8 +36,8 @@ Una vez que envíes un pull request, los mantenedores lo revisarán y podrían p
 
 ## Código de Conducta
 
-Al contribuir a este proyecto, aceptas cumplir con nuestro [Code of Conduct](CODE_OF_CONDUCT.md), que establece expectativas de comunicación respetuosa e inclusiva.
+Al contribuir a este proyecto, aceptas cumplir con nuestro [Code of Conduct](../../../main/.github/CODE_OF_CONDUCT.md), que establece expectativas de comunicación respetuosa e inclusiva.
 
 ## Licencia
 
-Al contribuir a este proyecto, aceptas que tus contribuciones estarán licenciadas bajo la [project’s license](../LICENSE).
+Al contribuir a este proyecto, aceptas que tus contribuciones estarán licenciadas bajo la [project’s license](../../../main/LICENSE).
