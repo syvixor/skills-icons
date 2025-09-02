@@ -1,15 +1,16 @@
 ## Skills Icons ✨
 
 Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las tecnologías que usas, separadas por comas.
+
 ### Ejemplo 💡
 
-![Banner Dark](./.github/example-dark.png#gh-dark-mode-only)
-![Banner Light](./.github/example-light.png#gh-light-mode-only)
+![Banner Dark](../../.github/example-dark.png#gh-dark-mode-only)
+![Banner Light](../../.github/example-light.png#gh-light-mode-only)
 
 ### Idiomas Disponibles 🌐
 
 - [English](../../README.md)
-- [中文 (Chinese)](./i18n/zh-CN/README.md)
+- [中文 (Chinese)](../zh-CN/README.md)
 - Español (Spanish) ⬅
 
 > [!IMPORTANT]
@@ -37,9 +38,10 @@ Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las
 ### Íconos Disponibles 🎨
 
 Para ver todos los íconos disponibles, dale un vistazo a [URL Builder](https://builder.syvixor.com). Ahí podrás explorar, buscar y editar íconos muy fácilmente.
-### Contribuciones 🎖️
-¡Estamos abiertos a cualquier contribución! Si te gustaría ayudar, por favor seguí los pasos de nuestra guía [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
+### Contribuciones 🎖️
+
+¡Estamos abiertos a cualquier contribución! Si te gustaría ayudar, por favor seguí los pasos de nuestra guía [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 #### Formas de Contribuir
 
@@ -65,6 +67,7 @@ Para más instrucciones sobre cómo empezar, revisa las pautas en el archivo [CO
 ### Uso de Docker 🐳
 
 Esta Sección te proporcionará instrucciones de cómo compilar y ejecutar el proyecto `Skills Icons` usando Docker. Seguí los pasos a continuación para crear los contenedores y administrar tu aplicación correctamente.
+
 #### Requisitos Previos
 
 Antes de comenzar, asegúrate de tener lo siguiente instalado:
@@ -82,6 +85,7 @@ sudo docker build -t skills-icons .
 ```
 
 #### Ejecutando el Docker Container
+
 Una vez que la imagen se creó, puedes ejecutarla en un contenedor 
 1. Ejecuta el siguiente comando:
 ```bash
@@ -91,6 +95,7 @@ sudo docker run -p 3000:3000 skills-icons
 ```
 
 Este comando asigna el puerto 3000 de tu host local al puerto 3000 del contenedor, permitiendo acceder a `Skills Icons` en http://localhost:3000.
+
 ### Solicitudes de Eliminación de Íconos 🚫
 
 Nos esforzamos por respetar todas las pautas de marca y la propiedad intelectual. Si representas a una empresa cuyo ícono está incluido en este proyecto y deseas que se elimine, o si crees que hemos usado un ícono de una manera que viola tus pautas de marca, por favor abre un *issue* en este repositorio detallando tu solicitud. Revisaremos tu petición de manera rápida y tomaremos las medidas adecuadas. Agradecemos tu comprensión y cooperación.
@@ -107,7 +112,7 @@ Si encuentras este proyecto útil, considera:
 
 [![Contributors](https://contrib.rocks/image?repo=syvixor/skills-icons)](https://github.com/syvixor/skills-icons/graphs/contributors)
 
-### ### Impulsado por 🛟
+### Impulsado por 🛟
 
 Este proyecto está desplegado y alojado usando [Vercel](https://vercel.com)
 
