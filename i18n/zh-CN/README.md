@@ -11,6 +11,7 @@
 
 - [English](../../README.md)
 - 中文 (Chinese) ⬅
+- [Español (Spanish)](../es/README.md)
 
 > [!IMPORTANT]
 > 如果您能为我们的仓库点个星星，我们将不胜感激！这有助于提升项目可见度并获得支持。

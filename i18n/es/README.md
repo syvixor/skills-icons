@@ -41,7 +41,7 @@ Para ver todos los íconos disponibles, dale un vistazo a [URL Builder](https://
 
 ### Contribuciones 🎖️
 
-¡Estamos abiertos a cualquier contribución! Si te gustaría ayudar, por favor seguí los pasos de nuestra guía [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+¡Estamos abiertos a cualquier contribución! Si te gustaría ayudar, por favor seguí los pasos de nuestra guía [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 #### Formas de Contribuir
 
