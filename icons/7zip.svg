@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="7-Zip" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="sevenzip">
+<style>
+#sevenzip {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M205.273 63H43V186.294H205.273V63Z" fill="white"/>
+<path d="M151.182 113.088V124.647H171.659L151.182 154.315V167.029H185.955V155.471H165.477L185.955 125.803V113.088H151.182ZM85.5 101.529V113.088H114.477L97.0909 130.426V155.471H112.545V130.426L128 115.015V101.529M70.0455 89.9706H139.591V167.029H70.0455V89.9706ZM43 63V194H213V63H43ZM54.5909 74.5588H201.409V182.441H54.5909" fill="black"/>
+</svg>
