@@ -1,0 +1,24 @@
+<svg width="256" height="256" title="Raygui" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="#E2E2E2"/>
+<path d="M65 192H90V197H65V192Z" fill="#949494"/>
+<path d="M70 192V217H65V192H70Z" fill="#949494"/>
+<path d="M120 192V217H115V192H120Z" fill="#949494"/>
+<path d="M95 192H120V197H95V192Z" fill="#949494"/>
+<path d="M95 202H120V207H95V202Z" fill="#949494"/>
+<path d="M95 212H120V217H95V212Z" fill="#949494"/>
+<path d="M100 202V217H95V202H100Z" fill="#949494"/>
+<path d="M125 212H150V217H125V212Z" fill="#949494"/>
+<path d="M125 222H150V227H125V222Z" fill="#949494"/>
+<path d="M130 192V217H125V192H130Z" fill="#949494"/>
+<path d="M150 192V227H145V192H150Z" fill="#949494"/>
+<path d="M155 212H180V217H155V212Z" fill="#949494"/>
+<path d="M155 222H180V227H155V222Z" fill="#949494"/>
+<path d="M160 192V217H155V192H160Z" fill="#949494"/>
+<path d="M180 192V227H175V192H180Z" fill="#949494"/>
+<path d="M155 192H180V197H155V192Z" fill="#949494"/>
+<path d="M185 212H210V217H185V212Z" fill="#949494"/>
+<path d="M210 192V217H205V192H210Z" fill="#949494"/>
+<path d="M190 192V217H185V192H190Z" fill="#949494"/>
+<path d="M220 192V217H215V192H220Z" fill="#949494"/>
+<path d="M220 182V187H215V182H220Z" fill="#949494"/>
+</svg>
