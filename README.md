@@ -12,7 +12,7 @@ Mostra il tuo stack tecnico con icone pulite e personalizzabili: ti basta elenca
 - [Inglese](README.md)
 - [中文 (Chinese)](./i18n/zh-CN/README.md)
 - [Español (Spanish)](./i18n/es/README.md)
-- [Italiano](./i18n/ita/README.md)
+- [Italiano (Italian)](./i18n/ita/README.md)
 
 > [!IMPORTANT]
 > Ci farebbe molto piacere se volessi mettere una stella al nostro repository! Ci aiuta a ottenere visibilità e a sostenere il progetto.
