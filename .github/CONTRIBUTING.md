@@ -1,43 +1,43 @@
-# Contributing to Skills Icons
+# Contribuire a Skills Icons
 
-Thank you for your interest in contributing to Skills Icons! We appreciate your time and effort. By contributing, you are helping to improve this project for everyone.
+Grazie per il tuo interesse nel contribuire a Skills Icons! Apprezziamo il tuo tempo e il tuo impegno. Con i tuoi contributi, aiuti a migliorare questo progetto per tutti.
 
-Please read through the following guidelines to ensure that your contributions are aligned with the project's goals and standards.
+Per favore leggi le seguenti linee guida per assicurarti che i tuoi contributi siano in linea con gli obiettivi e gli standard del progetto.
 
-## How to Contribute
+## Come contribuire
 
-### 1. Reporting Bugs
+### 1. Segnalare bug
 
-If you find a bug or issue, please follow these steps:
+Se trovi un bug o un problema, segui questi passaggi:
 
-- Search if there's an existing issue to see if the bug has already been reported.
-- If the bug hasn’t been reported yet, open a new issue
+- Cerca se esiste già una issue per vedere se il bug è stato già segnalato.
+- Se il bug non è ancora stato segnalato, apri una nuova issue.
 
-### 2. Icon Contribution
+### 2. Contributi di icone
 
-#### Icon Templates
+#### Template delle icone
 
-- [Normal Icon](ICON_TEMPLATES/icon.svg)
-- [Themed Icon](ICON_TEMPLATES/themed_icon.svg)
+- [Icona normale](ICON_TEMPLATES/icon.svg)
+- [Icona con tema](ICON_TEMPLATES/themed_icon.svg)
 
-If you'd like to contribute a new icon, please follow these steps:
+Se vuoi contribuire con una nuova icona, segui questi passaggi:
 
-- Download and make use of the provided icon templates. These templates are designed to ensure uniformity in icon style across the project.
+- Scarica e utilizza i template di icone forniti. Questi template sono pensati per garantire uniformità nello stile delle icone in tutto il progetto.
 
-- Ensure your icon adheres to the original design principles of the project.
+- Assicurati che la tua icona rispetti i principi di design originali del progetto.
 
-- Pay attention to **sizing**, **style**, and **clarity**.
+- Fai attenzione a **dimensioni**, **stile** e **chiarezza**.
 
-- Icons should be placed in the /icons directory. Ensure the icon file is named consistently with the naming convention (e.g., iconname.svg).
+- Le icone devono essere inserite nella directory /icons. Assicurati che il file dell'icona sia nominato in modo coerente con le convenzioni (ad es. iconname.svg).
 
-### 3. Pull Request Review Process
+### 3. Processo di revisione delle Pull Request
 
-Once you submit a pull request, the maintainers will review it and may ask for clarifications or changes. Please be responsive to any feedback or requests for changes.
+Dopo che invii una pull request, i maintainer la esamineranno e potrebbero chiedere chiarimenti o modifiche. Per favore rispondi ai feedback o alle richieste di modifica.
 
-## Code of Conduct
+## Codice di condotta
 
-By contributing to this project, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md), which sets expectations for respectful and inclusive communication.
+Contribuendo a questo progetto, accetti di seguire il nostro [Codice di condotta](CODE_OF_CONDUCT.md), che stabilisce le aspettative per una comunicazione rispettosa e inclusiva.
 
-## Licensing
+## Licenza
 
-By contributing to this project, you agree that your contributions will be licensed under the [project’s license](../LICENSE).
+Contribuendo a questo progetto, accetti che i tuoi contributi saranno rilasciati secondo la [licenza del progetto](../LICENSE).
