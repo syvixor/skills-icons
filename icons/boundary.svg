@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="HashiCorp Boundary" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="boundary">
+<style>
+#boundary {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M91.7529 205V193.142H116.308V185.82H104.39V173.875H160.583L134.489 128.5L160.594 83.1027H102.994V146.051H72V52H178.677L196.476 82.9497L170.284 128.5L197 174.968L179.735 205H91.7529Z" fill="#F24C53"/>
+<path d="M96.5329 173.875H84.6375V185.809H96.5329V173.875ZM83.8954 193.055H72V204.989H83.8954V193.055Z" fill="#F24C53"/>
+</svg>
