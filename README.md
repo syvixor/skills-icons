@@ -1,22 +1,23 @@
 ## Skills Icons ✨
 
-Showcase your tech stack with clean, customizable icons, just list the technologies you use, separated by commas.
+Mostra il tuo stack tecnico con icone pulite e personalizzabili: ti basta elencare le tecnologie che usi, separate da virgole.
 
-### Example 💡
+### Esempio 💡
 
 ![Banner Dark](./.github/example-dark.png#gh-dark-mode-only)
 ![Banner Light](./.github/example-light.png#gh-light-mode-only)
 
-### Available Languages 🌐
+### Lingue disponibili 🌐
 
-- English ⬅
+- [Inglese](README.md)
 - [中文 (Chinese)](./i18n/zh-CN/README.md)
 - [Español (Spanish)](./i18n/es/README.md)
+- [Italiano](./i18n/ita/README.md)
 
 > [!IMPORTANT]
-> We'd really appreciate it if you would consider starring our repository! It helps us gain visibility and support the project.
+> Ci farebbe molto piacere se volessi mettere una stella al nostro repository! Ci aiuta a ottenere visibilità e a sostenere il progetto.
 
-#### Main URLs 🔗
+#### URL principali 🔗
 
 - https://skills.syvixor.com
 - https://skills-icons.vercel.app
@@ -27,95 +28,95 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 
 [![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
 
-### Configuration Options 🛠️
+### Opzioni di configurazione 🛠️
 
-| Parameter | Description                                      | Required | Default |
-|-----------|--------------------------------------------------|----------|---------|
-| `i`       | Comma-separated list of icon names               | Yes      | /       |
-| `perline` | Number of icons per line                         | No       | 15      |
-| `radius`  | Icon(s) corner radius (value between 25 and 85)  | No       | 40      |
+| Parametro | Descrizione                                   | Obbligatorio | Predefinito |
+|-----------|-----------------------------------------------|--------------|-------------|
+| `i`       | Elenco di nomi di icone separati da virgole    | Sì           | /           |
+| `perline` | Numero di icone per riga                       | No           | 15          |
+| `radius`  | Raggio degli angoli delle icone (tra 25 e 85)  | No           | 40          |
 
-### Available Icons 🎨
+### Icone disponibili 🎨
 
-To view all available icons, check out the [URL Builder](https://builder.syvixor.com). It lets you browse, search, and customize icons easily.
+Per vedere tutte le icone disponibili, consulta lo [URL Builder](https://builder.syvixor.com). Ti permette di sfogliare, cercare e personalizzare facilmente le icone.
 
-### Contributing 🎖️
+### Contribuire 🎖️
 
-We welcome contributions from anyone! If you'd like to help, please follow the detailed guidelines in our [CONTRIBUTING.md](.github/CONTRIBUTING.md) file.
+Accogliamo contributi da chiunque! Se vuoi dare una mano, segui le linee guida dettagliate nel file [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
-#### Ways to Contribute
+#### Modi per contribuire
 
-- Add New Icons: Submit PRs to expand our icon collection.
-- Bug Fixes: Help us identify and fix issues.
-- Documentation: Help improve documentation.
+- Aggiungere nuove icone: invia PR per ampliare la nostra raccolta di icone.
+- Correzione bug: aiutaci a trovare e risolvere problemi.
+- Documentazione: aiuta a migliorare la documentazione.
 
-#### Development Setup
+#### Configurazione di sviluppo
 
 ```bash
-# Clone the repository
+# Clona il repository
 git clone https://github.com/syvixor/skills-icons.git
 
-# Install dependencies
+# Installa le dipendenze
 pnpm install # or npm install
 
-# Run development server
+# Run il server di sviluppo
 pnpm dev # or npm run dev
 ```
 
-For more instructions on how to get started, check out the guidelines in the [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+Per altre istruzioni su come iniziare, consulta le linee guida in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
-### Docker Usage 🐳
+### Uso di Docker 🐳
 
-This section provides instructions on building and running the `Skills Icons` project using Docker. Follow the steps below to containerize and manage the application efficiently.
+Questa sezione fornisce istruzioni per creare e avviare il progetto `Skills Icons` usando Docker. Segui i passaggi qui sotto per eseguire e gestire l'applicazione in container in modo efficiente.
 
-#### Prerequisites
+#### Prerequisiti
 
-Before you begin, ensure you have the following installed:
-- Docker (version 18.09 or higher)
+Prima di iniziare, assicurati di avere installato:
+- Docker (versione 18.09 o superiore)
 
-#### Building the Docker Image
+#### Creare l'immagine Docker
 
-To build the Docker image for `Skills Icons`, follow these steps:
-1. Open a terminal and navigate to the directory.
-2. Run the following command to build the image:
+Per creare l'immagine Docker per `Skills Icons`, segui questi passaggi:
+1. Apri un terminale e naviga nella directory.
+2. Esegui il seguente comando per creare l'immagine:
 ```bash
 docker build -t skills-icons .
 # or
 sudo docker build -t skills-icons .
 ```
 
-#### Running the Docker Container
+#### Eseguire il container Docker
 
-Once the image is built, you can run it in a container:
-1. Execute the following command:
+Una volta creata l'immagine, puoi eseguirla in un container:
+1. Esegui il seguente comando:
 ```bash
 docker run -p 3000:3000 skills-icons
 # or
 sudo docker run -p 3000:3000 skills-icons
 ```
 
-This command maps port 3000 of your host machine to port 3000 of the container, allowing you to access `Skills Icons` at http://localhost:3000.
+Questo comando mappa la porta 3000 della tua macchina host alla porta 3000 del container, permettendoti di accedere a `Skills Icons` su http://localhost:3000.
 
-### Icon Removal Requests 🚫
+### Richieste di rimozione icone 🚫
 
-We strive to respect all branding guidelines and intellectual property. If you represent a company whose icon is included in this project and you would like it removed, or if you believe we have used an icon in a way that violates your branding guidelines, please open an issue on this repository detailing your request. We will review your request promptly and take appropriate action. We appreciate your understanding and cooperation.
+Ci impegniamo a rispettare tutte le linee guida di branding e la proprietà intellettuale. Se rappresenti un'azienda la cui icona è inclusa in questo progetto e desideri che venga rimossa, o se ritieni che abbiamo usato un'icona in modo non conforme alle tue linee guida di branding, apri una issue in questo repository descrivendo la tua richiesta. La esamineremo rapidamente e prenderemo le misure appropriate. Grazie per la comprensione e la collaborazione.
 
-### Support 💝
+### Supporto 💝
 
-If you find this project helpful, consider:
+Se trovi utile questo progetto, valuta di:
 
-- Starring the repository
-- Sharing it with others
-- Contributing to its development
+- Mettere una stella al repository
+- Condividerlo con altri
+- Contribuire al suo sviluppo
 
-### Thanks To All The contributors 🙏
+### Grazie a tutti i contributor 🙏
 
 [![Contributors](https://contrib.rocks/image?repo=syvixor/skills-icons)](https://github.com/syvixor/skills-icons/graphs/contributors)
 
-### Powered By 🛟
+### Offerto da 🛟
 
-This project is deployed and hosted using [Vercel](https://vercel.com)
+Questo progetto è distribuito e ospitato con [Vercel](https://vercel.com)
 
-### License 📝
+### Licenza 📝
 
-This project is licensed under [MIT License](LICENSE)
+Questo progetto è rilasciato sotto [MIT License](LICENSE)
