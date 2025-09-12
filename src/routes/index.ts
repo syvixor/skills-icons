@@ -30,6 +30,7 @@ const shortNames: Record<string, string> = {
     "arch": "archlinux",
     "uv": "astraluv",
     "beef": "beeflang",
+    "caddy": "caddyserver",
     "capacitor": "capacitorjs",
     "cudacpp": "cudacplusplus",
     "d3": "d3js",
