@@ -10,7 +10,7 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 ### Available Languages 🌐
 
 - English ⬅
-- [中文 (Chinese)](./i18n/zh-CN/README.md)
+- [中文 (Chinese)](./i18n/zh/README.md)
 - [Español (Spanish)](./i18n/es/README.md)
 - [Italiano (Italian)](./i18n/it/README.md)
 

@@ -10,7 +10,7 @@ Mostra il tuo stack tecnico con icone pulite e personalizzabili: ti basta elenca
 ### Lingue disponibili 🌐
 
 - [English](../../README.md)
-- [中文 (Chinese)](../zh-CN/README.md)
+- [中文 (Chinese)](../zh/README.md)
 - [Español (Spanish)](../es/README.md)
 - Italiano (Italian) ⬅
 

@@ -36,8 +36,8 @@ Dopo che invii una pull request, i maintainer la esamineranno e potrebbero chied
 
 ## Codice di condotta
 
-Contribuendo a questo progetto, accetti di seguire il nostro [Codice di condotta](CODE_OF_CONDUCT.md), che stabilisce le aspettative per una comunicazione rispettosa e inclusiva.
+Contribuendo a questo progetto, accetti di seguire il nostro [Codice di condotta](../../.github/CODE_OF_CONDUCT.md), che stabilisce le aspettative per una comunicazione rispettosa e inclusiva.
 
 ## Licenza
 
-Contribuendo a questo progetto, accetti che i tuoi contributi saranno rilasciati secondo la [licenza del progetto](../LICENSE).
+Contribuendo a questo progetto, accetti che i tuoi contributi saranno rilasciati secondo la [licenza del progetto](../../LICENSE).
