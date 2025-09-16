@@ -80,7 +80,6 @@ const shortNames: Record<string, string> = {
     "sclearn": "scikitlearn",
     "sdl": "simpledirectmedialayer",
     "solid": "solidjs",
-    "spring": "springboot",
     "so": "stackoverflow",
     "truenas": "truenascore",
     "tailwind": "tailwindcss",
