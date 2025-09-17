@@ -23,6 +23,8 @@ const shortNames: Record<string, string> = {
     "ae": "adobeaftereffects",
     "aws": "amazonwebservices",
     "angular": "angularjs",
+    "hadoop": "apachehadoop",
+    "hive": "apachehive",
     "hop": "apachehop",
     "jmeter": "apachejmeter",
     "maven": "apachemaven",
