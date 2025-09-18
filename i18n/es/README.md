@@ -9,10 +9,10 @@ Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las
 
 ### Idiomas Disponibles 🌐
 
-- [English](../../README.md)
-- [中文 (Chinese)](../zh/README.md)
-- Español (Spanish) ⬅
-- [Italiano (Italian)](../it/README.md)
+- 🇬🇧 [English](../../README.md)
+- 🇨🇳 [中文 (Chinese)](../zh/README.md)
+- 🇪🇸 Español (Spanish) ⬅
+- 🇮🇹 [Italiano (Italian)](../it/README.md)
 
 > [!IMPORTANT]
 > Si te gusta el proyecto, ¡considera darle una estrella ⭐! Eso nos ayuda a ganar visibilidad y seguir mejorándolo.

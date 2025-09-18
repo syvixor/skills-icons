@@ -9,10 +9,10 @@ Mostra il tuo stack tecnico con icone pulite e personalizzabili: ti basta elenca
 
 ### Lingue disponibili 🌐
 
-- [English](../../README.md)
-- [中文 (Chinese)](../zh/README.md)
-- [Español (Spanish)](../es/README.md)
-- Italiano (Italian) ⬅
+- 🇬🇧 [English](../../README.md)
+- 🇨🇳 [中文 (Chinese)](../zh/README.md)
+- 🇪🇸 [Español (Spanish)](../es/README.md)
+- 🇮🇹 Italiano (Italian) ⬅
 
 > [!IMPORTANT]
 > Ci farebbe molto piacere se volessi mettere una stella al nostro repository! Ci aiuta a ottenere visibilità e a sostenere il progetto.
