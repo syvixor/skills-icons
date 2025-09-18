@@ -1,0 +1,22 @@
+<svg width="256" height="256" class="ClickUP" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="clickup">
+<style>
+#clickup {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M58 173.191L83.8029 153.276C97.5986 171.149 112.161 179.574 128.256 179.574C144.351 179.574 158.657 171.405 171.686 153.532L198 172.936C179.095 198.468 155.591 212 128.256 212C101.175 212 77.4161 198.468 58 173.191Z" fill="url(#linearGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.255 87.1489L82.2696 126.724L61.0652 101.957L128.511 44L195.445 101.957L173.985 126.468L128.255 87.1489Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="58" y1="128.083" x2="198.114" y2="128.083" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8930FD"/>
+<stop offset="1" stop-color="#49CCF9"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="61.0532" y1="85.3474" x2="195.304" y2="85.3474" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF02F0"/>
+<stop offset="1" stop-color="#FFC800"/>
+</linearGradient>
+</svg>

@@ -88,6 +88,7 @@ const shortNames: Record<string, string> = {
     "ts": "typescript",
     "upstage": "upstageai",
     "vscode": "visualstudiocode",
+    "vscodeinsiders": "visualstudiocodeinsiders",
     "vue": "vuejs",
     "ws": "websocket",
     "wasdk": "windowsappsdk",
