@@ -1,0 +1,22 @@
+<svg width="256" height="256" title="Code::Blocks" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="codeblocks">
+<style>
+#codeblocks {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M141.235 194.176L203 185.352V128L141.235 132.412V194.176Z" fill="#3F51B5"/>
+<path d="M203 128L167.706 114.765L119.176 119.176L141.235 132.412L203 128Z" fill="#303F9F"/>
+<path d="M119.176 119.176V176.529L141.235 194.176V132.411L119.176 119.176Z" fill="#3949AB"/>
+<path d="M66.2353 202.999L132.412 194.176V132.412L66.2353 136.824V202.999Z" fill="#FFEB3B"/>
+<path d="M132.412 132.411L110.353 119.176L53 123.588L66.2353 136.823L132.412 132.411Z" fill="#FBC02D"/>
+<path d="M53 123.588V185.353L66.2353 203V136.824L53 123.588Z" fill="#FDD835"/>
+<path d="M141.235 123.588L203 119.176V53H141.235V123.588Z" fill="#8BC34A"/>
+<path d="M119.176 61.8235V110.353L141.235 123.588V53L119.176 61.8235Z" fill="#7CB342"/>
+<path d="M66.2353 128L132.412 123.588V53H66.2353V128Z" fill="#F44336"/>
+<path d="M53 61.8235V114.765L66.2353 128V53L53 61.8235Z" fill="#D32F2F"/>
+</svg>
