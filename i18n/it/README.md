@@ -13,6 +13,7 @@ Mostra il tuo stack tecnico con icone pulite e personalizzabili: ti basta elenca
 - 🇨🇳 [中文 (Chinese)](../zh/README.md)
 - 🇪🇸 [Español (Spanish)](../es/README.md)
 - 🇮🇹 Italiano (Italian) ⬅
+- 🇷🇺 [Русский (Russian)](../ru/README.md)
 
 > [!IMPORTANT]
 > Ci farebbe molto piacere se volessi mettere una stella al nostro repository! Ci aiuta a ottenere visibilità e a sostenere il progetto.
@@ -63,7 +64,7 @@ pnpm install # or npm install
 pnpm dev # or npm run dev
 ```
 
-Per altre istruzioni su come iniziare, consulta le linee guida in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+Per altre istruzioni su come iniziare, consulta le linee guida in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ### Uso di Docker 🐳
 
@@ -119,4 +120,4 @@ Questo progetto è distribuito e ospitato con [Vercel](https://vercel.com)
 
 ### Licenza 📝
 
-Questo progetto è rilasciato sotto [MIT License](LICENSE)
+Questo progetto è rilasciato sotto [MIT License](../../LICENSE)
