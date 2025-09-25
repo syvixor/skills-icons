@@ -4,8 +4,8 @@
 
 ### Пример 💡
 
-![Banner Dark](./i18n/ru/example-dark-ru.png#gh-dark-mode-only)
-![Banner Light](./i18n/ru/example-lightk-ru.png#gh-light-mode-only)
+![Banner Dark](/i18n/ru/example-dark-ru.png#gh-dark-mode-only)
+![Banner Light](/i18n/ru/example-light-ru.png#gh-light-mode-only)
 
 ### Доступные языки 🌐
 
