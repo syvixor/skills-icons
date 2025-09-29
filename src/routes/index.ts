@@ -31,6 +31,8 @@ const shortNames: Record<string, string> = {
     "arc": "arcbrowser",
     "arch": "archlinux",
     "uv": "astraluv",
+    "batchfile": "batch",
+    "batchscript": "batch",
     "beef": "beeflang",
     "caddy": "caddyserver",
     "capacitor": "capacitorjs",
