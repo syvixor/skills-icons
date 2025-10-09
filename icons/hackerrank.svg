@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="HackerRank" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="hackerrank">
+<style>
+#hackerrank {
+    rect {fill: #15191C}
+    path.hackerrank {fill: #EEEEEE}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.hackerrank {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M211.435 76H135.983C135.119 76 134.418 76.7037 134.418 77.5719V179.428C134.418 180.296 135.119 181 135.983 181H211.435C212.298 181 213 180.296 213 179.428V77.5719C213 76.7037 212.298 76 211.435 76Z" fill="#00EA64"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43 77.5719C43 76.7038 43.7008 76 44.5654 76H67.7329C68.5974 76 69.2983 76.7038 69.2983 77.5719V115.297H95.2834V77.5719C95.2834 76.7038 95.9844 76 96.8488 76H120.017C120.88 76 121.582 76.7038 121.582 77.5719V179.428C121.582 180.296 120.88 181 120.017 181H96.8488C95.9844 181 95.2834 180.296 95.2834 179.428V141.703H69.2983V179.428C69.2983 180.296 68.5974 181 67.7329 181H44.5654C43.7008 181 43 180.296 43 179.428V77.5719Z" class="hackerrank" fill="#EEEEEE"/>
+</svg>
