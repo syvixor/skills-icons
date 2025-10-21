@@ -1,0 +1,42 @@
+<svg width="256" height="256" title="Microsoft Clipchamp" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="microsoftclipchamp">
+<style>
+#microsoftclipchamp {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M61.2416 80.5134L179.243 53.2752C184.946 51.9587 190.598 55.4904 191.914 61.1937L195.078 74.9017C196.395 80.605 192.863 86.2563 187.16 87.5728L69.1585 114.811C63.4552 116.127 57.8437 112.586 56.4874 106.892L53.3044 93.5303C51.8926 87.6039 55.5383 81.8298 61.2416 80.5134Z" fill="url(#linearGradient1)"/>
+<path d="M53 90.9651V123.719C53 129.696 57.8116 134.507 63.7883 134.507H203V112.736C203 106.893 198.482 102.144 192.734 101.777V101.753H63.7883C57.8116 101.753 53 96.9418 53 90.9651Z" fill="url(#linearGradient2)"/>
+<path d="M151.606 101.753V134.507H203V112.736C203 106.893 198.482 102.144 192.734 101.777V101.753L151.606 101.753Z" fill="url(#linearGradient3)"/>
+<path d="M53 123.719V159.064C53 162.261 54.3772 165.123 56.5723 167.095H203V134.507H63.7883C57.8116 134.507 53 129.696 53 123.719Z" fill="url(#linearGradient4)"/>
+<path d="M53 123.719V159.064C53 162.261 54.3772 165.123 56.5723 167.095H104.483V134.507L63.7883 134.507C57.8116 134.507 53 129.696 53 123.719Z" fill="url(#linearGradient5)"/>
+<path d="M53 156.307V191.652C53 197.629 57.8116 202.44 63.7883 202.44H192.212C198.188 202.44 203 197.629 203 191.652V167.095L63.7883 167.095C57.8116 167.095 53 162.284 53 156.307Z" fill="url(#linearGradient6)"/>
+<linearGradient id="linearGradient1" x1="97.4115" y1="149.943" x2="207.425" y2="138.111" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7250DB"/>
+<stop offset="1" stop-color="#A357DB"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="77.5878" y1="132.063" x2="155.394" y2="138.137" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E9A8F7"/>
+<stop offset="1" stop-color="#D38EF7"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="72.2183" y1="101.002" x2="197.201" y2="122.425" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BB77F6"/>
+<stop offset="1" stop-color="#A865F4"/>
+</linearGradient>
+<linearGradient id="linearGradient4" x1="110.692" y1="142.499" x2="206.84" y2="142.499" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A367F6"/>
+<stop offset="1" stop-color="#814DF3"/>
+</linearGradient>
+<linearGradient id="linearGradient5" x1="90.2507" y1="141.507" x2="183.348" y2="141.507" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D891F9"/>
+<stop offset="1" stop-color="#C681F8"/>
+</linearGradient>
+<linearGradient id="linearGradient6" x1="61.7552" y1="183.953" x2="178.053" y2="183.953" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8362F6"/>
+<stop offset="1" stop-color="#4F37F3"/>
+</linearGradient>
+</svg>

@@ -74,6 +74,7 @@ const shortNames: Record<string, string> = {
     "mui": "materialui",
     "md": "markdown",
     "access": "microsoftaccess",
+    "clipchamp": "microsoftclipchamp",
     "copilot": "microsoftcopilot",
     "excel": "microsoftexcel",
     "office": "microsoftoffice",
