@@ -17,8 +17,8 @@ Se encontrar um bug ou problema, por favor siga estes passos:
 
 #### Modelos de Ícones
 
-- [Ícone Normal](ICON_TEMPLATES/icon.svg)
-- [Ícone com Tema](ICON_TEMPLATES/themed_icon.svg)
+- [Ícone Normal](../../.github/ICON_TEMPLATES/icon.svg)
+- [Ícone com Tema](../../.github/ICON_TEMPLATES/themed_icon.svg)
 
 Se gostaria de contribuir com um novo ícone, por favor siga estes passos:
 
