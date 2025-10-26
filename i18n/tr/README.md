@@ -15,9 +15,11 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 - 🇮🇹 [Italiano (İtalyanca)](../../i18n/it/README.md)
 - 🇷🇺 [Русский (Rusça)](../../i18n/ru/README.md)
 - 🇹🇷 Turkish (Türkçe) ⬅
+- 🇵🇹 [Português (Portuguese)](../pt/README.md)
 
 > [!IMPORTANT]
 > Eğer projemizi yıldızlarsanız çok memnun oluruz! Bu görününürlük kazanmamızı sağlıyor ve projeyi destekliyor.
+
 #### Ana Adresler 🔗
 
 - https://skills.syvixor.com
