@@ -4,8 +4,8 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 
 ### Örnek 💡
 
-![Koyu](./.github/example-dark.png#gh-dark-mode-only)
-![Açık](./.github/example-light.png#gh-light-mode-only)
+![Koyu](../../.github/example-dark.png#gh-dark-mode-only)
+![Açık](../../.github/example-light.png#gh-light-mode-only)
 
 ### Kullanılabilir Diller 🌐
 
