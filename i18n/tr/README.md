@@ -9,11 +9,11 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 
 ### Kullanılabilir Diller 🌐
 
-- 🇬🇧 [English (İngilizce)](./i18n/zh/README.md) 
-- 🇨🇳 [中文 (Çince)](./i18n/zh/README.md)
-- 🇪🇸 [Español (İspanyolca)](./i18n/es/README.md)
-- 🇮🇹 [Italiano (İtalyanca)](./i18n/it/README.md)
-- 🇷🇺 [Русский (Rusça)](./i18n/ru/README.md)
+- 🇬🇧 [English (İngilizce)](../../README.md) 
+- 🇨🇳 [中文 (Çince)](../../i18n/zh/README.md)
+- 🇪🇸 [Español (İspanyolca)](../../i18n/es/README.md)
+- 🇮🇹 [Italiano (İtalyanca)](../../i18n/it/README.md)
+- 🇷🇺 [Русский (Rusça)](../../i18n/ru/README.md)
 - 🇹🇷 Turkish (Türkçe) ⬅
 
 > [!IMPORTANT]
@@ -43,7 +43,7 @@ Kullanılabilir ikonları görmek için [URL Builder](https://builder.syvixor.co
 
 ### Katkıda Bulunma 🎖️
 
-Herkesin katkısını memnuniyetle karşılıyoruz! Yardımcı olmak isterseniz, lütfen [CONTRIBUTING.md](.github/CONTRIBUTING.md) dosyamızdaki ayrıntılı yönergeleri izleyin.
+Herkesin katkısını memnuniyetle karşılıyoruz! Yardımcı olmak isterseniz, lütfen [CONTRIBUTING.md](../../.github/CONTRIBUTING.md) dosyamızdaki ayrıntılı yönergeleri izleyin.
 
 #### Katkıda Bulunmanın Yolları
 
@@ -64,7 +64,7 @@ pnpm install # veya npm install
 pnpm dev # veya npm run dev
 ```
 
-Başlamak için daha fazla talimat için [CONTRIBUTING.md](.github/CONTRIBUTING.md) dosyasındaki yönergelere bakın.
+Başlamak için daha fazla talimat için [CONTRIBUTING.md](../../.github/CONTRIBUTING.md) dosyasındaki yönergelere bakın.
 
 ### Docker Kullanımı 🐳
 
@@ -119,4 +119,4 @@ Bu projeyi faydalı bulursanız şunları göz önünde bulundurun:
 Bu proje [Vercel](https://vercel.com) üzerinde dağıtılıp barındırılmaktadır.
 
 ### Lisans 📝
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+Bu proje [MIT Lisansı](../../LICENSE) altında lisanslanmıştır.
