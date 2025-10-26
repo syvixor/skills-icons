@@ -118,7 +118,7 @@ Se achar este projeto útil, considere:
 
 ### Hospedado por 🛟
 
-Este projeto está hospedado utilizando [Vercel](https://vercel.com)
+Este projeto está hospedado na [Vercel](https://vercel.com)
 
 ### Licença 📝
 
