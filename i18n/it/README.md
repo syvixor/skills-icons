@@ -14,6 +14,7 @@ Mostra il tuo stack tecnico con icone pulite e personalizzabili: ti basta elenca
 - 🇪🇸 [Español (Spanish)](../es/README.md)
 - 🇮🇹 Italiano (Italian) ⬅
 - 🇷🇺 [Русский (Russian)](../ru/README.md)
+- 🇹🇷 [Türkçe (Turkish)](../tr/README.md)
 
 > [!IMPORTANT]
 > Ci farebbe molto piacere se volessi mettere una stella al nostro repository! Ci aiuta a ottenere visibilità e a sostenere il progetto.

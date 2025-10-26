@@ -14,6 +14,7 @@ Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las
 - 🇪🇸 Español (Spanish) ⬅
 - 🇮🇹 [Italiano (Italian)](../it/README.md)
 - 🇷🇺 [Русский (Russian)](../ru/README.md)
+- 🇹🇷 [Türkçe (Turkish)](../tr/README.md)
 
 > [!IMPORTANT]
 > Si te gusta el proyecto, ¡considera darle una estrella ⭐! Eso nos ayuda a ganar visibilidad y seguir mejorándolo.
