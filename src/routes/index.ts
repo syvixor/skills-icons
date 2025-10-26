@@ -34,6 +34,7 @@ const shortNames: Record<string, string> = {
     "batchfile": "batch",
     "batchscript": "batch",
     "beef": "beeflang",
+    "budgiedesktop": "buddiesofbudgie",
     "caddy": "caddyserver",
     "capacitor": "capacitorjs",
     "cudacpp": "cudacplusplus",
