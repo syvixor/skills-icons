@@ -15,6 +15,7 @@
 - 🇮🇹 [Italiano (Italian)](../it/README.md)
 - 🇷🇺 [Русский (Russian)](../ru/README.md)
 - 🇹🇷 [Türkçe (Turkish)](../tr/README.md)
+- 🇵🇹 [Português (Portuguese)](../pt/README.md)
 
 > [!IMPORTANT]
 > 如果您能为我们的仓库点个星星，我们将不胜感激！这有助于提升项目可见度并获得支持。
