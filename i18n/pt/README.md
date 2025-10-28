@@ -16,6 +16,7 @@ Apresente a sua stack tecnológica com ícones simples e personalizáveis, basta
 - 🇷🇺 [Русский (Russian)](../ru/README.md)
 - 🇹🇷 [Türkçe (Turkish)](../tr/README.md)
 - 🇵🇹 Português (Portuguese) ⬅
+- 🇩🇪 [Deutsch (German)](../de/README.md)
 
 > [!IMPORTANT]
 > Agradecíamos muito se considerasse dar uma estrela ⭐ ao nosso repositório! Isso ajuda-nos a ganhar visibilidade e apoiar o projeto.
