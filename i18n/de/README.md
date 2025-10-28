@@ -16,7 +16,7 @@ Präsentieren Sie Ihren Tech-Stack mit anpassbaren Icons, liste einfach die Tech
 - 🇷🇺 [Русский (Russian)](./i18n/ru/README.md)
 - 🇹🇷 [Türkçe (Turkish)](./i18n/tr/README.md)
 - 🇵🇹 [Português (Portuguese)](./i18n/pt/README.md)
-- 🇩🇪 [Deutsch (German)](./i18n/de/README.md) ⬅
+- 🇩🇪 Deutsch (German) ⬅
 
 > [!IMPORTANT]
 > Wir würden uns sehr freuen, wenn Sie unserem Repository einen Stern geben würden! Dies hilft uns, mehr Sichtbarkeit zu erlangen und das Projekt zu unterstützen.
@@ -35,10 +35,10 @@ Präsentieren Sie Ihren Tech-Stack mit anpassbaren Icons, liste einfach die Tech
 ### Konfigurationsoptionen 🛠️
 
 | Parameter | Beschreibung                                      | Erforderlich | Standard |
-|-----------|--------------------------------------------------|----------|---------|
-| `i`       | Komma-getrennte Liste von Icon-Namen               | Ja      | /       |
-| `perline` | Anzahl der Icons pro Zeile                         | Nein       | 15      |
-| `radius`  | Eckenradius der Icons (Wert zwischen 25 und 85)  | Nein       | 40      |
+|-----------|---------------------------------------------------|--------------|----------|
+| `i`       | Komma-getrennte Liste von Icon-Namen              | Ja           | /        |
+| `perline` | Anzahl der Icons pro Zeile                        | Nein         | 15       |
+| `radius`  | Eckenradius der Icons (Wert zwischen 25 und 85)   | Nein         | 40       |
 
 ### Verfügbare Icons 🎨
 
@@ -46,7 +46,7 @@ Um alle verfügbaren Icons anzuzeigen, besuchen Sie bitte den [URL Builder](http
 
 ### Mitwirkung 🎖️
 
-Wir begrüßen Unterstützung von allen! Falls Sie bei der Weiterentwicklung helfen möchten, lesen Sie bitte die detaillierten Richtlinien unter [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+Wir begrüßen Unterstützung von allen! Falls Sie bei der Weiterentwicklung helfen möchten, lesen Sie bitte die detaillierten Richtlinien unter [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 #### Möglichkeiten zur Mitwirkung
 
@@ -67,7 +67,7 @@ pnpm install # oder npm install
 pnpm dev # oder npm run dev
 ```
 
-Für weitere Anweisungen um zu starten, lesen Sie bitte die Richtlinien in der [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+Für weitere Anweisungen um zu starten, lesen Sie bitte die Richtlinien in der [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ### Docker-Verwendung 🐳
 
@@ -123,4 +123,4 @@ Dieses Projekt wird bereitgestellt und gehostet mit [Vercel](https://vercel.com)
 
 ### Lizenz 📝
 
-Dieses Projekt ist unter der [MIT License](LICENSE) lizenziert
+Dieses Projekt ist unter der [MIT License](../../LICENSE) lizenziert

@@ -10,13 +10,13 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 ### Kullanılabilir Diller 🌐
 
 - 🇬🇧 [English (İngilizce)](../../README.md) 
-- 🇨🇳 [中文 (Çince)](../../i18n/zh/README.md)
-- 🇪🇸 [Español (İspanyolca)](../../i18n/es/README.md)
-- 🇮🇹 [Italiano (İtalyanca)](../../i18n/it/README.md)
-- 🇷🇺 [Русский (Rusça)](../../i18n/ru/README.md)
+- 🇨🇳 [中文 (Çince)](../zh/README.md)
+- 🇪🇸 [Español (İspanyolca)](../es/README.md)
+- 🇮🇹 [Italiano (İtalyanca)](../it/README.md)
+- 🇷🇺 [Русский (Rusça)](../ru/README.md)
 - 🇹🇷 Turkish (Türkçe) ⬅
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
-- 🇩🇪 [Deutsch (Almanca)](../../i18n/de/README.md)
+- 🇩🇪 [Deutsch (Almanca)](../de/README.md)
 
 > [!IMPORTANT]
 > Eğer projemizi yıldızlarsanız çok memnun oluruz! Bu görününürlük kazanmamızı sağlıyor ve projeyi destekliyor.
@@ -35,10 +35,10 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 ### Konfigürasyon Seçenekleri 🛠️
 
 | Parametre | Açıklama                                         | Zorunlu  | Öntanımlı |
-|-----------|--------------------------------------------------|----------|---------|
-| `i`       | İkon adlarının virgülle ayrılmış listesi        | Evet      | /       |
-| `perline` | Satır başına ikon sayısı                    | Hayır       | 15      |
-| `radius`  | İkonların kenar yarıçapı (25 ve 85 arası)  | Hayır       | 40      |
+|-----------|--------------------------------------------------|----------|-----------|
+| `i`       | İkon adlarının virgülle ayrılmış listesi         | Evet     | /         |
+| `perline` | Satır başına ikon sayısı                         | Hayır    | 15        |
+| `radius`  | İkonların kenar yarıçapı (25 ve 85 arası)        | Hayır    | 40        |
 
 ### Kullanılabilir İkonlar 🎨
 

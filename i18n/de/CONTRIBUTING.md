@@ -36,8 +36,8 @@ Sobald Sie einen Pull Request einreichen, werden die Maintainer ihn überprüfen
 
 ## Verhaltenskodex
 
-Durch Ihren Beitrag zu diesem Projekt stimmen Sie zu, unserem [Verhaltenskodex](CODE_OF_CONDUCT.md) zu folgen, der Erwartungen für respektvolle und inklusive Kommunikation festlegt.
+Durch Ihren Beitrag zu diesem Projekt stimmen Sie zu, unserem [Verhaltenskodex](./CODE_OF_CONDUCT.md) zu folgen, der Erwartungen für respektvolle und inklusive Kommunikation festlegt.
 
 ## Lizenzierung
 
-Durch Ihren Beitrag zu diesem Projekt stimmen Sie zu, dass Ihre Beiträge unter der [Projektlizenz](../LICENSE) lizenziert werden.
+Durch Ihren Beitrag zu diesem Projekt stimmen Sie zu, dass Ihre Beiträge unter der [Projektlizenz](../../LICENSE) lizenziert werden.
