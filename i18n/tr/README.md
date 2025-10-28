@@ -16,6 +16,7 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 - 🇷🇺 [Русский (Rusça)](../../i18n/ru/README.md)
 - 🇹🇷 Turkish (Türkçe) ⬅
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
+- 🇩🇪 [Deutsch (Almanca)](../../i18n/de/README.md)
 
 > [!IMPORTANT]
 > Eğer projemizi yıldızlarsanız çok memnun oluruz! Bu görününürlük kazanmamızı sağlıyor ve projeyi destekliyor.
