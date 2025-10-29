@@ -69,6 +69,7 @@ const shortNames: Record<string, string> = {
     "js": "javascript",
     "jsr": "javascriptregistry",
     "kali": "kalilinux",
+		"kitty": "kitty",
     "looker": "lookerstudio",
     "lottie": "lottiefiles",
     "manifold": "manifoldjs",
