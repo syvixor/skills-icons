@@ -11,6 +11,7 @@ const router: Router = express.Router();
 const shortNames: Record<string, string> = {
     "aftereffects": "adobeaftereffects",
     "audition": "adobeaudition",
+    "coldfusion": "adobecoldfusion",
     "dreamweaver": "adobedreamweaver",
     "illustrator": "adobeillustrator",
     "indesign": "adobeindesign",
