@@ -1,0 +1,9 @@
+<svg width="256" height="256" title="Lavalink" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="url(#linearGradient)"/>
+<path d="M147.4 61H182.5L163.6 133.9H196L190.6 156.85H123.1L147.4 61Z" fill="white"/>
+<path d="M94.75 61H132.55L105.55 169H187.9L182.5 196H61L94.75 61Z" fill="white"/>
+<linearGradient id="linearGradient" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FA9800"/>
+<stop offset="1" stop-color="#FF005E"/>
+</linearGradient>
+</svg>
