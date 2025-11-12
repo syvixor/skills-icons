@@ -40,6 +40,12 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 | `perline` | Number of icons per line                         | No       | 15      |
 | `radius`  | Icon(s) corner radius (value between 25 and 85)  | No       | 40      |
 
+### Dark & Light Mode 🌗
+
+`Skills Icons` now supports automatic theme detection — icons will seamlessly adapt to your system’s dark 🌙 or light ☀️ mode without any parameters or manual setup.
+
+This behavior is powered by `CSS` built-in media query `prefers-color-scheme`, which detects the user’s current theme preference and adjusts the SVG colors accordingly.
+
 ### Available Icons 🎨
 
 To view all available icons, check out the [URL Builder](https://builder.syvixor.com). It lets you browse, search, and customize icons easily.
