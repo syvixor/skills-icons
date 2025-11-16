@@ -1,14 +1,5 @@
-<svg width="256" height="256" title="Dockge" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="dockge">
-<style>
-#dockge {
-    rect {fill: #15191C}
-
-    @media (prefers-color-scheme: light) {
-        rect {fill: #F4F2ED}
-    }
-}
-</style>
-<rect width="256" height="256" rx="40" fill="#15191C"/>
+<svg width="256" height="256" title="Dockge" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="#1d5d8fff"/>
 <path d="M164.434 92.9038C171.316 99.9304 174.134 102.898 182.499 114.946C190.865 126.994 198.047 149.198 178.499 164.359C176.061 166.249 173.275 168.085 170.213 169.813C148.711 181.945 113.588 188.775 89.9787 171.99C63.0061 152.813 65.053 110.669 94.401 84.9639C123.749 59.2592 157.552 85.8771 164.434 92.9038Z" fill="url(#linearGradient)" stroke="#F2F2F2" stroke-opacity="0.51" stroke-width="46" stroke-linecap="round"/>
 <linearGradient id="linearGradient" x1="136.865" y1="139.915" x2="188.383" y2="189.451" gradientUnits="userSpaceOnUse">
 <stop stop-color="#74C2FF"/>
