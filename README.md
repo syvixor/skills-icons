@@ -17,6 +17,7 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 - 🇹🇷 [Türkçe (Turkish)](./i18n/tr/README.md)
 - 🇵🇹 [Português (Portuguese)](./i18n/pt/README.md)
 - 🇩🇪 [Deutsch (German)](./i18n/de/README.md)
+- 🇰🇷 [한국어 (Korean)](./i18n/ko/README.md)
 
 > [!IMPORTANT]
 > We'd really appreciate it if you would consider starring our repository! It helps us gain visibility and support the project.
