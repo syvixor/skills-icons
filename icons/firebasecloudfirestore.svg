@@ -1,0 +1,19 @@
+<svg width="256" height="256" title="Firebase Cloud Firestore" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="firebasecloudfirestore">
+<style>
+#firebasecloudfirestore {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128.5 211C174.063 211 211 174.063 211 128.5C211 82.9365 174.063 46 128.5 46C82.9365 46 46 82.9365 46 128.5C46 174.063 82.9365 211 128.5 211Z" fill="url(#linearGradient)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.5 132.625L91.375 149.125V132.625L128.5 116.125L165.625 132.625V147.063V143.969V149.125L128.5 132.625ZM128.5 87.25L165.625 103.75V120.25L128.5 103.75L91.375 120.25V103.75L128.5 87.25ZM142.422 147.063L160.985 155.313L128.5 169.75V153.25L142.422 147.063Z" fill="white"/>
+<linearGradient id="linearGradient" x1="46" y1="169.698" x2="211" y2="87.3015" gradientUnits="userSpaceOnUse">
+<stop offset="0.168463" stop-color="#DD2D00"/>
+<stop offset="0.7" stop-color="#FF9100"/>
+<stop offset="1" stop-color="#DD2D00"/>
+</linearGradient>
+</svg>
