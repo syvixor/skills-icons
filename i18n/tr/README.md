@@ -17,6 +17,7 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 - 🇹🇷 Turkish (Türkçe) ⬅
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 [Deutsch (Almanca)](../de/README.md)
+- 🇰🇷 [한국어 (Korean)](../ko/README.md)
 
 > [!IMPORTANT]
 > Eğer projemizi yıldızlarsanız çok memnun oluruz! Bu görününürlük kazanmamızı sağlıyor ve projeyi destekliyor.
