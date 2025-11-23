@@ -9,7 +9,7 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 
 ### Kullanılabilir Diller 🌐
 
-- 🇬🇧 [English (İngilizce)](../../README.md) 
+- 🇬🇧 [English (İngilizce)](../../README.md)
 - 🇨🇳 [中文 (Çince)](../zh/README.md)
 - 🇪🇸 [Español (İspanyolca)](../es/README.md)
 - 🇮🇹 [Italiano (İtalyanca)](../it/README.md)
@@ -18,6 +18,7 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 [Deutsch (Almanca)](../de/README.md)
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
+- 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 
 > [!IMPORTANT]
 > Eğer projemizi yıldızlarsanız çok memnun oluruz! Bu görününürlük kazanmamızı sağlıyor ve projeyi destekliyor.
@@ -35,11 +36,11 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 
 ### Konfigürasyon Seçenekleri 🛠️
 
-| Parametre | Açıklama                                         | Zorunlu  | Öntanımlı |
-|-----------|--------------------------------------------------|----------|-----------|
-| `i`       | İkon adlarının virgülle ayrılmış listesi         | Evet     | /         |
-| `perline` | Satır başına ikon sayısı                         | Hayır    | 15        |
-| `radius`  | İkonların kenar yarıçapı (25 ve 85 arası)        | Hayır    | 40        |
+| Parametre | Açıklama                                  | Zorunlu | Öntanımlı |
+| --------- | ----------------------------------------- | ------- | --------- |
+| `i`       | İkon adlarının virgülle ayrılmış listesi  | Evet    | /         |
+| `perline` | Satır başına ikon sayısı                  | Hayır   | 15        |
+| `radius`  | İkonların kenar yarıçapı (25 ve 85 arası) | Hayır   | 40        |
 
 ### Kullanılabilir İkonlar 🎨
 
@@ -77,13 +78,16 @@ Bu bölüm, Docker kullanarak `Skills Icons` projesini oluşturma ve çalıştı
 #### Önkoşullar
 
 Başlamadan önce aşağıdakilerin yüklü olduğundan emin olun:
+
 - Docker (sürüm 18.09 veya üzeri)
 
 #### Docker Görüntüsünü Oluşturma
 
 `Beceri İkonları` için Docker görüntüsünü oluşturmak üzere şu adımları izleyin:
+
 1. Bir terminal açın ve dizine gidin.
 2. Görüntüyü oluşturmak için aşağıdaki komutu çalıştırın:
+
 ```bash
 docker build -t skills-icons .
 # or
@@ -93,7 +97,9 @@ sudo docker build -t skills-icons .
 #### Docker Konteynerini Çalıştırma
 
 Görüntü oluşturulduktan sonra, bir konteynerde çalıştırabilirsiniz:
+
 1. Aşağıdaki komutu çalıştırın:
+
 ```bash
 docker run -p 3000:3000 skills-icons
 # veya
@@ -123,4 +129,5 @@ Bu projeyi faydalı bulursanız şunları göz önünde bulundurun:
 Bu proje [Vercel](https://vercel.com) üzerinde dağıtılıp barındırılmaktadır.
 
 ### Lisans 📝
+
 Bu proje [MIT Lisansı](../../LICENSE) altında lisanslanmıştır.

@@ -18,6 +18,7 @@ Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 [Deutsch (German)](../de/README.md)
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
+- 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 
 > [!IMPORTANT]
 > Si te gusta el proyecto, ¡considera darle una estrella ⭐! Eso nos ayuda a ganar visibilidad y seguir mejorándolo.
@@ -35,11 +36,11 @@ Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las
 
 ### Opciones de Configuración 🛠️
 
-| Parámetro | Descripción                                                   | Requerido | Default |
-|-----------|---------------------------------------------------------------|-----------|---------|
-| `i`       | Nombres de los iconos separados por comas                     | Sí        | /       |
-| `perline` | Número de iconos por línea                                    | No        | 15      |
-| `radius`  | Redondeo de las esquinas de los iconos (valor entre 25 y 85)  | No        | 40      |
+| Parámetro | Descripción                                                  | Requerido | Default |
+| --------- | ------------------------------------------------------------ | --------- | ------- |
+| `i`       | Nombres de los iconos separados por comas                    | Sí        | /       |
+| `perline` | Número de iconos por línea                                   | No        | 15      |
+| `radius`  | Redondeo de las esquinas de los iconos (valor entre 25 y 85) | No        | 40      |
 
 ### Íconos Disponibles 🎨
 
@@ -53,7 +54,7 @@ Para ver todos los íconos disponibles, dale un vistazo a [URL Builder](https://
 
 - Agregar nuevos Íconos: Envía tu PRs para expandir nuestra coleccion de íconos.
 - Corregir Bugs: Ayúdanos a identificar y solucionar errores.
-- Documentación: Ayúdanos a mejorar la documentación. 
+- Documentación: Ayúdanos a mejorar la documentación.
 
 #### Setup de Desarrollo
 
@@ -77,13 +78,16 @@ Esta Sección te proporcionará instrucciones de cómo compilar y ejecutar el pr
 #### Requisitos Previos
 
 Antes de comenzar, asegúrate de tener lo siguiente instalado:
+
 - Docker (version 18.09 or higher)
 
 #### Creando la Imagen de Docker
 
 Para crear la 'Docker image' para `Skills Icons`, seguí los siguientes pasos:
+
 1. Abrí la terminal y navega hacia el directorio del proyecto .
 2. Ejecuta el siguiente comando para crear la imagen:
+
 ```bash
 docker build -t skills-icons .
 # or
@@ -92,8 +96,10 @@ sudo docker build -t skills-icons .
 
 #### Ejecutando el Docker Container
 
-Una vez que la imagen se creó, puedes ejecutarla en un contenedor 
+Una vez que la imagen se creó, puedes ejecutarla en un contenedor
+
 1. Ejecuta el siguiente comando:
+
 ```bash
 docker run -p 3000:3000 skills-icons
 # or
@@ -104,7 +110,7 @@ Este comando asigna el puerto 3000 de tu host local al puerto 3000 del contenedo
 
 ### Solicitudes de Eliminación de Íconos 🚫
 
-Nos esforzamos por respetar todas las pautas de marca y la propiedad intelectual. Si representas a una empresa cuyo ícono está incluido en este proyecto y deseas que se elimine, o si crees que hemos usado un ícono de una manera que viola tus pautas de marca, por favor abre un *issue* en este repositorio detallando tu solicitud. Revisaremos tu petición de manera rápida y tomaremos las medidas adecuadas. Agradecemos tu comprensión y cooperación.
+Nos esforzamos por respetar todas las pautas de marca y la propiedad intelectual. Si representas a una empresa cuyo ícono está incluido en este proyecto y deseas que se elimine, o si crees que hemos usado un ícono de una manera que viola tus pautas de marca, por favor abre un _issue_ en este repositorio detallando tu solicitud. Revisaremos tu petición de manera rápida y tomaremos las medidas adecuadas. Agradecemos tu comprensión y cooperación.
 
 ### Apoyo 💝
 
