@@ -18,6 +18,7 @@ Apresente a sua stack tecnológica com ícones simples e personalizáveis, basta
 - 🇵🇹 Português (Portuguese) ⬅
 - 🇩🇪 [Deutsch (German)](../de/README.md)
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
+- 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 
 > [!IMPORTANT]
 > Agradecíamos muito se considerasse dar uma estrela ⭐ ao nosso repositório! Isso ajuda-nos a ganhar visibilidade e apoiar o projeto.
@@ -35,11 +36,11 @@ Apresente a sua stack tecnológica com ícones simples e personalizáveis, basta
 
 ### Opções de Configuração 🛠️
 
-| Parâmetro | Descrição                                           | Obrigatório | Padrão |
-|-----------|-----------------------------------------------------|-------------|--------|
-| `i`       | Lista de nomes de ícones separados por vírgulas     | Sim         | /      |
-| `perline` | Número de ícones por linha                          | Não         | 15     |
-| `radius`  | Raio dos cantos dos ícones (valor entre 25 e 85)   | Não         | 40     |
+| Parâmetro | Descrição                                        | Obrigatório | Padrão |
+| --------- | ------------------------------------------------ | ----------- | ------ |
+| `i`       | Lista de nomes de ícones separados por vírgulas  | Sim         | /      |
+| `perline` | Número de ícones por linha                       | Não         | 15     |
+| `radius`  | Raio dos cantos dos ícones (valor entre 25 e 85) | Não         | 40     |
 
 ### Ícones Disponíveis 🎨
 
@@ -77,13 +78,16 @@ Esta secção fornece instruções sobre como compilar e executar o projeto `Ski
 #### Pré-requisitos
 
 Antes de começar, certifique-se de que tem o seguinte instalado:
+
 - Docker (versão 18.09 ou superior)
 
 #### Criação da Imagem Docker
 
 Para criar a imagem Docker para `Skills Icons`, siga os seguintes passos:
+
 1. Abra um terminal e navegue até o diretório.
 2. Execute o seguinte comando para criar a imagem:
+
 ```bash
 docker build -t skills-icons .
 # ou
@@ -93,7 +97,9 @@ sudo docker build -t skills-icons .
 #### Execução do Docker Container
 
 Depois de criar a imagem, pode executá-la num container:
+
 1. Execute o seguinte comando:
+
 ```bash
 docker run -p 3000:3000 skills-icons
 # ou

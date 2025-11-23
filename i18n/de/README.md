@@ -18,6 +18,7 @@ Präsentieren Sie Ihren Tech-Stack mit anpassbaren Icons, liste einfach die Tech
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 Deutsch (German) ⬅
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
+- 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 
 > [!IMPORTANT]
 > Wir würden uns sehr freuen, wenn Sie unserem Repository einen Stern geben würden! Dies hilft uns, mehr Sichtbarkeit zu erlangen und das Projekt zu unterstützen.
@@ -36,7 +37,7 @@ Präsentieren Sie Ihren Tech-Stack mit anpassbaren Icons, liste einfach die Tech
 ### Konfigurationsoptionen 🛠️
 
 | Parameter | Beschreibung                                      | Erforderlich | Standard |
-|-----------|---------------------------------------------------|--------------|----------|
+| --------- | ------------------------------------------------- | ------------ | -------- |
 | `i`       | Komma-getrennte Liste von Icon-Namen              | Ja           | /        |
 | `perline` | Anzahl der Icons pro Zeile                        | Nein         | 15       |
 | `radius`  | Eckenradius der Icons (Wert zwischen 25 und 85)   | Nein         | 40       |
