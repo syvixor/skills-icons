@@ -37,7 +37,7 @@ Präsentieren Sie Ihren Tech-Stack mit anpassbaren Icons, liste einfach die Tech
 ### Konfigurationsoptionen 🛠️
 
 | Parameter | Beschreibung                                      | Erforderlich | Standard |
-|-----------|---------------------------------------------------|--------------|----------|
+| --------- | ------------------------------------------------- | ------------ | -------- |
 | `i`       | Komma-getrennte Liste von Icon-Namen              | Ja           | /        |
 | `perline` | Anzahl der Icons pro Zeile                        | Nein         | 15       |
 | `radius`  | Eckenradius der Icons (Wert zwischen 25 und 85)   | Nein         | 40       |

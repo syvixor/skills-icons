@@ -1,4 +1,4 @@
-# 🛡️ Verhaltenskodex
+# Verhaltenskodex
 
 ## Unser Versprechen
 

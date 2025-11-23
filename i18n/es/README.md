@@ -110,7 +110,7 @@ Este comando asigna el puerto 3000 de tu host local al puerto 3000 del contenedo
 
 ### Solicitudes de Eliminación de Íconos 🚫
 
-Nos esforzamos por respetar todas las pautas de marca y la propiedad intelectual. Si representas a una empresa cuyo ícono está incluido en este proyecto y deseas que se elimine, o si crees que hemos usado un ícono de una manera que viola tus pautas de marca, por favor abre un _issue_ en este repositorio detallando tu solicitud. Revisaremos tu petición de manera rápida y tomaremos las medidas adecuadas. Agradecemos tu comprensión y cooperación.
+Nos esforzamos por respetar todas las pautas de marca y la propiedad intelectual. Si representas a una empresa cuyo ícono está incluido en este proyecto y deseas que se elimine, o si crees que hemos usado un ícono de una manera que viola tus pautas de marca, por favor abre un issue en este repositorio detallando tu solicitud. Revisaremos tu petición de manera rápida y tomaremos las medidas adecuadas. Agradecemos tu comprensión y cooperación.
 
 ### Apoyo 💝
 
