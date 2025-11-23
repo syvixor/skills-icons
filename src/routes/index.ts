@@ -42,6 +42,7 @@ const shortNames: Record<string, string> = {
     "capacitor": "capacitorjs",
     "cudacpp": "cudacplusplus",
     "d3": "d3js",
+    "davinci": "davinciresolve",
     "drf": "djangorestframework",
     "es": "elasticsearch",
     "elysia": "elysiajs",
