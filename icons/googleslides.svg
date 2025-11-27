@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Google Slides" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="googleslides">
+<style>
+#googleslides {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M179.281 214H77.7188C71.2442 214 66 208.752 66 202.273V53.7273C66 47.2479 71.2442 42 77.7188 42H148.031L191 84.9999V202.273C191 208.752 185.756 214 179.281 214Z" fill="#FFBA00"/>
+<path d="M148.031 42L191 84.9999H148.031V42Z" fill="#FF9500"/>
+<path d="M89.4375 108.454V161.227H167.563V108.454H89.4375ZM157.797 151.454H99.2031V118.227H157.797V151.454Z" fill="white"/>
+</svg>

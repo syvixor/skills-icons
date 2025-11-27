@@ -30,6 +30,8 @@ const shortNames: Record<string, string> = {
     "hop": "apachehop",
     "jmeter": "apachejmeter",
     "maven": "apachemaven",
+    "pyspark": "apachespark",
+    "spark": "apachespark",
     "arc": "arcbrowser",
     "arch": "archlinux",
     "uv": "astraluv",
