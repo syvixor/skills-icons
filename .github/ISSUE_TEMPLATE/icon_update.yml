@@ -1,20 +1,13 @@
-name: 💎 Icon Request
-description: Submit a request for a missing or needed icon.
-title: "[Icon Request] "
-labels: ["icon request"]
+name: ☄️​ Icon Update
+description: Submit a request for an updated icon.
+title: "[Icon Update] "
+labels: ["icon update"]
 body:
   - type: input
     id: icon-name
     attributes:
       label: Icon Name
       description: What's the icon name?
-    validations:
-      required: true
-  - type: textarea
-    id: icon-description
-    attributes:
-      label: Icon Description
-      description: Why should we add this icon?
     validations:
       required: true
   - type: textarea
@@ -30,8 +23,6 @@ body:
       label: Confirmation
       options:
         - label: I have searched for similar requests.
-          required: true
-        - label: I have checked if the icon is not already available.
           required: true
         - label: I confirm that I have read and agree to abide by the Code of Conduct.
           required: true
