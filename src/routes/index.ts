@@ -116,6 +116,7 @@ const shortNames: Record<string, string> = {
     "truenas": "truenascore",
     "tailwind": "tailwindcss",
     "ts": "typescript",
+    "tseslint": "typescripteslint",
     "upstage": "upstageai",
     "vscode": "visualstudiocode",
     "vscodeinsiders": "visualstudiocodeinsiders",
