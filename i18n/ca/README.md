@@ -10,16 +10,16 @@ Mostra el teu stack tecnològic amb icones netes i personalitzables, només llis
 ### Idiomes Disponibles 🌐
 
 - 🇬🇧 [English (Anglès)](../../README.md)
-- 🇨🇳 [中文 (Xinès)](../../i18n/zh/README.md)
-- 🇪🇸 [Español (Espanyol)](../../i18n/es/README.md)
-- 🇪🇸🇨🇹 Català (Català) ⬅
-- 🇮🇹 [Italiano (Italià)](../../i18n/it/README.md)
-- 🇷🇺 [Русский (Rus)](../../i18n/ru/README.md)
-- 🇹🇷 [Türkçe (Turc)](../../i18n/tr/README.md)
-- 🇵🇹 [Português (Portuguès)](../../i18n/pt/README.md)
-- 🇩🇪 [Deutsch (Alemany)](../../i18n/de/README.md)
-- 🇰🇷 [한국어 (Coreà)](../../i18n/ko/README.md)
-- 🇮🇳 [हिन्दी (Hindi)](../../i18n/hin/README.md)
+- 🇨🇳 [中文 (Xinès)](../zh/README.md)
+- 🇪🇸 [Español (Espanyol)](../es/README.md)
+- 🇪🇸 Català (Català 🇨🇹) ⬅
+- 🇮🇹 [Italiano (Italià)](../it/README.md)
+- 🇷🇺 [Русский (Rus)](../ru/README.md)
+- 🇹🇷 [Türkçe (Turc)](../tr/README.md)
+- 🇵🇹 [Português (Portuguès)](../pt/README.md)
+- 🇩🇪 [Deutsch (Alemany)](../de/README.md)
+- 🇰🇷 [한국어 (Coreà)](../ko/README.md)
+- 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 
 > [!IMPORTANT]
 > T'agrairíem molt si consideressis donar una estrella al nostre repositori! Ens ajuda a guanyar visibilitat i a donar suport al projecte.

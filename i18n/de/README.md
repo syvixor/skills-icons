@@ -12,6 +12,7 @@ Präsentieren Sie Ihren Tech-Stack mit anpassbaren Icons, liste einfach die Tech
 - 🇬🇧 [English (Englisch)](../../README.md)
 - 🇨🇳 [中文 (Chinese)](../zh/README.md)
 - 🇪🇸 [Español (Spanish)](../es/README.md)
+- 🇪🇸 [Català (Català 🇨🇹)](../ca/README.md)
 - 🇮🇹 [Italiano (Italian)](../it/README.md)
 - 🇷🇺 [Русский (Russian)](../ru/README.md)
 - 🇹🇷 [Türkçe (Turkish)](../tr/README.md)

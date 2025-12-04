@@ -36,7 +36,7 @@ Un cop enviïs un pull request, els mantenidors el revisaran i podrien demanar a
 
 ## Codi de Conducta
 
-En contribuir a aquest projecte, acceptes seguir el nostre [Codi de Conducta](CODE_OF_CONDUCT.md), que estableix les expectatives per a una comunicació respectuosa i inclusiva.
+En contribuir a aquest projecte, acceptes seguir el nostre [Codi de Conducta](../../.github/CODE_OF_CONDUCT.md), que estableix les expectatives per a una comunicació respectuosa i inclusiva.
 
 ## Llicència
 
