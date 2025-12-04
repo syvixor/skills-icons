@@ -12,6 +12,7 @@
 - 🇬🇧 [English](../../README.md)
 - 🇨🇳 [中文 (Chinese)](./i18n/zh/README.md)
 - 🇪🇸 [Español (Spanish)](./i18n/es/README.md)
+- 🇪🇸 [Català (Català 🇨🇹)](../ca/README.md)
 - 🇮🇹 [Italiano (Italian)](./i18n/it/README.md)
 - 🇷🇺 [Русский (Russian)](./i18n/ru/README.md)
 - 🇹🇷 [Türkçe (Turkish)](./i18n/tr/README.md)
