@@ -109,6 +109,7 @@ const shortNames: Record<string, string> = {
     "pb": "pocketbase",
     "react": "reactjs",
     "regle": "reglejs",
+    "ros": "robotoperatingsystem",
     "sclearn": "scikitlearn",
     "sdl": "simpledirectmedialayer",
     "solid": "solidjs",
