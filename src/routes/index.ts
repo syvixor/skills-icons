@@ -35,6 +35,7 @@ const shortNames: Record<string, string> = {
     "arc": "arcbrowser",
     "arch": "archlinux",
     "uv": "astraluv",
+    "nextauth": "authjs",
     "batchfile": "batch",
     "batchscript": "batch",
     "beef": "beeflang",
