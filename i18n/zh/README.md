@@ -20,6 +20,7 @@
 - 🇩🇪 [Deutsch (German)](../de/README.md)
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
+- 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 
 > [!IMPORTANT]
 > 如果您能为我们的仓库点个星星，我们将不胜感激！这有助于提升项目可见度并获得支持。
