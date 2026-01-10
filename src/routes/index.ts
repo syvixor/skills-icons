@@ -160,8 +160,29 @@ router.get("/icons", async (req: Request, res: Response) => {
                             else console.debug(`[sh- icon] not OK response for ${url}, all extensions tried`);
                             continue;
                         }
-                        const content = await response.text();
-                        icons.push(content);
+
+                        const buffer = await response.arrayBuffer();
+                        const base64 = Buffer.from(buffer).toString("base64");
+                        const mime = ext === "svg" ? "image/svg+xml" : ext === "png" ? "image/png" : "image/webp";
+                        const dataUrl = `data:${mime};base64,${base64}`;
+
+                        // add rounded background that adapts to user's theme (dark/light)
+                        const svgId = `sh_${trim.replace(/[^a-zA-Z0-9_-]/g, "_")}_bg`;
+                        const wrapper = `
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" id="${svgId}">
+<style>
+    #${svgId} {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        #${svgId} {fill: #F4F2ED}
+    }
+</style>
+<rect id="${svgId}" width="128" height="128" rx="20" />
+<image href="${dataUrl}" x="12" y="12" width="104" height="104" preserveAspectRatio="xMidYMid meet" />
+</svg>
+                        `;
+
+                        icons.push(wrapper);
                         break;
                     }
                     catch (err) {
