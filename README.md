@@ -54,6 +54,8 @@ This behavior is powered by `CSS` built-in media query `prefers-color-scheme`, w
 
 To view all available icons, check out the [URL Builder](https://builder.syvixor.com). It lets you browse, search, and customize icons easily.
 
+Additionally, icons from [selfh.st](https://selfh.st) are also supported. Just prefix the icon id with `sh-` to include them in your skills icons, i.e. `?i=sh-home-assistant`
+
 ### Contributing 🎖️
 
 We welcome contributions from anyone! If you'd like to help, please follow the detailed guidelines in our [CONTRIBUTING.md](.github/CONTRIBUTING.md) file.
