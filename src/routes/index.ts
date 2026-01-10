@@ -147,16 +147,40 @@ router.get("/icons", async (req: Request, res: Response) => {
         const fullIconsList = iconsList.map(icon => shortNames[icon.trim()] || icon.trim());
         const icons: string[] = [];
         for (const icon of fullIconsList) {
-            const iconPath = path.join(iconsDir, `${icon.trim()}.svg`);
-            try {
-                let content = await fs.readFile(iconPath, "utf-8");
-                let radiusValue = Math.min(Math.max(Number(radius) || minRadius, minRadius), maxRadius);
-                content = content.replace(/<rect([^>]*)rx="(\d+)"/, (match, before) => {
-                    return `<rect${before}rx="${radiusValue}"`
-                });
-                icons.push(content);
-            } catch {
-                continue;
+
+            if (icon.startsWith("sh-")) { // i.e. icon = sh-plex
+                const trim = icon.substring(3); // remove "sh-"
+                const extension = [ "svg", "png", "webp" ]
+                for (const ext of extension) {
+                    const url = `https://cdn.jsdelivr.net/gh/selfhst/icons@main/${ext}/${trim}.${ext}`; // i.e. url = https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/plex.svg
+                    try {
+                        const response = await fetch(url, { method: "GET" });
+                        if (!response.ok) {
+                            if (ext !== "webp") console.debug(`[sh- icon] not OK response for ${url}, trying next extension`);
+                            else console.debug(`[sh- icon] not OK response for ${url}, all extensions tried`);
+                            continue;
+                        }
+                        const content = await response.text();
+                        icons.push(content);
+                        break;
+                    }
+                    catch (err) {
+                        continue;
+                    }
+                }
+            }
+            else {
+                const iconPath = path.join(iconsDir, `${icon.trim()}.svg`);
+                try {
+                    let content = await fs.readFile(iconPath, "utf-8");
+                    let radiusValue = Math.min(Math.max(Number(radius) || minRadius, minRadius), maxRadius);
+                    content = content.replace(/<rect([^>]*)rx="(\d+)"/, (match, before) => {
+                        return `<rect${before}rx="${radiusValue}"`
+                    });
+                    icons.push(content);
+                } catch (err) {
+                    continue;
+                }
             }
         }
         if (icons.length === 0) {
