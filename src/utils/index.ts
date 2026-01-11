@@ -28,20 +28,7 @@ export const generateSVG = (icons: string[], perLine: number = 15) => {
                 modified = modified.replace(gradient, "");
             }
         });
-
-        // Normalize viewbox and dimensions
-        const svgMatch = modified.match(/^\s*<svg([^>]*)>([\s\S]*?)<\/svg>\s*$/i);
-        if (svgMatch) {
-            const attrs = svgMatch[1];
-            const inner = svgMatch[2];
-            const isShSvg = /id\s*=\s*"(sh_[^"]+)"/i.test(attrs) || /id\s*=\s*"(sh_[^"]+)"/i.test(modified);
-            if (isShSvg) {
-                const viewBoxMatch = attrs.match(/viewBox\s*=\s*"([^"]+)"/i);
-                const viewBox = viewBoxMatch ? viewBoxMatch[1] : `0 0 ${length} ${height}`;
-                modified = `<svg x="0" y="0" width="${length}" height="${height}" viewBox="${viewBox}" preserveAspectRatio="xMinYMin meet">${inner}</svg>`;
-            }
-        }
-
+        
         return {
             defs: defs.join("\n"),
             content: modified
