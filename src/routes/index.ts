@@ -159,29 +159,28 @@ router.get("/icons", async (req: Request, res: Response) => {
                 continue;
             }
         }
-    }
-    if (icons.length === 0) {
-        sendError(res, 404, "Not Found", "The requested resource could not be found.");
-    } else {
-        let response;
-        if (perline !== undefined) {
-            const perlineNumber = Number(perline);
-            if (!isNaN(perlineNumber) && perlineNumber > 0 && perlineNumber <= 15) {
-                response = generateSVG(icons, perlineNumber);
+        if (icons.length === 0) {
+            sendError(res, 404, "Not Found", "The requested resource could not be found.");
+        } else {
+            let response;
+            if (perline !== undefined) {
+                const perlineNumber = Number(perline);
+                if (!isNaN(perlineNumber) && perlineNumber > 0 && perlineNumber <= 15) {
+                    response = generateSVG(icons, perlineNumber);
+                } else {
+                    response = generateSVG(icons);
+                }
             } else {
                 response = generateSVG(icons);
             }
-        } else {
-            response = generateSVG(icons);
+            res.setHeader("Content-Type", "image/svg+xml");
+            res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=3600");
+            res.status(200).statusMessage = "OK";
+            return res.send(response);
         }
-        res.setHeader("Content-Type", "image/svg+xml");
-        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=3600");
-        res.status(200).statusMessage = "OK";
-        return res.send(response);
+    } else {
+        sendError(res, 400, "Bad Request", "The request couldn't be understood or was missing required parameters.");
     }
-} else {
-    sendError(res, 400, "Bad Request", "The request couldn't be understood or was missing required parameters.");
-}
 });
 
 router.get("/icons/all", async (req: Request, res: Response) => {
