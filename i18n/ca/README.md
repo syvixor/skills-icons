@@ -21,6 +21,7 @@ Mostra el teu stack tecnològic amb icones netes i personalitzables, només llis
 - 🇰🇷 [한국어 (Coreà)](../ko/README.md)
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
+- 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 
 > [!IMPORTANT]
 > T'agrairíem molt si consideressis donar una estrella al nostre repositori! Ens ajuda a guanyar visibilitat i a donar suport al projecte.

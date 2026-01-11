@@ -21,6 +21,7 @@ Mostra il tuo stack tecnico con icone pulite e personalizzabili: ti basta elenca
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
+- 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 
 > [!IMPORTANT]
 > Ci farebbe molto piacere se volessi mettere una stella al nostro repository! Ci aiuta a ottenere visibilità e a sostenere il progetto.

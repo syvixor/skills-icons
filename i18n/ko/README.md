@@ -21,6 +21,7 @@
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
+- 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 
 > [!IMPORTANT]
 > 저희 레포지토리에 스타를 눌러주시면 정말 감사하겠습니다! 더 많은 사람들에게 노출되고 프로젝트를 발전시키는 데 큰 도움이 됩니다.
