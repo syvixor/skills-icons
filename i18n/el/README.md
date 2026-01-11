@@ -131,7 +131,7 @@ sudo docker run -p 3000:3000 skills-icons
 
 ### Ευχαριστούμε Όλους Τους Συνεισφέροντες 🙏
 
-[!Contributors](https://github.com/syvixor/skills-icons/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=syvixor/skills-icons)](https://github.com/syvixor/skills-icons/graphs/contributors)
 
 ### Με την υποστήριξη του 🛟
 
