@@ -28,7 +28,7 @@ export const generateSVG = (icons: string[], perLine: number = 15) => {
                 modified = modified.replace(gradient, "");
             }
         });
-
+        
         return {
             defs: defs.join("\n"),
             content: modified
