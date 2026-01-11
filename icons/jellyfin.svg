@@ -1,0 +1,22 @@
+<svg width="256" height="256" title="Jellyfin" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="jellyfin">
+<style>
+#jellyfin {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128.008 105.48C121.445 105.48 100.233 143.947 103.456 150.422C106.679 156.896 149.395 156.838 152.589 150.422C155.782 144.006 134.629 105.48 128.008 105.48Z" fill="url(#linearGradient1)"/>
+<path d="M128.008 48C108.173 48 44.2738 163.84 54.0007 183.41C63.7277 202.98 192.376 202.746 202.015 183.41C211.654 164.074 147.872 48 128.008 48ZM176.525 166.447C170.197 179.103 85.9064 179.279 79.5194 166.447C73.1324 153.615 115.029 77.707 128.008 77.707C140.987 77.707 182.854 153.762 176.525 166.447Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="-11.9482" y1="56.5656" x2="362.837" y2="272.89" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AA5CC3"/>
+<stop offset="1" stop-color="#00A4DC"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="80.5993" y1="109.998" x2="204.985" y2="181.814" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AA5CC3"/>
+<stop offset="1" stop-color="#00A4DC"/>
+</linearGradient>
+</svg>

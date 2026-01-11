@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="Emby" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="emby">
+<style>
+#emby {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M71.085 83.8398L80.6602 93.415L36 138.075L83.8398 185.915L93.415 176.34L138.075 221L189.095 169.98L179.52 160.405L221 118.925L173.16 71.085L163.585 80.6602L118.925 36L71.085 83.8398Z" fill="#52B54B"/>
+<path d="M107.109 162.898V93.1621L168.246 128.03L107.109 162.898Z" fill="white"/>
+</svg>
