@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Katalon" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="katalon">
+<style>
+#katalon {
+    rect {fill: #15191C}
+    path.katalon {fill: #FEFEFE}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.katalon {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M177 155.994H121.999V212H177V155.994Z" fill="#19D89F"/>
+<path d="M122.001 44L67 100.006V156.013H122.001L176.982 100.006V44H122.001Z" class="katalon" fill="#212121"/>
+</svg>
