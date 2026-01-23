@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Kotlin Multiplatform" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="kotlinmultiplatform">
+<style>
+#kotlinmultiplatform {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M51 123.859V51.2697L123.59 123.859H51ZM51 133.141V206H51.1849L124.044 133.141H51ZM134.928 122.072L206 51H63.8562L134.928 122.072ZM135.021 135.29L64.3109 206H205.73L135.021 135.29Z" fill="url(#radialGradient)"/>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(191.469 65.5313) rotate(135) scale(198.653)">
+<stop stop-color="#37BCFD"/>
+<stop offset="0.580197" stop-color="#7F52FF"/>
+<stop offset="1" stop-color="#C711E1"/>
+</radialGradient>
+</svg>

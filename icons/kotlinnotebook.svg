@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Kotlin Notebook" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="kotlinnotebook">
+<style>
+#kotlinnotebook {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M206 206H53.8094L111.402 115.131L142.426 160.396H152.477L206 83.8406V206ZM116.027 85.2695L147.512 131.285L203.699 51H51V171.779L105.807 85.2695H116.027Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="206" y1="51" x2="51" y2="206" gradientUnits="userSpaceOnUse">
+<stop offset="0.00344" stop-color="#FD4C58"/>
+<stop offset="0.45568" stop-color="#D113EB"/>
+<stop offset="1" stop-color="#7D45F8"/>
+</linearGradient>
+</svg>
