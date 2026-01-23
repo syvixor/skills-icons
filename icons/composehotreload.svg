@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Compose Hot Reload" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="composehotreload">
+<style>
+#composehotreload {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M208 82.2492V174.748L128 221L48 174.748V82.2492L128 36L208 82.2492ZM124.214 75.732C124.195 75.7914 121.659 83.4462 96.942 108.344C84.487 120.891 84.614 137.826 84.6147 137.882C84.6147 155.345 94.8043 170.409 109.517 177.383C109.141 174.569 108.941 171.621 108.941 168.585C108.941 148.917 117.323 132.973 127.661 132.97C138.001 132.97 146.385 148.916 146.385 168.585C146.385 171.72 146.17 174.76 145.77 177.656C160.797 170.808 171.252 155.576 171.252 137.882C171.251 137.863 171.205 136.417 171.079 135.371C169.223 119.897 161.422 109.576 156.167 104.322C154.381 108.32 151.649 115.256 147.521 119.867C145.92 89.5869 124.333 75.8077 124.214 75.732Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="158" y1="52.6758" x2="117.909" y2="154.362" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33C3FF"/>
+<stop offset="0.487417" stop-color="#5383EC"/>
+<stop offset="1" stop-color="#6B57FF"/>
+</linearGradient>
+</svg>

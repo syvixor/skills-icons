@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Chroma" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="chroma">
+<style>
+#chroma {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M156 181C186.376 181 211 157.271 211 128C211 98.7289 186.376 75 156 75C125.624 75 101 98.7289 101 128C101 157.271 125.624 181 156 181Z" fill="#FFDE2D"/>
+<path d="M101 181C131.376 181 156 157.271 156 128C156 98.7289 131.376 75 101 75C70.6244 75 46 98.7289 46 128C46 157.271 70.6244 181 101 181Z" fill="#327EFF"/>
+<path d="M156 128C156 157.271 131.376 181 101 181L101 128H156ZM101 128C101 98.7289 125.624 75 156 75L156 128H101Z" fill="#FF6446"/>
+</svg>
