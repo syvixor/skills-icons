@@ -113,6 +113,7 @@ const shortNames: Record<string, string> = {
     "react": "reactjs",
     "regle": "reglejs",
     "ros": "robotoperatingsystem",
+    "s3": "amazons3",
     "sclearn": "scikitlearn",
     "sdl": "simpledirectmedialayer",
     "solid": "solidjs",
