@@ -108,6 +108,8 @@ const shortNames: Record<string, string> = {
     "nuxt": "nuxtjs",
     "ood": "openondemand",
     "otel": "opentelemetry",
+    "oxfmt": "oxc",
+    "oxlint": "oxc",
     "oci": "oraclecloudinfrastructure",
     "pb": "pocketbase",
     "react": "reactjs",
