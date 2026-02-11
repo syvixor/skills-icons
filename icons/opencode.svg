@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="OpenCode" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="opencode">
+<style>
+#opencode {
+    rect {fill: #15191C}
+    path.oc1 {fill: #F1ECEC}
+    path.oc2 {fill: #4B4646}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.oc1 {fill: #211E1E}
+        path.oc2 {fill: #CFCECD}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M160.5 79.4H95.5V176.6H160.5V79.4ZM193 209H63V47H193V209Z" class="oc1" fill="#F1ECEC"/>
+<path d="M160.5 176.6H95.5V111.8H160.5V176.6Z" class="oc2" fill="#4B4646"/>
+</svg>
