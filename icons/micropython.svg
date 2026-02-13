@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="MicroPython" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="micropython">
+<style>
+#micropython {
+    rect {fill: #15191C}
+    path {fill: #FFFFFF}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M48 48H124.725V172.912H131.275V48H208V208H172.912V83.0877H166.363V208H89.6374V83.0877L83.0877 83.3216V208H48V48ZM196.304 178.058H186.947V193.965H196.304V178.058Z" fill="#FFFFFF"/>
+</svg>
