@@ -47,6 +47,7 @@ const shortNames: Record<string, string> = {
     "es": "elasticsearch",
     "excel": "microsoftexcel",
     "express": "expressjs",
+    "fabric": "microsoftfabric",
     "fb": "facebook",
     "fasm": "flatassembler",
     "featuresliceddesign": "featuresliceddesign",
