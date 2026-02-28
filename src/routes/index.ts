@@ -97,6 +97,7 @@ const shortNames: Record<string, string> = {
     "onenote": "microsoftonenote",
     "ood": "openondemand",
     "otel": "opentelemetry",
+    "outlook": "microsoftoutlook",
     "oxfmt": "oxc",
     "oxlint": "oxc",
     "pb": "pocketbase",
