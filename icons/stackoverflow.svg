@@ -1,14 +1,1 @@
-<svg width="256" height="256" title="Stack Overflow" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="stackoverflow">
-<style>
-#stackoverflow {
-    rect {fill: #15191C}
-
-    @media (prefers-color-scheme: light) {
-        rect {fill: #F4F2ED}
-    }
-}
-</style>
-<rect width="256" height="256" rx="40" fill="#15191C"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M174.88 151.279H189.116V208.219H61V151.279H75.2351V193.984H174.88V151.279Z" fill="#BBBBBB"/>
-<path d="M90.7485 147.048L160.662 161.742L163.601 147.766L93.6874 133.065L90.7485 147.048ZM100 113.571L164.764 143.733L170.797 130.781L106.032 100.618L100 113.571ZM117.921 81.7966L172.827 127.518L181.971 116.538L127.065 70.8175L117.921 81.7966ZM153.362 48L141.896 56.5281L184.534 113.857L196 105.33L153.362 48ZM89.4701 179.749H160.645V165.514H89.4701V179.749Z" fill="#F58025"/>
-</svg>
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"><path d="M256 40v176c0 22.077-17.923 40-40 40H40c-22.077 0-40-17.923-40-40V40C0 17.923 17.923 0 40 0h176c22.077 0 40 17.923 40 40" style="fill:#262626"/><path d="M174.88 151.279h14.236v56.94H61v-56.94h14.235v42.705h99.645z" style="fill:#bbb"/><path d="m90.749 147.048 69.913 14.694 2.939-13.976-69.914-14.701zM100 113.571l64.764 30.162 6.033-12.952-64.765-30.163zm17.921-31.774 54.906 45.721 9.144-10.98-54.906-45.72zM153.362 48l-11.466 8.528 42.638 57.329L196 105.33zM89.47 179.749h71.175v-14.235H89.47z" style="fill:#ff5e00;fill-rule:nonzero"/></svg>
