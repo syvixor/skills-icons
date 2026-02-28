@@ -40,6 +40,7 @@ const shortNames: Record<string, string> = {
     "dataproc": "googledataproc",
     "davinci": "davinciresolve",
     "dreamweaver": "adobedreamweaver",
+    "docs": "googledocs",
     "drive": "googledrive",
     "drf": "djangorestframework",
     "dvc": "dataversioncontrol",
