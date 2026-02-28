@@ -91,6 +91,7 @@ const shortNames: Record<string, string> = {
     "node": "nodejs",
     "notepadpp": "notepadplusplus",
     "nuxt": "nuxtjs",
+    "objc": "objectivec",
     "oci": "oraclecloudinfrastructure",
     "office": "microsoftoffice",
     "onenote": "microsoftonenote",
