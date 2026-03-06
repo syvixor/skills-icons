@@ -1,1 +1,13 @@
-<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"><path d="M256 40v176c0 22.077-17.923 40-40 40H40c-22.077 0-40-17.923-40-40V40C0 17.923 17.923 0 40 0h176c22.077 0 40 17.923 40 40" style="fill:#1f1e1e"/><path d="M102.824 22.328v17.979l9.185-9.066 9.103-8.913zm-25.026 0 9.103 8.913 9.185 9.066V22.328z" style="fill:#fc493e" transform="translate(-302.224 -7.474)scale(4.32582)"/></svg>
+<svg width="256" height="256" title="Triage" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="triage">
+<style>
+#triage {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M142.112 96V169L179.221 132.189L216 96H142.112ZM41 96L77.7785 132.189L114.888 169V96H41Z" fill="#FC493E"/>
+</svg>
