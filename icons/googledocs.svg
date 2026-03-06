@@ -1,0 +1,25 @@
+<svg width="256" height="256" title="Google Docs" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="googledocs">
+<style>
+#googledocs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M142.577 47.3755H80.6335C74.6225 47.3755 69.703 52.3222 69.703 58.3705V197.633C69.703 203.682 74.6225 208.628 80.6335 208.628H175.371C181.382 208.628 186.301 203.682 186.301 197.633V91.3529L160.796 73.0296L142.577 47.3755Z" fill="#4285F4"/>
+<path d="M98.8524 164.651H157.152V157.32H98.8524V164.651ZM98.8524 179.31H142.577V171.979H98.8524V179.31ZM98.8524 128.002V135.333H157.152V128.002H98.8524ZM98.8524 149.992H157.152V142.661H98.8524V149.992Z" fill="#F1F1F1"/>
+<path d="M145.775 88.1378L186.301 128.89V91.3529L145.775 88.1378Z" fill="url(#linearGradient)"/>
+<path d="M142.579 47.3749V80.3573C142.579 86.4329 147.469 91.3523 153.51 91.3523H186.304L142.579 47.3749Z" fill="#A1C2FA"/>
+<path d="M142.577 47.3755H80.6335C74.6225 47.3755 69.703 52.3222 69.703 58.3705V197.633C69.703 203.682 74.6225 208.628 80.6335 208.628H175.371C181.382 208.628 186.301 203.682 186.301 197.633V91.3529L142.577 47.3755Z" fill="url(#radialGradient)"/>
+<linearGradient id="linearGradient" x1="166.04" y1="91.6357" x2="166.04" y2="128.895" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A237E" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#1A237E" stop-opacity="0.02"/>
+</linearGradient>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(77.0909 56.1402) scale(260.019 260.019)">
+<stop stop-color="white" stop-opacity="0.1"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</svg>

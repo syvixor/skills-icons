@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Patreon" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="patreon">
+<style>
+#patreon {
+    rect {fill: #15191C}
+    path {fill: #FFFFFF}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #202020}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M203 95.2715C202.968 74.3293 186.632 57.1675 167.468 50.9773C143.661 43.2826 112.273 44.3982 89.5389 55.102C61.9895 68.0817 53.3364 96.5082 53.0171 124.858C52.7553 148.166 55.0798 209.564 89.7688 209.998C115.543 210.323 119.381 177.172 131.31 161.203C139.797 149.842 150.717 146.636 164.166 143.308C187.284 137.596 203.032 119.388 203 95.2651V95.2715Z" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="256" height="256" title="IDA" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="url(#radialGradient1)"/>
+<path d="M208 139.341L113.974 195.427V83.3224L208 139.341Z" fill="url(#linearGradient1)"/>
+<path d="M48 119.669L133.2 61V173.104L48 119.669Z" fill="url(#radialGradient2)"/>
+<path d="M133.163 173.007L113.976 195.427V161.086L133.163 173.007Z" fill="url(#linearGradient2)"/>
+<radialGradient id="radialGradient1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(34.7617 26.8888) rotate(47.4896) scale(272.885)">
+<stop stop-color="#3C3C3C"/>
+<stop offset="1" stop-color="#191919"/>
+</radialGradient>
+<radialGradient id="radialGradient2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(133.2 134.276) rotate(-141.41) scale(63.7429 193.209)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#E0E4E8"/>
+</radialGradient>
+<linearGradient id="linearGradient1" x1="167.173" y1="136.313" x2="139.156" y2="135.072" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#B8B9BA"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="121.296" y1="178.256" x2="121.364" y2="168.699" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#BCBEC1"/>
+</linearGradient>
+</svg>

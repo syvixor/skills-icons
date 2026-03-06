@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Wireshark" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="wireshark">
+<style>
+#wireshark {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M216 0H40C17.9086 0 0 17.9086 0 40V216C0 238.091 17.9086 256 40 256H216C238.091 256 256 238.091 256 216V40C256 17.9086 238.091 0 216 0Z" fill="url(#linearGradient)"/>
+<path d="M175.772 184.224L77 185.254C78.0701 180.97 77 185.254 78.0701 180.97C80.816 165.816 85.6214 151.348 92.9102 137.749C99.2702 125.868 107.346 115.361 117.846 106.813C129.98 96.9122 143.831 90.8907 159.236 88.365C164.042 87.5769 168.867 87.0111 173.753 87.0111C174.561 87.0111 175.389 86.9505 176.176 87.1122C178.68 87.5971 180.194 90.3452 179.265 92.7295C178.862 93.8004 178.195 94.7906 177.61 95.7807C172.481 104.49 169.311 113.865 167.898 123.847C165.334 141.77 167.757 159.208 173.047 176.343C173.874 178.99 174.884 181.597 175.772 184.224Z" fill="#338AFF"/>
+<linearGradient id="linearGradient" x1="128" y1="256" x2="128" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0.3" stop-color="#338AFF"/>
+<stop offset="0.3" stop-color="#1F5399" stop-opacity="0"/>
+</linearGradient>
+</svg>

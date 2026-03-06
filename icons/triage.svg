@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Triage" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="triage">
+<style>
+#triage {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M142.112 96V169L179.221 132.189L216 96H142.112ZM41 96L77.7785 132.189L114.888 169V96H41Z" fill="#FC493E"/>
+</svg>
