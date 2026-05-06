@@ -14,6 +14,7 @@ const shortNames: Record<string, string> = {
     "ae": "adobeaftereffects",
     "aftereffects": "adobeaftereffects",
     "angular": "angularjs",
+    "antigravity": "googleantigravity",
     "arc": "arcbrowser",
     "arch": "archlinux",
     "audition": "adobeaudition",
