@@ -26,6 +26,7 @@ const shortNames: Record<string, string> = {
     "beekeeper": "beekeeperstudio",
     "bigquery": "googlebigquery",
     "budgiedesktop": "buddiesofbudgie",
+    "c4d": "cinema4d",
     "caddy": "caddyserver",
     "capacitor": "capacitorjs",
     "chrome": "googlechrome",
