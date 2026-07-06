@@ -10,15 +10,16 @@
 ### उपलब्ध भाषाएँ 🌐
 
 - 🇬🇧 [English](../../README.md)
-- 🇨🇳 [中文 (Chinese)](./i18n/zh/README.md)
-- 🇪🇸 [Español (Spanish)](./i18n/es/README.md)
+
+- 🇨🇳 [中文 (Chinese)](../zh/README.md)
+- 🇪🇸 [Español (Spanish)](../es/README.md)
 - 🇪🇸 [Català (Català 🇨🇹)](../ca/README.md)
-- 🇮🇹 [Italiano (Italian)](./i18n/it/README.md)
-- 🇷🇺 [Русский (Russian)](./i18n/ru/README.md)
-- 🇹🇷 [Türkçe (Turkish)](./i18n/tr/README.md)
-- 🇵🇹 [Português (Portuguese)](./i18n/pt/README.md)
-- 🇩🇪 [Deutsch (German)](./i18n/de/README.md)
-- 🇰🇷 [한국어 (Korean)](./i18n/ko/README.md)
+- 🇮🇹 [Italiano (Italian)](../it/README.md)
+- 🇷🇺 [Русский (Russian)](../ru/README.md)
+- 🇹🇷 [Türkçe (Turkish)](../tr/README.md)
+- 🇵🇹 [Português (Portuguese)](../pt/README.md)
+- 🇩🇪 [Deutsch (German)](../de/README.md)
+- 🇰🇷 [한국어 (Korean)](../ko/README.md)
 - 🇮🇳 हिन्दी (Hindi) ⬅
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)

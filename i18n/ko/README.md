@@ -18,7 +18,7 @@
 - 🇹🇷 [Türkçe (Turkish)](../tr/README.md)
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 [Deutsch (German)](../de/README.md)
-- 🇰🇷 [한국어 (Korean)](../ko/README.md)
+- 🇰🇷 한국어 (Korean) ⬅
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
