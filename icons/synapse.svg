@@ -1,89 +1,68 @@
-<svg
-  id="azure-synapse-icon"
-  xmlns="http://www.w3.org/2000/svg"
-  width="256"
-  height="256"
-  viewBox="0 0 256 256"
-  fill="none"
-  role="img"
-  aria-labelledby="azure-synapse-title"
->
-  <title id="azure-synapse-title">Azure Synapse Analytics</title>
-
-  <style>
-    #azure-synapse-icon .background {
-      fill: #15191c;
-    }
+<svg width="256" height="256" title="Azure Synapse Analytics" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="azure-synapse">
+<style>
+#azure-synapse {
+    rect {fill: #15191C}
 
     @media (prefers-color-scheme: light) {
-      #azure-synapse-icon .background {
-        fill: #f4f2ed;
-      }
+        rect {fill: #F4F2ED}
     }
-  </style>
+}
+</style>
 
-  <rect
-    class="background"
-    width="256"
-    height="256"
-    rx="40"
-  />
+<rect width="256" height="256" rx="40" fill="#15191C"/>
 
-  <defs>
-    <linearGradient
-      id="azure-synapse-gradient-top"
-      x1="9"
-      y1="5.38"
-      x2="9"
-      y2="0"
-      gradientUnits="userSpaceOnUse"
-    >
-      <stop offset="0.199" stop-color="#005BA1"/>
-      <stop offset="1" stop-color="#0078D4"/>
-    </linearGradient>
+<path
+    d="M128 38L49.5 82.9V172.6L128 218L206.5 173.1V83.1L128 38ZM192 163.7L128 200.7L64 164.09V91.8L128 54.8L192 91.9V163.7Z"
+    fill="#0078D4"
+/>
 
-    <linearGradient
-      id="azure-synapse-gradient-nodes"
-      x1="9"
-      y1="12.713"
-      x2="9"
-      y2="5.287"
-      gradientUnits="userSpaceOnUse"
-    >
-      <stop offset="0" stop-color="#198AB3"/>
-      <stop offset="0.172" stop-color="#32BEDD"/>
-      <stop offset="0.5" stop-color="#50E6FF"/>
-      <stop offset="0.5" stop-color="#4FE4FD"/>
-      <stop offset="0.5" stop-color="#4BDDF8"/>
-      <stop offset="0.5" stop-color="#44D2EE"/>
-      <stop offset="0.5" stop-color="#3AC1E0"/>
-      <stop offset="0.5" stop-color="#2DABCE"/>
-      <stop offset="0.5" stop-color="#1D90B8"/>
-      <stop offset="0.5" stop-color="#198AB3"/>
-      <stop offset="0.662" stop-color="#32BEDD"/>
-      <stop offset="0.975" stop-color="#50E6FF"/>
-    </linearGradient>
-  </defs>
+<polygon
+    points="128 38 128 38 49.5 82.9 64 91.8 128 54.8 128 54.8 192 91.8 206.5 82.9 128 38"
+    fill="url(#azureSynapseTopGradient)"
+/>
 
-  <g transform="translate(38 38) scale(10)">
-    <path
-      fill="#0078D4"
-      d="M9 0 1.15 4.49v8.97L9 18l7.85-4.49v-9Zm6.4 12.57L9 16.27l-6.4-3.661V5.38L9 1.68l6.4 3.71Z"
-    />
+<path
+    d="M165.4 142.75A7.3 7.3 0 0 0 162.17 139.89A58.35 58.35 0 0 0 117.39 106.43L182.16 69L167.1 60.36L93.34 103A7.5 7.5 0 0 0 97.1 117A6.84 6.84 0 0 0 98 116.77L99.25 122A43.19 43.19 0 0 1 147.62 144.38L74.13 186.85L89.13 195.51L162.66 153A7.29 7.29 0 0 0 165.08 150.64L165.83 150.46C165.76 150.17 165.65 149.91 165.58 149.62A7.35 7.35 0 0 0 165.4 142.75Z"
+    fill="#50E6FF"
+/>
 
-    <polygon
-      fill="url(#azure-synapse-gradient-top)"
-      points="9 0 9 0 1.15 4.49 2.6 5.38 9 1.68 9 1.68 15.4 5.38 16.85 4.49 9 0"
-    />
+<path
+    d="M158.91 128.13A18.5 18.5 0 1 0 177.41 146.63A18.5 18.5 0 0 0 158.91 128.13ZM97.09 90.67A18.5 18.5 0 1 0 115.59 109.17A18.5 18.5 0 0 0 97.09 90.67Z"
+    fill="url(#azureSynapseNodeGradient)"
+/>
 
-    <path
-      fill="#50E6FF"
-      d="M12.74 10.475a.73.73 0 0 0-.323-.286 5.835 5.835 0 0 0-4.478-3.346L14.416 3.1 12.91 2.236 5.534 6.5a.75.75 0 0 0 .376 1.4.684.684 0 0 0 .09-.023l.125.523a4.319 4.319 0 0 1 4.837 2.238l-7.349 4.247 1.5.866 7.353-4.251a.729.729 0 0 0 .242-.236l.075-.018c-.007-.029-.018-.055-.025-.084a.735.735 0 0 0-.018-.687Z"
-    />
+<linearGradient
+    id="azureSynapseTopGradient"
+    x1="128"
+    y1="91.8"
+    x2="128"
+    y2="38"
+    gradientUnits="userSpaceOnUse"
+>
+    <stop offset="0.199" stop-color="#005BA1"/>
+    <stop offset="1" stop-color="#0078D4"/>
+</linearGradient>
 
-    <path
-      fill="url(#azure-synapse-gradient-nodes)"
-      d="M12.091 9.013a1.85 1.85 0 1 0 1.85 1.85 1.85 1.85 0 0 0-1.85-1.85ZM5.909 5.267a1.85 1.85 0 1 0 1.85 1.85 1.85 1.85 0 0 0-1.85-1.85Z"
-    />
-  </g>
+<linearGradient
+    id="azureSynapseNodeGradient"
+    x1="128"
+    y1="165.13"
+    x2="128"
+    y2="90.87"
+    gradientUnits="userSpaceOnUse"
+>
+    <stop offset="0" stop-color="#198AB3"/>
+    <stop offset="0.172" stop-color="#32BEDD"/>
+    <stop offset="0.5" stop-color="#50E6FF"/>
+    <stop offset="0.5" stop-color="#4FE4FD"/>
+    <stop offset="0.5" stop-color="#4BDDF8"/>
+    <stop offset="0.5" stop-color="#44D2EE"/>
+    <stop offset="0.5" stop-color="#3AC1E0"/>
+    <stop offset="0.5" stop-color="#2DABCE"/>
+    <stop offset="0.5" stop-color="#1D90B8"/>
+    <stop offset="0.5" stop-color="#198AB3"/>
+    <stop offset="0.662" stop-color="#32BEDD"/>
+    <stop offset="0.975" stop-color="#50E6FF"/>
+</linearGradient>
+
 </svg>
