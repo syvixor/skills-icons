@@ -125,6 +125,7 @@ const shortNames: Record<string, string> = {
     "so": "stackoverflow",
     "solid": "solidjs",
     "spark": "apachespark",
+    "synapse": "azuresynapse",
     "tailwind": "tailwindcss",
     "teams": "microsoftteams",
     "truenas": "truenascore",
