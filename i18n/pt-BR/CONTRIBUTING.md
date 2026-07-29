@@ -36,7 +36,7 @@ Depois de submeter um pull request, os mantenedores irão analisá-lo e podem so
 
 ## Código de Conduta
 
-Ao contribuir para este projeto, você concorda em cumprir o nosso [Código de Conduta](../../i18n/pt-br/CODE_OF_CONDUCT.md), que estabelece expectativas para uma comunicação respeitosa e inclusiva.
+Ao contribuir para este projeto, você concorda em cumprir o nosso [Código de Conduta](./CODE_OF_CONDUCT.md), que estabelece expectativas para uma comunicação respeitosa e inclusiva.
 
 ## Licenciamento
 

@@ -16,21 +16,21 @@ Apresente a sua stack tecnológica com ícones simples e personalizáveis, basta
 - 🇮🇹 [Italiano (Italian)](../it/README.md)
 - 🇷🇺 [Русский (Russian)](../ru/README.md)
 - 🇹🇷 [Türkçe (Turkish)](../tr/README.md)
-- 🇵🇹 [Português (Portuguese)](./i18n/pt/README.md)
+- 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 [Deutsch (German)](../de/README.md)
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
-- 🇧🇷 Português brasileiro (Brazilian portuguese) ⬅
+- 🇧🇷 Português Brasileiro (Brazilian Portuguese) ⬅
 
 > [!IMPORTANT]
 > Agradeceríamos muito se considerasse dar uma estrela ⭐ ao nosso repositório! Isso nos ajuda a ganhar visibilidade e apoio ao projeto.
 
 #### Principais Links 🔗
 
-- <https://skills.syvixor.com>
-- <https://skills-icons.vercel.app>
+- https://skills.syvixor.com
+- https://skills-icons.vercel.app
 
 ```markdown
 [![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)

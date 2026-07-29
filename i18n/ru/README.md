@@ -22,6 +22,7 @@
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
+- 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
 
 > [!IMPORTANT]
 > Мы будем очень признательны, если вы поставите ⭐ нашему репозиторию! Это большая поддержка для проекта.
