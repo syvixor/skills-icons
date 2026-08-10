@@ -19,6 +19,7 @@ Mostra el teu stack tecnològic amb icones netes i personalitzables, només llis
 - 🇵🇹 [Português (Portuguès)](../pt/README.md)
 - 🇩🇪 [Deutsch (Alemany)](../de/README.md)
 - 🇰🇷 [한국어 (Coreà)](../ko/README.md)
+- 🇯🇵 [日本語 (Japanese)](../ja/README.md)
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)

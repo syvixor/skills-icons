@@ -19,6 +19,7 @@ Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 [Deutsch (German)](../de/README.md)
 - 🇰🇷 [한국어 (Korean)](../ko/README.md)
+- 🇯🇵 [日本語 (Japanese)](../ja/README.md)
 - 🇮🇳 [हिन्दी (Hindi)](../hin/README.md)
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
