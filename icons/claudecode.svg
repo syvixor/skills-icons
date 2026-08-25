@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Claude Code" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="claudecode">
+<style>
+#claudecode {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M194.11 122.23H216V144.77H194.125V166.774H183.283V188H172.25V166.774H161.408V188H150.375V166.774H106.625V188H95.6V166.774H84.75V188H73.7172V166.774H62.875V144.763H41V122.236H62.875V79H194.115L194.11 122.23ZM84.7451 122.23H95.5951V101.541H84.7451V122.23ZM161.381 122.23H172.245V101.541H161.381V122.23Z" fill="#D97757"/>
+</svg>
