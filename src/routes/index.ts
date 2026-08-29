@@ -10,6 +10,7 @@ const router: Router = express.Router();
 
 const shortNames: Record<string, string> = {
     "access": "microsoftaccess",
+    "adianti": "adiantiframework",
     "adonis": "adonisjs",
     "ae": "adobeaftereffects",
     "aftereffects": "adobeaftereffects",
