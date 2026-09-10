@@ -2,9 +2,11 @@
 <style>
 #vitest {
     rect {fill: #15191C}
+    path.vitest {fill: #FFFFFF}
 
     @media (prefers-color-scheme: light) {
         rect {fill: #F4F2ED}
+        path.vitest {fill: #212121}
     }
 }
 </style>
@@ -30,8 +32,8 @@
 <path d="M140.806 66.292C144.891 62.2071 154.891 65.584 163.141 73.8344C171.391 82.0848 174.768 92.0845 170.683 96.1694C166.598 100.254 156.599 96.8775 148.348 88.6271C140.098 80.3766 136.721 70.3769 140.806 66.292Z" fill="#97FFE2"/>
 </g>
 </g>
-<path d="M62.517 79C43.2176 106.625 43.1045 149.445 62.517 177.169H75.5565C56.1486 149.445 56.2616 106.625 75.5565 79H62.517Z" fill="white"/>
-<path d="M193.487 79.0004H180.447C199.746 106.625 199.859 149.445 180.447 177.17H193.487C212.894 149.445 212.781 106.625 193.487 79.0004Z" fill="white"/>
+<path d="M62.517 79C43.2176 106.625 43.1045 149.445 62.517 177.169H75.5565C56.1486 149.445 56.2616 106.625 75.5565 79H62.517Z" class="vitest" fill="#FFFFFF"/>
+<path d="M193.487 79.0004H180.447C199.746 106.625 199.859 149.445 180.447 177.17H193.487C212.894 149.445 212.781 106.625 193.487 79.0004Z" class="vitest" fill="#FFFFFF"/>
 <filter id="filter_0" x="105.913" y="67.972" width="58.1658" height="64.0787" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
