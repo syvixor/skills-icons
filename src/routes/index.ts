@@ -37,6 +37,7 @@ const shortNames: Record<string, string> = {
     "cloudstorage": "googlecloudstorage",
     "computeengine": "googlecomputeengine",
     "copilot": "microsoftcopilot",
+    "csp": "clipstudiopaint",
     "cudacpp": "cudacplusplus",
     "d3": "d3js",
     "dataflow": "googledataflow",
