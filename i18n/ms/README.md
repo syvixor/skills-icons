@@ -60,7 +60,7 @@ Untuk melihat semua ikon yang tersedia, sila layari [URL Builder](https://builde
 
 ### Menyumbang 🎖️
 
-Kami mengalu-alukan sumbangan daripada sesiapa sahaja! Jika anda ingin membantu, sila ikuti garis panduan terperinci dalam fail [CONTRIBUTING.md](.github/CONTRIBUTING.md) kami.
+Kami mengalu-alukan sumbangan daripada sesiapa sahaja! Jika anda ingin membantu, sila ikuti garis panduan terperinci dalam fail [CONTRIBUTING.md](./CONTRIBUTING.md) kami.
 
 #### Cara untuk Menyumbang
 

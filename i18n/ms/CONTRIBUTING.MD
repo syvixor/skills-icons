@@ -2,7 +2,7 @@
 
 Terima kasih atas minat anda untuk menyumbang kepada Skills Icons! Kami menghargai masa dan usaha anda. Dengan menyumbang, anda membantu meningkatkan projek ini untuk semua orang.
 
-Sila baca garis panduan berikut untuk memastikan sumbangan anda selaras dengan matlamat dan standard projek.
+Sila baca garis panduan berikut untuk memastikan sumbangan anda selaras dengan matlamat dan piawaian projek.
 
 ## Cara Menyumbang
 
