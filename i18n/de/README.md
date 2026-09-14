@@ -24,6 +24,7 @@ Präsentieren Sie Ihren Tech-Stack mit anpassbaren Icons, liste einfach die Tech
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
+- 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 
 > [!IMPORTANT]
 > Wir würden uns sehr freuen, wenn Sie unserem Repository einen Stern geben würden! Dies hilft uns, mehr Sichtbarkeit zu erlangen und das Projekt zu unterstützen.

@@ -24,6 +24,7 @@
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
+- 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 
 > [!IMPORTANT]
 > Мы будем очень признательны, если вы поставите ⭐ нашему репозиторию! Это большая поддержка для проекта.

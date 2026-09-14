@@ -24,6 +24,7 @@ Apresente a sua stack tecnológica com ícones simples e personalizáveis, basta
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 - 🇧🇷 Português Brasileiro (Brazilian Portuguese) ⬅
+- 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 
 > [!IMPORTANT]
 > Agradeceríamos muito se considerasse dar uma estrela ⭐ ao nosso repositório! Isso nos ajuda a ganhar visibilidade e apoio ao projeto.

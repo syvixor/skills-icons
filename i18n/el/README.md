@@ -24,6 +24,7 @@
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 Ελληνικά (Greek) ⬅
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
+- 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 
 > [!IMPORTANT]
 > Θα το εκτιμούσαμε πραγματικά αν σκεφτόσασταν να δώσετε ένα αστέρι στο αποθετήριό μας! Μας βοηθά να κερδίσουμε ορατότητα και να υποστηρίξουμε το έργο.
