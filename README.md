@@ -24,6 +24,7 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 - 🇮🇳 [മലയാളം (Malayalam)](./i18n/ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](./i18n/el/README.md)
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](./i18n/pt-BR/README.md)
+- 🇲🇾 [Bahasa Melayu (Malay)](./i18n/my/README.md)
 
 > [!IMPORTANT]
 > We'd really appreciate it if you would consider starring our repository! It helps us gain visibility and support the project.
