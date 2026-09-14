@@ -81,7 +81,7 @@ pnpm install # or npm install
 pnpm dev # or npm run dev
 ```
 
-Untuk arahan lanjut mengenai cara bermula, sila lihat garis panduan dalam [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+Untuk arahan lanjut mengenai cara bermula, sila lihat garis panduan dalam [CONTRIBUTING.md](./CONTRIBUTING.MD).
 
 ### Penggunaan Docker 🐳
 
@@ -142,4 +142,4 @@ Projek ini digunakan dan dihoskan menggunakan [Vercel](https://vercel.com)
 
 ### License 📝
 
-Projek ini dilesenkan di bawah [MIT License](LICENSE)
+Projek ini dilesenkan di bawah [MIT License](../../LICENSE)

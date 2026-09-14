@@ -17,8 +17,8 @@ Jika anda menemui pepijat atau isu, sila ikuti langkah-langkah berikut:
 
 #### Templat Ikon
 
-- [Ikon Biasa](ICON_TEMPLATES/icon.svg)
-- [Tema Ikon](ICON_TEMPLATES/themed_icon.svg)
+- [Ikon Biasa](../../.github/ICON_TEMPLATES/icon.svg)
+- [Tema Ikon](../../.github/ICON_TEMPLATES/themed_icon.svg)
 
 Jika anda ingin menyumbang ikon baru, sila ikuti langkah-langkah berikut:
 
@@ -40,4 +40,4 @@ Dengan menyumbang kepada projek ini, anda bersetuju untuk mengikuti [Kod Perilak
 
 ## Pelesenan
 
-Dengan menyumbang kepada projek ini, anda bersetuju bahawa sumbangan anda akan dilisensikan di bawah [lesen projek](../LICENSE).
+Dengan menyumbang kepada projek ini, anda bersetuju bahawa sumbangan anda akan dilisensikan di bawah [lesen projek](../../LICENSE).

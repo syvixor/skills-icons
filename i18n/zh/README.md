@@ -24,6 +24,7 @@
 - 🇮🇳 [മലയാളം (Malayalam)](../ml/README.md)
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
+- 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 
 > [!IMPORTANT]
 > 如果您能为我们的仓库点个星星，我们将不胜感激！这有助于提升项目可见度并获得支持。
