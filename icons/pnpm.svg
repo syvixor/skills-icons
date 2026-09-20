@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="pnpm" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="pnpm">
+<style>
+#pnpm {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M203 99.8721H156.128V53H203V99.8721Z" fill="#F9AD00"/>
+<path d="M151.431 99.8721H104.559V53H151.431V99.8721Z" fill="#F9AD00"/>
+<path d="M99.8721 99.8721H53V53H99.8721V99.8721Z" fill="#F9AD00"/>
+<path d="M203 151.431H156.128V104.559H203V151.431Z" fill="#F9AD00"/>
+<path d="M151.431 151.431H104.559V104.559H151.431V151.431Z" fill="#4E4E4E"/>
+<path d="M151.431 202.991H104.559V156.119H151.431V202.991Z" fill="#4E4E4E"/>
+<path d="M203 202.991H156.128V156.119H203V202.991Z" fill="#4E4E4E"/>
+<path d="M99.8721 202.991H53V156.119H99.8721V202.991Z" fill="#4E4E4E"/>
+</svg>

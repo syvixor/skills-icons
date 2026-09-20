@@ -1,0 +1,25 @@
+<svg width="256" height="256" title="Google AdSense" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="googleadsense">
+<style>
+#googleadsense {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M199.873 145.806L171.873 207H104.937L141.561 128H188.435C197.56 128 203.623 137.467 199.873 145.806Z" fill="#437DE6"/>
+<path d="M188.435 129.129C192.373 129.129 195.935 131.072 198.06 134.395C200.185 137.718 200.435 141.794 198.81 145.367L171.186 205.934H107.999L143.561 129.129H188.435ZM188.435 128H142.874L106.249 207H171.873L199.81 145.806C203.623 137.467 197.56 128 188.435 128Z" fill="#196CEA"/>
+<path d="M143.561 129.129C143.561 129.129 178.686 167.375 186.935 171.325L198.373 146.183C202.373 138.22 197.248 128.94 187.685 129.066L143.561 129.129Z" fill="url(#linearGradient1)"/>
+<path d="M111.561 55.8341L41 207L106.249 207L179.498 49H122.249C117.686 49 113.499 51.6333 111.561 55.8341Z" fill="url(#linearGradient2)"/>
+<path d="M177.748 50.1286L105.562 205.934H42.75L112.561 56.273C114.311 52.5111 118.124 50.0659 122.249 50.0659H177.748V50.1286ZM179.498 49H122.249C117.686 49 113.499 51.6333 111.561 55.8341L41 207L106.249 207L179.498 49Z" fill="#F3AA00"/>
+<linearGradient id="linearGradient1" x1="47.56" y1="7963.38" x2="16053.5" y2="7963.38" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4284F0"/>
+<stop offset="1" stop-color="#4487F4"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="4592.68" y1="12935.6" x2="8843.29" y2="6672.53" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5B406"/>
+<stop offset="1" stop-color="#F4B913"/>
+</linearGradient>
+</svg>

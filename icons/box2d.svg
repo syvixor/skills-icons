@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="Box2D" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="box2d">
+<style>
+#box2d {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M142.026 115.361H103.23V151.157H142.026V115.361Z" stroke="#30AEBF" stroke-width="2.26772"/>
+<path d="M163.078 155.094H124.282V190.89H163.078V155.094Z" stroke="#30AEBF" stroke-width="2.26772"/>
+<path d="M120.292 155.094H81.4962V190.89H120.292V155.094Z" stroke="#30AEBF" stroke-width="2.26772"/>
+<path d="M46 195.369L198.915 194.743" stroke="#8CC924" stroke-width="2.26772"/>
+<path d="M172.412 114.883C182.668 114.883 190.982 106.568 190.982 96.3119C190.982 86.0556 182.668 77.7412 172.412 77.7412C162.155 77.7412 153.841 86.0556 153.841 96.3119C153.841 106.568 162.155 114.883 172.412 114.883Z" stroke="#DC3132" stroke-width="2.26772"/>
+<path d="M177.476 71.953L192.671 57" stroke="#EB8788" stroke-width="2.26772" stroke-linecap="round"/>
+<path d="M189.294 77.7412L204.488 62.7882" stroke="#EB8788" stroke-width="2.26772" stroke-linecap="round"/>
+<path d="M195.806 88.1118L211 73.1588" stroke="#EB8788" stroke-width="2.26772" stroke-linecap="round"/>
+</svg>

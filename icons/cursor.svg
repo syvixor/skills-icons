@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="Cursor" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="black"/>
+<path d="M127.438 218L205.625 173L127.438 128L49.25 173L127.438 218Z" fill="url(#linearGradient1)"/>
+<path d="M205.625 173V83L127.438 38V128L205.625 173Z" fill="url(#linearGradient2)"/>
+<path d="M127.438 38L49.25 83V173L127.438 128V38Z" fill="url(#linearGradient3)"/>
+<path d="M205.625 83L127.438 218V128L205.625 83Z" fill="#555555"/>
+<path d="M205.625 83L127.438 128L49.25 83H205.625Z" fill="white"/>
+<linearGradient id="linearGradient1" x1="127.438" y1="128" x2="127.438" y2="218" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" offset="0.16" stop-opacity="0.39"/>
+<stop stop-color="white" offset="0.658" stop-opacity="0.8"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="205.625" y1="83.2775" x2="127.438" y2="129.125" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" offset="0.182" stop-opacity="0.31"/>
+<stop stop-color="white" offset="0.715" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="127.437" y1="38" x2="49.25" y2="173" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.6"/>
+<stop stop-color="white" offset="0.667" stop-opacity="0.22"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="256" height="256" title="FileZilla" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="url(#linearGradient)"/>
+<path d="M201 106.394H99.9053L105.181 81.6413H166.797L172.449 55H83.8876L56 186.886H82.7573L95.0027 129.256H159.181L103.414 184.618L113.213 202C117.734 198.978 125.082 198.599 130.171 198.599C139.216 198.599 148.072 201.623 157.302 201.623C165.766 201.623 174.431 201.056 188.564 194.253L193.503 171.013C183.891 174.98 169.671 178.76 157.302 178.76C152.218 178.76 147.506 177.627 142.607 176.871L196.665 124.156L201 106.394Z" fill="white"/>
+<linearGradient id="linearGradient" x1="127.994" y1="31.0866" x2="127.994" y2="228.849" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BF0000"/>
+<stop offset="1" stop-color="#8F0000"/>
+</linearGradient>
+</svg>

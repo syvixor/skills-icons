@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Adobe" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="adobe">
+<style>
+#adobe {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M147.5 63H203V193L147.5 63ZM108.5 63H53V193L108.5 63ZM127.945 110.881L163.332 193H140.191L129.63 166.911H103.789L127.945 110.881Z" fill="#EB1000"/>
+</svg>

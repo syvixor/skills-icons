@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Freelancer" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="freelancer">
+<style>
+#freelancer {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M145.846 73L157.423 89.1827L216 73M84.9843 199L116.672 168.124L97.5998 147.726M141.048 73L124.112 88.2211L152.597 89.2802M75.209 73L81.2913 85.4253L114.814 87.5069M93.1552 137.428L117.921 91.381L46 87.5069M96.0391 140.347L119.433 165.393L145.239 140.182L153.248 93.224L121.8 91.6249" fill="#29B2FE"/>
+</svg>

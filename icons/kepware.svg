@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Kepware" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="kepware">
+<style>
+#kepware {
+    rect {fill: #15191C}
+    path.kepware {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.kepware {fill: #121212}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 42L53 85.3518V123.59L128 80.0055L170.209 104.18L161.779 109.062L128 89.6522L98.5814 106.621L165.791 145.498L203 123.706V85.3518L128 42Z" class="kepware" fill="white"/>
+<path d="M128 215L203 171.823V133.468L128 177.053L85.7907 152.878L94.2209 147.996L128 167.406L157.36 150.437L90.2093 111.56L53 133.352V171.823L128 215Z" fill="#40AA1D"/>
+</svg>

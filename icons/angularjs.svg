@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="AngularJS" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="angularjs">
+<style>
+#angularjs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M148.087 45L205.077 167.641L211 74.0968L148.087 45Z" fill="#9E19ED"/>
+<path d="M162.788 173.871H94.2115L85.4565 195.086L128.5 219.628L171.543 195.086L162.788 173.871Z" fill="#ED0762"/>
+<path d="M105.964 146.355H151.06L128.5 91.536L105.964 146.355Z" fill="#ED25A6"/>
+<path d="M108.913 45L46 74.0968L51.9232 167.641L108.913 45Z" fill="#FD30D1"/>
+</svg>

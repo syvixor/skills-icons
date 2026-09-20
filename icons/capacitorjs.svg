@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Capacitor.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="capacitorjs">
+<style>
+#capacitorjs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M69.4715 78.9357L43.2059 105.233L83.7104 145.86L43 186.693L69.1827 213.003L109.976 172.158L150.548 212.711L176.813 186.413L69.4715 78.9357Z" fill="#53B9FF"/>
+<path d="M136.312 145.861L109.977 172.158L150.549 212.712L176.814 186.414L136.312 145.861Z" fill="#119EFF"/>
+<path d="M136.312 145.861L109.977 172.158L120.115 182.24L136.312 145.861Z" fill="black" fill-opacity="0.2"/>
+<path d="M172.207 110.06L213 69.2159L186.723 43L145.943 83.7628L105.367 43.2059L79.1018 69.5047L186.444 176.982L212.709 150.684L172.207 110.06Z" fill="#53B9FF"/>
+<path d="M119.606 110.062L145.942 83.7635L105.367 43.2079L79.1018 69.5054L119.606 110.062Z" fill="#119EFF"/>
+<path d="M119.606 110.06L145.942 83.7628L135.801 73.6784L119.606 110.06Z" fill="black" fill-opacity="0.2"/>
+</svg>

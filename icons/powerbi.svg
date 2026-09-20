@@ -1,0 +1,27 @@
+<svg width="256" height="256" title="Power BI" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="powerbi">
+<style>
+#powerbi {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M193 49.2173V207.783C193 211.768 189.762 215 185.769 215H140.648C136.654 215 133.417 211.768 133.417 207.783V49.2173C133.417 45.2313 136.654 42 140.648 42H185.769C189.763 42 193 45.2313 193 49.2173Z" fill="url(#linearGradient1)"/>
+<path d="M157.792 92.4584V215H98.2083V92.4584C98.2083 88.4773 101.442 85.25 105.431 85.25H150.569C154.558 85.25 157.792 88.4773 157.792 92.4584Z" fill="url(#linearGradient2)"/>
+<path d="M63 135.708V207.791C63 211.772 66.2335 215 70.2223 215H122.583V135.708C122.583 131.727 119.35 128.5 115.361 128.5H70.2223C66.2335 128.5 63 131.727 63 135.708Z" fill="url(#linearGradient3)"/>
+<linearGradient id="linearGradient1" x1="41.3333" y1="42" x2="80.8436" y2="230.797" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E6AD10"/>
+<stop offset="1" stop-color="#C87E0E"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="62.9894" y1="42" x2="121.4" y2="233.529" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6D751"/>
+<stop offset="1" stop-color="#E6AD10"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="62.9951" y1="128.5" x2="97.5292" y2="213.066" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9E589"/>
+<stop offset="1" stop-color="#F6D751"/>
+</linearGradient>
+</svg>

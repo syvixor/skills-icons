@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Backbone.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="backbonejs">
+<style>
+#backbonejs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M58 41V135.099L128 175.027V147.888L81.171 121.176V79.2208L128 105.932V80.9278L58 41Z" fill="#002A41"/>
+<path d="M198 41V135.099L128 175.027V147.888L174.829 121.176V79.2208L128 105.932V80.9278L198 41ZM58 215V120.894L128 80.9678V108.108L81.171 134.821V174.642L128 147.932V175.072L58 215Z" fill="#0071B5"/>
+<path d="M198 215V120.894L128 80.9678V108.108L174.829 134.819V174.641L128 147.932V175.072L198 215Z" fill="#002A41"/>
+</svg>

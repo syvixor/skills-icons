@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="Tmux" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="tmux">
+<style>
+#tmux {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44 165.8H212V196.246C212 204.947 204.942 212 196.252 212H59.7479C51.0518 212 44 204.958 44 196.246V165.8ZM44 165.8H212V197.3H44V165.8Z" fill="#1BB91F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M131.15 117.5V44H124.85V197.3H131.15V123.8H212V117.5H131.15ZM44 59.7574C44 51.0549 51.0581 44 59.7479 44H196.252C204.949 44 212 51.0613 212 59.7574V197.3H44V59.7574Z" fill="#3C3C3C"/>
+</svg>

@@ -1,0 +1,39 @@
+name: 🛑 Icon Removal Request
+description: Request the removal of an existing icon (for copyright or legal reasons).
+title: "[Icon Removal Request] "
+labels: ["icon removal"]
+body:
+  - type: input
+    id: icon-name
+    attributes:  
+      label: Icon Name
+      description: What's the name of the icon you want removed?
+    validations:
+      required: true
+  - type: textarea
+    id: removal-reason
+    attributes:
+      label: Reason for Removal
+      description: Please explain why this icon should be removed (e.g. copyright claim, trademark violation, licensing conflict, etc).
+    validations:
+      required: true
+  - type: textarea
+    id: ownership-proof
+    attributes:
+      label: Proof of Ownership / Representation
+      description: Provide sufficient proof that you are the copyright/trademark holder or their authorized representative (e.g. official domain email, documentation, legal notice).
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I confirm that I am the copyright/trademark owner or an authorized representative.
+          required: true
+        - label: I understand this request may be publicly visible and must contain valid and truthful information.
+          required: true
+        - label: I request the icon to be removed due to a legitimate legal concern.
+          required: true
+        - label: I confirm that I have read and agree to abide by the Code of Conduct.
+          required: true

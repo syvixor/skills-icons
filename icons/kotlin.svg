@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Kotlin" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="kotlin">
+<style>
+#kotlin {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M206 206H51V51H206L126.896 127.376L206 206Z" fill="url(#radialGradient)"/>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200.846 57.3705) scale(177.55)">
+<stop offset="0.003" stop-color="#EF4857"/>
+<stop offset="0.469" stop-color="#D211EC"/>
+<stop offset="1" stop-color="#7F52FF"/>
+</radialGradient>
+</svg>

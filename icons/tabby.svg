@@ -1,0 +1,47 @@
+<svg width="256" height="256" title="Tabby" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="tabby">
+<style>
+#tabby {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M89.0099 211.426L204.998 144.457L205 110.973L89.0099 177.948V211.426Z" fill="url(#linearGradient1)"/>
+<path opacity="0.16" d="M89.0099 211.426L204.998 144.457L205 110.973L89.0099 177.948V211.426Z" fill="url(#linearGradient2)"/>
+<path d="M60.0039 161.201L60.002 194.688L89.0099 211.426V177.948L60.0039 161.201Z" fill="url(#linearGradient3)"/>
+<path opacity="0.16" d="M60.0039 161.201L60.002 194.688L89.0099 211.426V177.948L60.0039 161.201Z" fill="url(#linearGradient4)"/>
+<path d="M60.004 60.7422L60 94.2286L118.004 127.715L147.006 110.971L60.004 60.7422Z" fill="url(#linearGradient5)"/>
+<path opacity="0.15" d="M60.004 60.7422L60 94.2286L118.004 127.715L147.006 110.971L60.004 60.7422Z" fill="url(#linearGradient6)"/>
+<path d="M89.0038 177.946L60.0038 161.201L147.006 110.971L60.0038 60.7422L89.0018 44L205 110.973L89.0038 177.946Z" fill="url(#linearGradient7)"/>
+<linearGradient id="linearGradient1" x1="81.7593" y1="198.869" x2="212.251" y2="123.53" gradientUnits="userSpaceOnUse">
+<stop stop-color="#669ABD"/>
+<stop offset="1" stop-color="#77DBDB"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="139.755" y1="148.642" x2="154.255" y2="173.757" gradientUnits="userSpaceOnUse">
+<stop offset="0.559" stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="52.7545" y1="173.76" x2="96.2561" y2="198.876" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6A8FAD"/>
+<stop offset="1" stop-color="#669ABD"/>
+</linearGradient>
+<linearGradient id="linearGradient4" x1="81.7555" y1="173.76" x2="67.2551" y2="198.875" gradientUnits="userSpaceOnUse">
+<stop offset="0.559" stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient5" x1="52.7546" y1="73.2999" x2="139.755" y2="123.529" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6A8FAD"/>
+<stop offset="1" stop-color="#669ABD"/>
+</linearGradient>
+<linearGradient id="linearGradient6" x1="103.505" y1="85.8561" x2="89.0038" y2="110.973" gradientUnits="userSpaceOnUse">
+<stop offset="0.559" stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient7" x1="45.504" y1="136.087" x2="176.001" y2="60.744" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CCECFF"/>
+<stop offset="1" stop-color="#9FECED"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="256" height="256" title="Oumi" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="oumi">
+<style>
+#oumi {
+    rect {fill: #15191C}
+    path.oumibox {fill: #FFFFFF}
+    path.oumi {fill: #212121}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.oumibox {fill: #212121}
+        path.oumi {fill: #FFFFFF}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M208 48H48V208H208V48Z" class="oumibox" fill="#FFFFFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M121.412 121.412H68.7058V68.7059H121.412V121.412ZM108.235 81.8824H81.8823V108.235H108.235V81.8824Z" class="oumi" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187.294 121.412H134.588V68.7059H147.765V108.235H174.118V68.7059H187.294V121.412Z" class="oumi" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M160.941 187.294H147.765V147.765H81.8823V187.294H68.7058V134.588H160.941V187.294Z" class="oumi" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M108.235 134.588H121.412V187.294H108.235V134.588Z" class="oumi" fill="#212121"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M174.118 134.588H187.294V187.294H174.118V134.588Z" class="oumi" fill="#212121"/>
+</svg>

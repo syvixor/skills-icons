@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="Aseprite" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="aseprite">
+<style>
+#aseprite {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M78 53H178V203H78V53Z" fill="#655561"/>
+<path d="M68 63H188V193H68V63Z" fill="#655561"/>
+<path d="M58 73H198V183H58V73Z" fill="#655561"/>
+<path d="M78 63H178V193H78V63Z" fill="#7D929E"/>
+<path d="M68 73H188V183H68V73Z" fill="#7D929E"/>
+<path d="M78 63H178V173H78V63Z" fill="white"/>
+<path d="M68 73H188V163H68V73Z" fill="white"/>
+<path d="M98 93H108V133H98V93ZM148 93H158V133H148V93Z" fill="#655561"/>
+</svg>

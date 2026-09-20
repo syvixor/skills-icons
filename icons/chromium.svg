@@ -1,0 +1,33 @@
+<svg width="256" height="256" title="Chromium" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="chromium">
+<style>
+#chromium {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 128.001L160.477 146.75L128 203C169.422 203 203 169.422 203 128.001C203 114.336 199.327 101.535 192.942 90.5003H127.999L128 128.001Z" fill="url(#linearGradient1)"/>
+<path d="M127.999 53C100.24 53 76.0212 68.0922 63.0527 90.5091L95.5228 146.75L127.999 128.001L127.999 90.5003H192.942C179.971 68.0889 155.756 53 127.999 53Z" fill="url(#linearGradient2)"/>
+<path d="M53.0004 128.001C53.0004 169.422 86.5778 203 128 203L160.477 146.75L128 128.001L95.5235 146.75L63.0535 90.5091C56.6714 101.541 53 114.337 53 127.999" fill="url(#linearGradient3)"/>
+<path d="M165.501 128.001C165.501 148.711 148.711 165.501 128 165.501C107.29 165.501 90.4998 148.711 90.4998 128.001C90.4998 107.29 107.29 90.5003 128 90.5003C148.711 90.5003 165.501 107.29 165.501 128.001Z" fill="white"/>
+<path d="M158.469 128.001C158.469 144.828 144.828 158.47 128 158.47C111.173 158.47 97.531 144.828 97.531 128.001C97.531 111.173 111.173 97.5315 128 97.5315C144.828 97.5315 158.469 111.173 158.469 128.001Z" fill="url(#linearGradient4)"/>
+<linearGradient id="linearGradient1" x1="128.32" y1="52.7936" x2="128.178" y2="203" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AFCCFB"/>
+<stop offset="1" stop-color="#8BB5F8"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="115.442" y1="54.8283" x2="129.136" y2="215.531" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1972E7"/>
+<stop offset="1" stop-color="#1969D5"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="128" y1="53" x2="128" y2="203" gradientUnits="userSpaceOnUse">
+<stop stop-color="#659CF6"/>
+<stop offset="1" stop-color="#4285F4"/>
+</linearGradient>
+<linearGradient id="linearGradient4" x1="127.689" y1="97.6474" x2="128" y2="158.47" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3680F0"/>
+<stop offset="1" stop-color="#2678EC"/>
+</linearGradient>
+</svg>

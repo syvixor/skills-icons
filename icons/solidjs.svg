@@ -1,0 +1,38 @@
+<svg width="256" height="256" title="SolidJS" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="solidjs">
+<style>
+#solidjs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M213 82.5172C213 82.5172 156.333 40.819 112.497 50.4417L109.289 51.5109C102.874 53.6492 97.5283 56.8568 94.3208 61.1335L92.1824 64.3411L76.1447 92.1398L103.943 97.4857C115.704 104.97 130.673 108.178 144.572 104.97L193.755 114.593L213 82.5172Z" fill="#76B3E1"/>
+<path opacity="0.3" d="M213 82.5172C213 82.5172 156.333 40.819 112.497 50.4417L109.289 51.5109C102.874 53.6492 97.5283 56.8568 94.3208 61.1335L92.1824 64.3411L76.1447 92.1398L103.943 97.4857C115.704 104.97 130.673 108.178 144.572 104.97L193.755 114.593L213 82.5172Z" fill="url(#linearGradient1)"/>
+<path d="M94.3208 82.5171L90.044 83.5863C71.8679 88.9322 66.522 106.039 76.1447 121.008C86.8365 134.907 109.289 142.391 127.465 137.045L193.755 114.593C193.755 114.593 137.088 72.8945 94.3208 82.5171Z" fill="#518AC8"/>
+<path opacity="0.3" d="M94.3208 82.5171L90.044 83.5863C71.8679 88.9322 66.522 106.039 76.1447 121.008C86.8365 134.907 109.289 142.391 127.465 137.045L193.755 114.593C193.755 114.593 137.088 72.8945 94.3208 82.5171Z" fill="url(#linearGradient2)"/>
+<path d="M181.994 130.63C176.008 123.152 167.926 117.631 158.783 114.774C149.64 111.916 139.852 111.853 130.673 114.593L64.3837 135.976L43 173.398L162.748 193.712L184.132 155.222C188.409 147.737 187.34 139.184 181.994 130.63Z" fill="url(#linearGradient3)"/>
+<path d="M160.61 168.052C154.624 160.573 146.542 155.052 137.399 152.195C128.256 149.338 118.468 149.275 109.289 152.014L43 173.398C43 173.398 99.6667 216.165 143.503 205.473L146.711 204.404C164.887 199.058 171.302 181.951 160.61 168.052Z" fill="url(#linearGradient4)"/>
+<linearGradient id="linearGradient1" x1="68.1258" y1="48.3033" x2="201.239" y2="112.989" gradientUnits="userSpaceOnUse">
+<stop offset="0.1" stop-color="#76B3E1"/>
+<stop offset="0.3" stop-color="#DCF2FD"/>
+<stop offset="1" stop-color="#76B3E1"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="141.151" y1="79.9511" x2="117.843" y2="157.574" gradientUnits="userSpaceOnUse">
+<stop stop-color="#76B3E1"/>
+<stop offset="0.5" stop-color="#4377BB"/>
+<stop offset="1" stop-color="#1F3B77"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="58.3962" y1="113.737" x2="193.006" y2="205.259" gradientUnits="userSpaceOnUse">
+<stop stop-color="#315AA9"/>
+<stop offset="0.5" stop-color="#518AC8"/>
+<stop offset="1" stop-color="#315AA9"/>
+</linearGradient>
+<linearGradient id="linearGradient4" x1="119.126" y1="124.75" x2="64.8113" y2="323.939" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4377BB"/>
+<stop offset="0.5" stop-color="#1A336B"/>
+<stop offset="1" stop-color="#1A336B"/>
+</linearGradient>
+</svg>

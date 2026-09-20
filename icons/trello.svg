@@ -1,0 +1,8 @@
+<svg width="256" height="256" title="Trello" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="url(#linearGradient)"/>
+<path d="M110.538 181.763C110.538 187.496 106.071 192 100.386 192H58.1523C52.467 192 48 187.496 48 181.763V55.2368C48 49.5042 52.467 45 58.1523 45H100.386C106.071 45 110.538 49.5042 110.538 55.2368V181.763ZM208 123.618C208 129.351 203.533 133.855 198.254 133.855H155.614C149.929 133.855 145.462 129.351 145.462 123.618V55.2368C145.462 49.5042 149.929 45 155.614 45H197.848C203.533 45 208 49.5042 208 55.2368V123.618Z" fill="white"/>
+<linearGradient id="linearGradient" x1="128" y1="0" x2="128" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2380FC"/>
+<stop offset="1" stop-color="#0052CC"/>
+</linearGradient>
+</svg>

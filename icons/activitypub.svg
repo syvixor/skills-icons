@@ -1,0 +1,24 @@
+<svg width="256" height="256" title="ActivityPub" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="activitypub">
+<style>
+#activitypub {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M135.272 78L208 120.083V136.916L135.272 178.999V162.166L193.454 128.5L135.272 94.8332L135.272 78Z" fill="url(#linearGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M135.272 111.667L164.363 128.5L135.272 145.333V111.667Z" fill="url(#linearGradient2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M120.728 78.0014L48 120.083V136.915L106.181 103.251V170.582L120.728 179V78.0014ZM91.6374 128.501L62.5439 145.333L91.6374 162.165V128.501Z" fill="url(#linearGradient3)"/>
+<linearGradient id="linearGradient1" x1="2484.43" y1="-508.777" x2="2525.29" y2="-508.777" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F1007E"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="6139.04" y1="-1783.33" x2="6241.19" y2="-1783.33" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F1007E"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="48.0002" y1="128.5" x2="120.727" y2="128.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D6D6D"/>
+</linearGradient>
+</svg>

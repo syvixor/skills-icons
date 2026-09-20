@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="FastAPI" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="fastapi">
+<style>
+#fastapi {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 207.483C172.183 207.483 208 171.781 208 127.741C208 83.7014 172.183 48 128 48C83.8172 48 48 83.7014 48 127.741C48 171.781 83.8172 207.483 128 207.483Z" fill="#009688" fill-opacity="0.980392"/>
+<path d="M122.48 84.107L83.1839 171.376L156.822 119.627H122.272L172.816 84.107H122.48Z" fill="white"/>
+</svg>

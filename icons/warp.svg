@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Warp" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="warp">
+<style>
+#warp {
+    rect {fill: #15191C}
+    path {fill: #FFFFFF}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M129.897 64H190.296C200.073 64 208 72.19 208 82.2933V153.319C208 163.422 200.073 171.612 190.296 171.612H103.862L129.897 64Z" fill="#FFFFFF"/>
+<path d="M114.209 84.3877H65.5533C55.8578 84.3877 48 92.5777 48 102.681V173.705C48 183.808 55.8578 192 65.5533 192H125.437L127.838 181.988H90.7975L114.209 84.3877Z" fill="#FFFFFF"/>
+</svg>

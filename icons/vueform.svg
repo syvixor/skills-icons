@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="VueForm" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vueform">
+<style>
+#vueform {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M207.773 68.7229C207.47 68.241 207.013 68 206.401 68H174.673L127.26 150.485H94.6032L126.674 206.228C126.999 206.743 127.441 207 127.999 207C128.558 207 129.004 206.737 129.337 206.212L207.773 70.3067C208.076 69.7328 208.076 69.2048 207.773 68.7229Z" fill="#17C495"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48.2225 68.725C47.9209 69.2084 47.9259 69.7411 48.2374 70.3233L87.9522 139.029H120.474L137.737 109.243H105.115L98.655 97.7864L144.106 97.7587L161.308 68H49.5918C48.9804 68 48.524 68.2417 48.2225 68.725Z" fill="#35495E"/>
+</svg>

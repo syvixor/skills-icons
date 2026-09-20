@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Bloc" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="bloc">
+<style>
+#bloc {
+    rect {fill: #15191C}
+    path.bloc {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.bloc {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M203 172.043L128.803 218L53.7133 172.758L53 84.9571L127.732 39L202.643 84.0632L203 172.043Z" class="bloc" fill="white"/>
+<path d="M128.275 130.565L185.555 95.1786L127.863 60.48L70.3077 95.8672L128.275 130.565Z" fill="#0084C1"/>
+<path d="M185.83 162.923L185.555 95.1786L128.275 130.565L128.687 198.31L185.83 162.923Z" fill="#00D3B9"/>
+<path d="M70.3077 95.8672L128.275 130.565L128.687 198.31L70.8571 163.474L70.3077 95.8672Z" fill="#82EDDF"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Haskell" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="haskell">
+<style>
+#haskell {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M53 181L88.2941 128.001L53 75H79.4707L114.765 128.001L79.4707 181H53Z" fill="#453A62"/>
+<path d="M88.2941 181L123.588 128.001L88.2941 75H114.765L185.35 181H158.882L136.825 147.876L114.763 181H88.2941Z" fill="#5E5086"/>
+<path d="M173.588 150.084L161.824 132.416H203V150.085L173.588 150.084ZM155.941 123.586L144.176 105.918H203V123.586H155.941Z" fill="#8F4E8B"/>
+</svg>

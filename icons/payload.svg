@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Payload" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="payload">
+<style>
+#payload {
+    rect {fill: #15191C}
+    path {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M121.549 45L198 90.9545V178.181L140.433 211.484V124.257L63.8909 78.3637L121.549 45ZM115.69 138.582V206.648L58 171.946L115.689 138.582L115.69 138.582Z" fill="#F4F2ED"/>
+</svg>

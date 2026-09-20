@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Coolify" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="coolify">
+<style>
+#coolify {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M96.4535 96.4535H69.8169V176.363H96.4535V96.4535ZM96.4535 203H203V176.363H96.4535V203ZM96.4535 96.4535H203V69.8169H96.4535V96.4535Z" fill="#8C52FF" fill-opacity="0.302"/>
+<path d="M88.0451 88.0451H61.4085V167.955H88.0451V88.0451ZM88.0451 194.592H194.592V167.955H88.0451V194.592ZM88.0451 88.0451H194.592V61.4085H88.0451V88.0451Z" fill="#8C52FF" fill-opacity="0.502"/>
+<path d="M79.6366 79.6366H53V159.546H79.6366V79.6366ZM79.6366 186.183H186.183V159.546H79.6366V186.183ZM79.6366 79.6366H186.183V53H79.6366V79.6366Z" fill="#8C52FF"/>
+</svg>

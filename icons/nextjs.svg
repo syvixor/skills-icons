@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Next.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="nextjs">
+<style>
+#nextjs {
+    rect {fill: #15191C}
+    path {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M177.099 201.256C163.194 210.568 146.474 216 128.5 216C80.2073 216 41 176.793 41 128.5C41 80.2073 80.2073 41 128.5 41C176.793 41 216 80.2073 216 128.5C216 154.626 204.523 178.091 186.345 194.132L108.222 93.5H93.5V163.471H105.276V108.455L177.099 201.256ZM152.803 139.036L164.47 154.065V93.5H152.803V139.036Z" fill="#F4F2ED"/>
+</svg>

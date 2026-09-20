@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Ansible" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="ansible">
+<style>
+#ansible {
+    rect {fill: #15191C}
+    path {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M130.855 80.9338L166.99 170.12L112.408 127.125L130.855 80.9338ZM195.048 190.664L139.465 56.8992C137.878 53.0414 134.705 51 130.855 51C126.997 51 123.593 53.0414 122.007 56.8992L61 203.622H81.8693L106.019 143.128L178.088 201.351C180.986 203.694 183.078 204.754 185.797 204.754C191.241 204.754 196 200.673 196 194.781C196 193.822 195.661 192.301 195.048 190.664Z" fill="#F4F2ED"/>
+</svg>

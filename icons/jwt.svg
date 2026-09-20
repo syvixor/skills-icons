@@ -1,0 +1,19 @@
+<svg width="256" height="256" title="JWT" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="jwt">
+<style>
+#jwt {
+    rect {fill: #15191C}
+    path.shape {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.shape {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M139.361 93.4605L139.216 53H116.639L116.784 93.4605L128.072 108.961L139.361 93.4605ZM116.784 162.804V203.409H139.361V162.804L128.072 147.304L116.784 162.804Z" class="shape" fill="#F4F2ED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M139.361 162.804L163.141 195.611L181.338 182.373L157.557 149.566L139.361 143.693L139.361 162.804ZM116.784 93.4605L92.8588 60.654L74.6624 73.8922L98.4429 106.675L116.784 112.547L116.784 93.4605Z" fill="#00F2E6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M98.4429 106.699L59.932 94.2067L53 115.556L91.5109 128.193L109.707 122.175L98.4429 106.699ZM146.269 134.065L157.557 149.566L196.068 162.058L203 140.709L164.489 128.217L146.269 134.065Z" fill="#00B9F1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M164.465 128.217L202.976 115.58L196.044 94.2307L157.533 106.723L146.245 122.223L164.465 128.217ZM91.5109 128.217L53 140.709L59.932 162.058L98.4429 149.566L109.731 134.065L91.5109 128.217Z" fill="#D63AFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M98.4429 149.566L74.6624 182.373L92.8588 195.611L116.784 162.804L116.784 143.693L98.4429 149.566ZM157.557 106.699L181.338 73.8922L163.141 60.654L139.361 93.4364V112.547L157.557 106.699Z" fill="#FB015B"/>
+</svg>

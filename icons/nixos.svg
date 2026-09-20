@@ -1,0 +1,23 @@
+<svg width="256" height="256" title="NixOS" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="nixos">
+<style>
+#nixos {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M109.81 99.9973L68.3975 171.718L58.7286 155.328L69.8896 136.12L47.724 136.062L43 127.872L47.8239 119.495L79.3744 119.595L90.7135 100.047L109.81 99.9973Z" fill="#7EBAE4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M112.987 157.33L195.806 157.334L186.446 173.903L164.231 173.841L175.263 193.066L170.533 201.252L160.866 201.263L145.178 173.89L122.579 173.844L112.987 157.33Z" fill="#7EBAE4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M161.191 125.904L119.785 54.1785L138.814 54L149.868 73.2699L161.001 54.103L170.456 54.1067L175.298 62.4727L159.437 89.7464L170.696 109.34L161.191 125.904Z" fill="#7EBAE4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M142.959 97.934L60.1399 97.9299L69.4996 81.3614L91.715 81.423L80.6826 62.1979L85.4132 54.0119L95.0795 54.0012L110.769 81.3746L133.367 81.4204L142.959 97.934Z" fill="#5277C3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M146.19 155.433L187.603 83.7116L197.271 100.102L186.11 119.31L208.276 119.368L213 127.558L208.176 135.935L176.626 135.835L165.287 155.383L146.19 155.433Z" fill="#5277C3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94.9146 129.496L136.32 201.221L117.292 201.399L106.238 182.129L95.1042 201.296L85.6497 201.292L80.8073 192.927L96.6688 165.653L85.4091 146.059L94.9146 129.496Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="85.0703" y1="129.964" x2="114.856" y2="182.614" gradientUnits="userSpaceOnUse">
+<stop stop-color="#415E9A"/>
+<stop offset="0.231686" stop-color="#4A6BAF"/>
+<stop offset="1" stop-color="#5277C3"/>
+</linearGradient>
+</svg>

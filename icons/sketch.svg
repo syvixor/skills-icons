@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="Sketch" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="sketch">
+<style>
+#sketch {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M82.3889 119.565L128.493 209L51 119.565H82.3889Z" fill="#EA6C00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M174.611 119.565L128.507 209L206 119.565H174.611Z" fill="#EA6C00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M82.3872 119.565H174.596L128.492 209L82.3872 119.565Z" fill="#FDAD00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.492 70L84.8137 74.5758L82.3872 119.565L128.492 70Z" fill="#FDD231"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.492 70L172.17 74.5758L174.596 119.565L128.492 70Z" fill="#FDD231"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M206 119.565L172.184 74.5759L174.611 119.565H206Z" fill="#FDAD00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M51 119.565L84.8154 74.5759L82.3889 119.565H51Z" fill="#FDAD00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.492 70L82.3872 119.565H174.596L128.492 70Z" fill="#FEEEB7"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="256" height="256" title="Civitai" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="civitai">
+<style>
+#civitai {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 36L208 82.25V174.75L128 221L48 174.75V82.25L128 36Z" fill="url(#linearGradient1)"/>
+<path d="M128 66.3245L181.772 97.4122V159.588L128 190.668L74.2277 159.588V97.4122L128 66.3245Z" fill="url(#linearGradient2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.001 89.072L162.104 108.79V119.404H143.736L128.001 110.308L112.266 119.404V137.596L128.001 146.692L143.736 137.596H162.104V148.21L128.001 167.928L93.8981 148.21V108.79L128.001 89.072Z" fill="white"/>
+<linearGradient id="linearGradient1" x1="128" y1="36" x2="128" y2="221" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1281F4"/>
+<stop offset="1" stop-color="#0821C6"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="128" y1="36" x2="128" y2="221.011" gradientUnits="userSpaceOnUse">
+<stop stop-color="#09138A"/>
+<stop offset="1" stop-color="#150740"/>
+</linearGradient>
+</svg>

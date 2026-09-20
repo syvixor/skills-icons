@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="NextDNS" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="nextdns">
+<style>
+#nextdns {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M75.0397 68.0578C99.5824 65.1415 108.906 58.7299 123.303 47.8799C125.012 46.6264 127.083 45.9666 129.202 46.0013C131.321 46.036 133.37 46.7633 135.036 48.0721C147.467 57.7151 152.922 64.7571 181.207 68.6267C192.559 70.2155 196.683 76.686 197.318 84.8735C202.2 148.769 181.018 193.884 129.138 210C67.9986 192.933 53.9189 141.028 58.9314 83.031C59.6281 74.8461 66.9228 69.0751 75.0397 68.0578Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="127.995" y1="213.493" x2="127.995" y2="49.4668" gradientUnits="userSpaceOnUse">
+<stop stop-color="#025BFF"/>
+<stop offset="0.26" stop-color="#0177FF"/>
+<stop offset="0.53" stop-color="#008FFF"/>
+<stop offset="0.78" stop-color="#009DFF"/>
+<stop offset="1" stop-color="#00A2FF"/>
+</linearGradient>
+</svg>

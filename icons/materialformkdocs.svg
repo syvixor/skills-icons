@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Material for MkDocs" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="materialformkdocs">
+<style>
+#materialformkdocs {
+    rect {fill: #15191C}
+    path {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M51 76.5562V156.851L131.007 197L51 76.5562Z" fill="white"/>
+<path d="M85.9869 59L165.996 179.442L131.007 197L51 76.5562L85.9869 59Z" fill="white" fill-opacity="0.5"/>
+<path d="M171.013 76.5562L120.208 110.513L160.979 171.892L171.013 176.924V76.5562Z" fill="white"/>
+<path d="M171.013 76.5562L171.013 176.926L206 159.368V59L171.013 76.5562Z" fill="white" fill-opacity="0.25"/>
+</svg>

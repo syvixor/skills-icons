@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Google Antigravity" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="googleantigravity">
+<style>
+#googleantigravity {
+    rect {fill: #15191C}
+    path {fill: #FFFFFF}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M195.538 200.551C204.751 207.46 218.569 202.854 205.906 190.183C167.893 153.339 175.965 52 128.754 52C81.543 52 89.6005 153.339 51.6022 190.19C37.7833 204.002 52.7503 207.454 61.9628 200.544C97.658 176.364 95.3549 133.759 128.754 133.759C162.146 133.759 159.843 176.364 195.538 200.551Z" fill="#FFFFFF"/>
+</svg>

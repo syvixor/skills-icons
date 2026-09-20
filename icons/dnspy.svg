@@ -1,0 +1,21 @@
+<svg width="256" height="256" title="dnSpy" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="dnspy">
+<style>
+#dnspy {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M93.678 53H203V162.322H93.678V53Z" fill="white"/>
+<path d="M102.576 61.8983H194.102V153.424H102.576V61.8983Z" fill="#3F3F40"/>
+<path d="M125.458 84.7797H171.22V130.542H125.458V84.7797Z" fill="white"/>
+<path d="M73.339 73.339H182.661V182.661H73.339V73.339Z" fill="white"/>
+<path d="M82.2373 82.2373H173.763V173.763H82.2373V82.2373Z" fill="#3F3F40"/>
+<path d="M105.119 105.119H150.881V150.881H105.119V105.119Z" fill="white"/>
+<path d="M53 93.678H162.322V203H53V93.678Z" fill="white"/>
+<path d="M61.8983 102.576H153.424V194.102H61.8983V102.576Z" fill="#3F3F40"/>
+<path d="M84.7797 125.458H130.542V171.22H84.7797V125.458Z" fill="white"/>
+</svg>

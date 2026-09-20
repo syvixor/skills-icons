@@ -1,0 +1,12 @@
+<svg width="256" height="256" title="Icon Name" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="id">
+<style>
+#id {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+</svg>

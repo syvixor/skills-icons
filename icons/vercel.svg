@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Vercel" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vercel">
+<style>
+#vercel {
+    rect {fill: #15191C}
+    path {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M208 198.333H48L128 58L208 198.333Z" fill="#F4F2ED"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Solidity" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_7)">
+<path d="M231 0H25C11.1929 0 0 11.1929 0 25V231C0 244.807 11.1929 256 25 256H231C244.807 256 256 244.807 256 231V25C256 11.1929 244.807 0 231 0Z" fill="#2B247C"/>
+<path opacity="0.45" d="M155.285 43L127.843 91.7746H73L100.421 43H155.285Z" fill="white"/>
+<path opacity="0.6" d="M127.843 91.7746H182.706L155.285 43H100.421L127.843 91.7746Z" fill="white"/>
+<path opacity="0.8" d="M100.421 140.528L127.843 91.7746L100.421 43L73 91.7746L100.421 140.528Z" fill="white"/>
+<path opacity="0.45" d="M100.694 213.7L128.136 164.926H183L155.558 213.7H100.694Z" fill="white"/>
+<path opacity="0.6" d="M128.136 164.926H73.2729L100.694 213.7H155.558L128.136 164.926Z" fill="white"/>
+<path opacity="0.8" d="M155.558 116.172L128.136 164.926L155.558 213.7L183 164.926L155.558 116.172Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_7">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+</defs>
+</svg>

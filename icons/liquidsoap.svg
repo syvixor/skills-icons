@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Liquidsoap" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="liquidsoap">
+<style>
+#liquidsoap {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M138.272 80.2027C145.781 80.2027 150.4 80.2027 150.4 80.2027C155.532 80.2027 159.663 84.334 159.663 89.4656V194.446C159.663 199.577 155.532 203.709 150.4 203.709H91.2629C86.1313 203.709 82 199.577 82 194.446V89.4656C82 84.334 86.1313 80.2027 91.2629 80.2027H103.456" stroke="#990066" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M120.675 159.296V62.2629C120.675 57.1313 124.807 53 129.938 53H174.728C179.86 53 183.991 57.1313 183.991 62.2629V74.4592" stroke="#990066" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M184.895 87.1796C184.895 87.1796 184.806 112.489 202.459 108.125C211.527 105.883 205.583 91.6411 197.129 93.7183C191.387 95.1294 184.924 87.1796 184.895 87.1796Z" fill="#990066"/>
+</svg>

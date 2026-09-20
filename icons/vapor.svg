@@ -1,0 +1,24 @@
+<svg width="256" height="256" title="Vapor" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vapor">
+<style>
+#vapor {
+    rect {fill: #15191C}
+    path.vapor-icon {fill: #212121}
+    path.vapor-layer {fill: #FFFFFF}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.vapor-icon {fill: #FFFFFF}
+        path.vapor-layer {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M43 103.031V120.656L128 186.75V169.125L43 103.031Z" fill="#9EE0FF"/>
+<path d="M43 120.656V138.281L128 204.375V186.75L43 120.656Z" fill="#6BD0FF"/>
+<path d="M43 138.281V155.906L128 222V204.375L43 138.281Z" fill="#38C0FF"/>
+<path d="M213 103.031V120.656L128 186.75V169.125L213 103.031Z" fill="#F29EFF"/>
+<path d="M213 120.656V138.281L128 204.375V186.75L213 120.656Z" fill="#EB6BFF"/>
+<path d="M213 138.281V155.906L128 222V204.375L213 138.281Z" fill="#E438FF"/>
+<path d="M43 103.031L128 34L213 103.031L128 169.125L43 103.031Z" class="vapor-layer" fill="#FFFFFF"/>
+<path d="M103.086 79.5312C103.086 79.5312 106.897 111.697 114.371 118.6C125.362 128.881 140.017 128.881 149.397 121.391C158.922 113.9 160.095 100.975 148.371 90.6937C140.31 83.6437 103.086 79.3844 103.086 79.3844V79.5312Z" class="vapor-icon" fill="#212121"/>
+</svg>

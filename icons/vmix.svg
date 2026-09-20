@@ -1,0 +1,21 @@
+<svg width="256" height="256" title="vMix" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vmix">
+<style>
+#vmix {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M97.1331 53H53V97.1331H97.1331V53Z" fill="#2478BD"/>
+<path d="M97.1331 106.065H53V150.198H97.1331V106.065Z" fill="#2478BD"/>
+<path d="M150.198 106.065H106.065V150.198H150.198V106.065Z" fill="#2478BD"/>
+<path d="M203 106.065H158.867V150.198H203V106.065Z" fill="#2478BD"/>
+<path d="M150.198 158.867H106.065V203H150.198V158.867Z" fill="#2478BD"/>
+<path d="M203 158.867H158.867V203H203V158.867Z" fill="#2478BD"/>
+<path d="M150.198 53H106.065V97.1331H150.198V53Z" fill="#2478BD"/>
+<path d="M203 53H158.867V97.1331H203V53Z" fill="#41B649"/>
+<path d="M97.1331 158.867H53V203H97.1331V158.867Z" fill="#FAA419"/>
+</svg>

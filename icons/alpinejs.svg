@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Alpine.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="alpinejs">
+<style>
+#alpinejs {
+    rect {fill: #15191C}
+    path.alpinejs {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.alpinejs {fill: #2D3441}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M177.999 87L218 127.036L177.999 167.073L138 127.036L177.999 87Z" fill="#77C1D2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M78.0006 87L160.925 170H80.9256L38 127.036L78.0006 87Z" class="alpinejs" fill="#F4F2ED"/>
+</svg>

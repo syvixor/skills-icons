@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Designali" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="designali">
+<style>
+#designali {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M68 59H117.127C139.778 59 157.254 64.9955 169.553 76.9788C181.85 88.966 188 106.038 188 128.194C188 150.35 181.981 167.199 169.942 179.118C157.903 191.041 140.686 197 118.292 197H68.0019V59H68Z" fill="#D93739"/>
+</svg>

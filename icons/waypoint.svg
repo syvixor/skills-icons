@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="HashiCorp Waypoint" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="waypoint">
+<style>
+#waypoint {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M216 81L194.147 118.96L172.294 81H216ZM99.3406 106.343H84.75L121.194 169.668L106.625 195L41 81H113.92L150.375 144.336L157.659 131.675L128.5 81H157.659L172.25 106.343L186.841 131.664L150.375 195L99.3406 106.343Z" fill="#14C6CB"/>
+</svg>

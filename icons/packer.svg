@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="HashiCorp Packer" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="packer">
+<style>
+#packer {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M71 57.7293L131.955 92.5682V221L71 186.168" fill="#1DAEFF"/>
+<path d="M162.132 72.7422L95.8755 35V61.2096L140.931 86.9401V165.59L162.136 177.633C175.258 185.119 186 180.634 186 167.664V109.953C186 96.9755 175.258 80.2311 162.136 72.7422" fill="#1D94DD"/>
+</svg>

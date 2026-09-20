@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Single SPA" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="singlespa">
+<style>
+#singlespa {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M88.6125 85.7349L176.087 142.003L159.598 165.632L78.3729 124.462L88.6125 85.7349ZM82.125 69.0247L66 130.011L163.002 179.177L191 139.057L82.125 69.0247Z" fill="#EE689F"/>
+<path d="M125.342 159.903L163 179.175L98.2271 213L125.342 159.903Z" fill="#EE689F"/>
+<path d="M149.554 112.51L82.125 69.0247L184.56 44L149.554 112.51Z" fill="#EE689F"/>
+</svg>

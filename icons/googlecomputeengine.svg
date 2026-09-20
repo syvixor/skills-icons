@@ -1,0 +1,29 @@
+<svg width="256" height="256" title="Google Compute Engine" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="googlecomputeengine">
+<style>
+#googlecomputeengine {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M78.9948 197.907L43.1062 135.744C41.7264 133.354 41 130.643 41 127.884C41 125.124 41.7264 122.413 43.1062 120.023L78.9948 57.8613C80.3748 55.471 82.3598 53.4861 84.7501 52.1062C87.1404 50.7262 89.8519 49.9998 92.6119 50H164.389C167.149 50.0001 169.86 50.7266 172.25 52.1065C174.64 53.4865 176.625 55.4712 178.005 57.8613L213.893 120.023C215.273 122.413 216 125.124 216 127.884C216 130.644 215.273 133.355 213.893 135.746L178.005 197.907C176.625 200.297 174.64 202.282 172.25 203.661C169.86 205.041 167.149 205.767 164.389 205.767H92.6119C89.8518 205.768 87.1403 205.041 84.75 203.661C82.3596 202.281 80.3747 200.298 78.9948 197.907Z" fill="#4387FB"/>
+<path d="M141.5 114.5H114.5V141.5H141.5V114.5Z" fill="white"/>
+<path d="M132.5 83H123.5V101H132.5V83Z" fill="white"/>
+<path d="M114.5 83H105.5V101H114.5V83Z" fill="white"/>
+<path d="M150.5 83H141.5V101H150.5V83Z" fill="white"/>
+<path d="M132.5 155H123.5V173H132.5V155Z" fill="white"/>
+<path d="M114.5 155H105.5V173H114.5V155Z" fill="white"/>
+<path d="M150.5 155H141.5V173H150.5V155Z" fill="white"/>
+<path d="M155 123.5V132.5H173V123.5H155Z" fill="white"/>
+<path d="M155 141.5V150.5H173V141.5H155Z" fill="white"/>
+<path d="M155 105.5V114.5H173V105.5H155Z" fill="white"/>
+<path d="M83 123.5V132.5H101V123.5H83Z" fill="white"/>
+<path d="M83 141.5V150.5H101V141.5H83Z" fill="white"/>
+<path d="M83 105.5V114.5H101V105.5H83Z" fill="white"/>
+<path d="M96.5 96.5V159.5H159.5V96.5H96.5ZM150.5 150.5H105.5V105.5H150.5V150.5Z" fill="white"/>
+<path d="M114.5 141.5H141.5L128 128L114.5 141.5Z" fill="white"/>
+<path d="M128 128L141.5 141.5V114.5L128 128Z" fill="white"/>
+</svg>

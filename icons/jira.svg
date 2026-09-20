@@ -1,0 +1,23 @@
+<svg width="256" height="256" title="Jira" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="jira">
+<style>
+#jira {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M193.315 58H116.211C116.211 76.5655 131.81 91.677 150.975 91.677H165.236V104.846C165.236 123.411 180.836 138.523 200 138.523V64.4764C200 60.8064 197.103 58 193.315 58Z" fill="#2684FF"/>
+<path d="M155.209 95.1305H78.1057C78.1057 113.696 93.7047 128.807 112.869 128.807H127.131V142.192C127.131 160.757 142.73 175.869 161.895 175.869V101.607C161.895 98.1528 158.997 95.1305 155.209 95.1305Z" fill="url(#linearGradient1)"/>
+<path d="M117.104 132.478H40C40 151.043 55.599 166.154 74.7634 166.154H89.0254V179.323C89.0254 197.889 104.624 213 123.789 213V138.954C123.789 135.284 120.669 132.478 117.104 132.478Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="196.867" y1="58.3577" x2="135.972" y2="122.837" gradientUnits="userSpaceOnUse">
+<stop offset="0.176" stop-color="#0052CC"/>
+<stop offset="1" stop-color="#2684FF"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="124.291" y1="132.726" x2="87.5598" y2="169.618" gradientUnits="userSpaceOnUse">
+<stop offset="0.176" stop-color="#0052CC"/>
+<stop offset="1" stop-color="#2684FF"/>
+</linearGradient>
+</svg>

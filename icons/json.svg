@@ -1,0 +1,22 @@
+<svg width="256" height="256" title="JSON" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="json">
+<style>
+#json {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.865 167.1C163.263 215.355 197.905 153.631 197.854 116.513C197.794 72.6271 153.313 48.0991 127.836 48.0991C86.944 48.0991 48 81.8951 48 128.135C48 179.531 92.64 208 127.836 208C119.871 206.853 93.33 201.166 92.973 140.033C92.7331 98.6861 106.461 82.1671 127.778 89.4341C128.255 89.6112 151.292 98.6986 151.292 128.385C151.292 157.945 127.865 167.1 127.865 167.1Z" fill="url(#linearGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.823 89.4011C104.433 81.3392 75.78 100.617 75.78 139.23C75.78 202.278 122.501 208 128.164 208C169.056 208 208 174.204 208 127.964C208 76.5681 163.36 48.0991 128.164 48.0991C137.912 46.7491 180.705 58.6491 180.705 117.136C180.705 155.277 148.752 176.041 127.97 167.169C127.493 166.992 104.456 157.905 104.456 128.218C104.456 98.6581 127.823 89.4011 127.823 89.4011Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="73.2648" y1="71.5787" x2="185.799" y2="191.695" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="184.382" y1="184.386" x2="71.6785" y2="71.6574" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="VueFire" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vuefire">
+<style>
+#vuefire {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M151 113.6L128.5 148.475L151 183.35L196 113.6H151Z" fill="#34495F"/>
+<path d="M106.225 113.6H61L128.5 218L151 183.35L106.225 113.6Z" fill="#3AB982"/>
+<path d="M146.275 65.45L128.5 38L92.95 93.1248L106.225 113.6H115.45L146.275 65.45Z" fill="#FFE183"/>
+<path d="M151 113.6L164.05 93.1248L146.275 65.45L115.45 113.6H151Z" fill="#FFCC00"/>
+<path d="M106.225 113.6L128.5 148.475L151 113.6H106.225Z" fill="#F78200"/>
+</svg>

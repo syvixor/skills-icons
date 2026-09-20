@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="Elasticsearch" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="elasticsearch">
+<style>
+#elasticsearch {
+    rect {fill: #15191C}
+    path.shape {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.shape {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M51 128.079C51 135.611 52.0558 142.877 53.8518 149.849H159.849C171.871 149.849 181.619 140.101 181.619 128.079C181.619 116.051 171.871 106.309 159.849 106.309H53.8518C52.0558 113.275 51 120.546 51 128.079Z" class="shape" fill="#F4F2ED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197.532 82.6946C200.574 79.8918 203.404 76.8821 206 73.6547C190.037 53.7626 165.563 41 138.078 41C103.676 41 74.0695 61.0119 59.9463 89.9821H178.956C185.847 89.9821 192.47 87.3643 197.532 82.6946Z" fill="#FEC514"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M178.956 166.176H59.9458C74.0744 195.141 103.676 215.158 138.078 215.158C165.562 215.158 190.037 202.39 206 182.503C203.403 179.27 200.573 176.261 197.531 173.458C192.47 168.783 185.846 166.176 178.956 166.176Z" fill="#00BFB3"/>
+</svg>

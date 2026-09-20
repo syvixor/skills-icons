@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="YAML" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="yaml">
+<style>
+#yaml {
+    rect {fill: #15191C}
+    path.y {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.y {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M121.291 50L90.8052 95.7121V124.69H72.1198V95.7121L43 50H64.001L82.5177 79.4332L101.186 50H121.291Z" class="y" fill="#F4F2ED"/>
+<path d="M152.668 108.255H118.847L111.968 124.865H96.9916L128.661 50.1747H143.98L174.364 124.865H158.36L152.668 108.255H152.668ZM147.05 93.3434L136.682 65.9342L125.115 93.3434H147.05Z" fill="#CB171E"/>
+<path d="M72.1195 133.067V206.27H87.8255V155.775L104.263 189.715H116.626L133.624 154.582V206.255H148.692V133.067H128.119L109.865 166.172L92.4796 133.067H72.1195Z" class="y" fill="#F4F2ED"/>
+<path d="M213 190.361H174.364V133.049H158.362V205.937H213V190.362V190.361Z" class="y" fill="#F4F2ED"/>
+</svg>

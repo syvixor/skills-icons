@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="Fresh Editor" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="fresheditor">
+<style>
+#fresheditor {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M123.306 128.149L53 158.861V138.799L101.136 119.628L100.487 120.669V118.192L101.136 119.232L53 100.062V80L123.306 110.712V128.149Z" fill="#009973"/>
+<path d="M203 160V176H135.84V160H203Z" fill="#009973"/>
+</svg>

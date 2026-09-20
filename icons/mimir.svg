@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="Mimir" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="mimir">
+<style>
+#mimir {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M66.2167 187H90.0308L106.716 154.868L95.1678 132.64L66.2167 187ZM195.741 131.733L182.72 156.796L197.969 186.631L211 161.465L195.741 131.733ZM191.784 124.059L163.985 69.964L150.275 94.2142L178.744 149.15L191.784 124.059ZM148.48 157.136L163.985 186.981H190.425L161.681 131.667L148.48 157.136ZM91.2206 125.004L78.256 99.9223L61.703 131.847L74.4222 156.531L91.2206 125.004ZM57.8316 139.445L46 162.873L59.0214 186.584L70.5602 164.196L57.8316 139.445ZM145.875 101.425L132.088 125.836L144.533 149.547L157.753 124.078L145.875 101.425ZM93.8739 69L81.9763 92.2106L128.245 180.942L140.587 157.193L117.207 112.199L93.8739 69Z" fill="url(#linearGradient0)"/>
+<linearGradient id="linearGradient0" x1="128.528" y1="70.8711" x2="128.528" y2="227.392" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2C144"/>
+<stop offset="0.24" stop-color="#F1A03B"/>
+<stop offset="0.57" stop-color="#F17A31"/>
+<stop offset="0.84" stop-color="#F0632A"/>
+<stop offset="1" stop-color="#F05A28"/>
+</linearGradient>
+</svg>

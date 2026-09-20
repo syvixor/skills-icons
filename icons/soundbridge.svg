@@ -1,0 +1,22 @@
+<svg width="256" height="256" title="SoundBridge" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="soundbridge">
+<style>
+#soundbridge {
+    rect {fill: #15191C}
+    path.soundbridge {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.soundbridge {fill: black}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128.5 211C83.0113 211 46 174.008 46 128.5C46 82.9923 83.0113 46 128.5 46C173.989 46 211 83.0267 211 128.5C211 173.973 173.989 211 128.5 211ZM128.5 50.6197C85.5269 50.6197 50.6178 85.5435 50.6178 128.5C50.6178 171.457 85.5614 206.415 128.5 206.415C171.439 206.415 206.382 171.457 206.382 128.5C206.382 85.5435 171.439 50.6197 128.5 50.6197Z" class="soundbridge" fill="white"/>
+<path d="M80.1166 137.981H66.2977V151.806H80.1166V137.981Z" class="soundbridge" fill="white"/>
+<path d="M98.5532 128.776H84.7343V151.806H98.5532V128.776Z" class="soundbridge" fill="white"/>
+<path d="M116.955 110.331H103.136V151.805H116.955V110.331Z" class="soundbridge" fill="white"/>
+<path d="M153.829 110.331H140.01V151.805H153.829V110.331Z" class="soundbridge" fill="white"/>
+<path d="M172.266 128.776H158.447V151.806H172.266V128.776Z" class="soundbridge" fill="white"/>
+<path d="M190.668 137.981H176.849V151.806H190.668V137.981Z" class="soundbridge" fill="white"/>
+<path d="M135.392 86.7846H121.573V151.805H135.392V86.7846Z" class="soundbridge" fill="white"/>
+</svg>

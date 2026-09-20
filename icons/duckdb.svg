@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="DuckDB" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="duckdb">
+<style>
+#duckdb {
+    rect {fill: #15191C}
+    path.circle {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.circle {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 213C80.9755 213 43 175.025 43 128C43 80.9755 80.9755 43 128 43C175.025 43 213 80.9755 213 128C213 175.025 175.025 213 128 213Z" class="circle" fill="#F4F2ED"/>
+<path d="M173.449 115.392H156.774V140.557H173.449C180.362 140.557 186.107 134.812 186.107 127.898C186.107 120.934 180.362 115.392 173.449 115.392Z" fill="#FFF100"/>
+<path d="M75.0783 128C75.0783 147.42 90.8887 163.23 110.309 163.23C129.728 163.23 145.539 147.42 145.539 128C145.539 108.58 129.728 92.7697 110.309 92.7697C90.8887 92.7697 75.0783 108.58 75.0783 128Z" fill="#FFF100"/>
+</svg>

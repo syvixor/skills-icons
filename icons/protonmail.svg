@@ -1,0 +1,27 @@
+<svg width="256" height="256" title="ProtonMail" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="protonmail">
+<style>
+#protonmail {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M148.25 109.576L148.259 109.583L106.571 155.857L53 96.8903V71.4549C53 68.534 56.4043 66.936 58.6513 68.8021L118.086 118.16C123.834 122.933 132.166 122.933 137.914 118.16L148.25 109.576Z" fill="url(#linearGradient1)"/>
+<path d="M170.857 90.8026L148.25 109.576L148.259 109.583L118.327 136.023C113.227 140.527 105.606 140.641 100.375 136.291L53 96.8903V172.483C53 181.053 59.9473 188 68.5172 188H170.857L181.571 139.401L170.857 90.8026Z" fill="url(#radialGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M170.857 90.8213L170.857 188L187.482 188C196.052 188 203 181.052 203 172.483V71.4549C203 68.5341 199.595 66.9358 197.349 68.8022L170.857 90.8213Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="141.634" y1="189.114" x2="80.8812" y2="-54.1925" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E3D9FF"/>
+<stop offset="1" stop-color="#7341FF"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="251.51" y1="265.796" x2="135.793" y2="16.171" gradientUnits="userSpaceOnUse">
+<stop offset="0.271" stop-color="#E3D9FF"/>
+<stop offset="1" stop-color="#7341FF"/>
+</linearGradient>
+<radialGradient id="radialGradient1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(202.347 82.6889) scale(174.926 174.482)">
+<stop offset="0.5561" stop-color="#6D4AFF"/>
+<stop offset="0.9944" stop-color="#AA8EFF"/>
+</radialGradient>
+</svg>

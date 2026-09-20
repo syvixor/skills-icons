@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Bulma" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="bulma">
+<style>
+#bulma {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M68 161L78.9092 84.6359L122.545 41L177.091 95.5456L144.364 128.273L188 171.909L122.546 215.546L68 161Z" fill="#00D1B2"/>
+</svg>

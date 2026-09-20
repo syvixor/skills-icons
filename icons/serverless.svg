@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Serverless" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="serverless">
+<style>
+#serverless {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M46 165.645H75.2014L66.1536 192.643H46V165.645ZM46 114.331H92.4085L83.3607 141.321H46V114.331ZM46 63H109.607L100.559 89.9983H46V63ZM138.391 63H211V89.9983H129.343L138.391 63ZM112.145 141.321L121.193 114.322H211V141.321H112.145ZM103.995 165.645H211V192.643H94.9379L103.986 165.645H103.995Z" fill="#FD5750"/>
+</svg>

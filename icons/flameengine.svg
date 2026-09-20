@@ -1,0 +1,31 @@
+<svg width="256" height="256" title="Flame Engine" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="flameengine">
+<style>
+#flameengine {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128.5 227.999C168.541 227.999 201 195.511 201 155.434C201 115.357 168.541 82.8678 128.5 82.8678C88.4593 82.8678 56 115.357 56 155.434C56 195.511 88.4593 227.999 128.5 227.999Z" fill="#C4C4C4" fill-opacity="0.39"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M103.79 134.552C144.548 93.4221 107.798 29.0001 107.798 29.0001C110.005 28.9377 176.834 73.9319 159.331 159.599C153.895 166.873 146.812 174.359 136.111 181.232C125.406 172.676 115.256 161.795 108.757 148.266C106.669 143.918 105.071 139.303 103.79 134.552Z" fill="url(#linearGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.196 227.988C116.78 215.213 111.941 195.288 124.136 188.572C194.743 149.689 166.958 96.8019 166.958 96.8019C166.958 96.8019 209.879 152.045 180.592 205.89C167.409 219.521 148.939 228 128.507 228C128.069 228 127.632 227.996 127.196 227.988Z" fill="url(#linearGradient2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81.2284 210.429C70.4556 196.311 65.1407 177.804 66.0727 159.215C68.5534 109.743 104.841 56.6809 104.841 56.6809C104.841 56.6809 91.2752 111.762 108.807 148.261C126.002 184.06 168.42 201.328 180.498 205.986C167.321 219.561 148.891 227.999 128.507 227.999C110.45 227.999 93.9256 221.377 81.2284 210.429Z" fill="url(#linearGradient3)"/>
+<linearGradient id="linearGradient1" x1="87.4321" y1="212.064" x2="139.77" y2="44.7714" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC431"/>
+<stop offset="0.63" stop-color="#FF7F36"/>
+<stop offset="1" stop-color="#F00030"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="158.737" y1="209.013" x2="190.873" y2="104.989" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC531"/>
+<stop offset="0.5" stop-color="#FF8534"/>
+<stop offset="1" stop-color="#FF1332"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="144.051" y1="210.633" x2="75.9181" y2="90.8194" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC531"/>
+<stop offset="0.58" stop-color="#FF8832"/>
+<stop offset="1" stop-color="#FF1837"/>
+</linearGradient>
+</svg>

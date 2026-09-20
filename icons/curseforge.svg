@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="CurseForge" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="curseforge">
+<style>
+#curseforge {
+    rect {fill: #15191C}
+    path.cf {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.cf {fill: black}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M172.808 108.208C172.808 108.208 207.518 102.718 213 86.706H159.828V74H43L57.392 90.7514V107.914C57.392 107.914 93.7059 106.02 107.753 116.705C126.981 134.582 86.1267 158.747 86.1267 158.747L79.1216 182C90.0765 171.537 110.955 158.002 149.235 158.654C134.668 163.272 120.02 170.485 108.617 182H186L178.713 158.747C178.713 158.747 122.627 125.573 172.808 108.21V108.208Z" class="cf" fill="white"/>
+</svg>

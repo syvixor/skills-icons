@@ -1,0 +1,21 @@
+<svg width="256" height="256" title="NetBeans" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="netbeans">
+<style>
+#netbeans {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 36V71.6757L78.991 100.144L48 82.1261L128 36Z" fill="#A1C535"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M208 82.1261L177.009 100.144L128 71.6757V36L208 82.1261Z" fill="#ADD439"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M208 174.378L177.009 156.36V100.144L208 82.1261V174.378Z" fill="#1B6AC6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 220.505V184.829L177.009 156.36L208 174.378L128 220.505Z" fill="#2E90E8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48 174.378L78.991 156.36L128 184.829V220.505L48 174.378Z" fill="#EA205E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48 82.1261L78.991 100.144V156.36L48 174.378V82.1261Z" fill="#A5073E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M78.991 100.144L128 71.6757L177.009 100.144L128 128.252L78.991 100.144Z" fill="#F1F6E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 128.252L177.009 100.144V156.36L128 184.829V128.252Z" fill="#CEDBE6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M78.991 100.144L128 128.252V184.829L78.991 156.36V100.144Z" fill="white"/>
+</svg>

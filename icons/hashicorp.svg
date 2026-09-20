@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="HashiCorp" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="hashicorp">
+<style>
+#hashicorp {
+    rect {fill: #15191C}
+    path {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {fill: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M143.909 167.633L168.455 153.967V60.5778L143.909 46V115.7H112.545V88.3667L87.5455 102.033V195.422L112.545 210V140.3H143.909V167.633Z" fill="white"/>
+<path d="M180.273 66.9556V161.711L143.909 181.756V210L203 175.833V80.1667L180.273 66.9556ZM112.545 46L53 80.1667V175.833L76.1818 189.044V94.2889L112.545 74.2444V46Z" fill="white"/>
+</svg>

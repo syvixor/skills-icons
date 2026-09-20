@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="Medusa" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="medusa">
+<style>
+#medusa {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M183.972 73.3012L147.439 52.1917C135.481 45.2694 120.837 45.2694 108.892 52.1917L72.1881 73.3012C60.4013 80.2234 53 93.0526 53 106.739V149.116C53 162.961 60.4013 175.618 72.1881 182.541L108.721 203.808C120.679 210.731 135.323 210.731 147.268 203.808L183.801 182.541C195.759 175.618 202.989 162.961 202.989 149.116V106.739C203.331 93.0526 195.917 80.2234 183.972 73.3012ZM128.08 165.65C107.377 165.65 90.5465 148.773 90.5465 128.007C90.5465 107.24 107.377 90.3628 128.08 90.3628C148.783 90.3628 165.784 107.24 165.784 128.007C165.784 148.773 148.954 165.65 128.08 165.65Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="-47.1644" y1="179.265" x2="218.418" y2="112.709" gradientUnits="userSpaceOnUse">
+<stop offset="0.2656" stop-color="#592EE1"/>
+<stop offset="1" stop-color="#B836D9"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="IFTTT" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="ifttt">
+<style>
+#ifttt {
+    rect {fill: #15191C}
+    path.ifttt {fill: white}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.ifttt {fill: black}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M46 106H59.9157V150H46V106ZM125.518 106H101.663V120H111.602V150H125.518V120H135.458V106H125.518ZM163.289 106H139.434V120H149.373V150H163.289V120H173.229V106H163.289ZM201.06 106H177.205V120H187.145V150H201.06V120H211V106H201.06ZM97.6867 120V106H65.8795V150H79.7952V138H91.7229V124H79.7952V120H97.6867Z" class="ifttt" fill="white"/>
+</svg>

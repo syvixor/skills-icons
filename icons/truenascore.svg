@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="TrueNAS Core" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="truenascore">
+<style>
+#truenascore {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M135.47 159.29V195.478L213 150.723V114.535L177.966 134.747C177.927 134.778 177.884 134.803 177.839 134.823L135.47 159.29Z" fill="#31BEEC"/>
+<path d="M120.53 159.29V195.478L43 150.723V114.535L78.0342 134.747C78.073 134.778 78.1156 134.803 78.1609 134.823L120.53 159.29Z" fill="#0095D5"/>
+<path d="M158.838 128.182L127.498 146.29L96.1296 128.182L127.498 110.074L158.838 128.182Z" fill="#AEADAE"/>
+<path d="M120.451 61V97.2224L81.6685 119.586L50.3002 101.506L120.451 61Z" fill="#31BEEC"/>
+<path d="M205.361 101.69L173.992 119.798L135.267 97.4157V61.2028L205.361 101.69Z" fill="#0095D5"/>
+</svg>

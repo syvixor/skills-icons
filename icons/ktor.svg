@@ -1,0 +1,19 @@
+<svg width="256" height="256" title="Ktor" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="ktor">
+<style>
+#ktor {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M208 154.66L154.653 208L48 101.32L101.34 48L208 154.66Z" fill="url(#linearGradient)"/>
+<path d="M154.7 101.32H101.36V154.66H154.7V101.32Z" fill="black"/>
+<linearGradient id="linearGradient" x1="51.3333" y1="104.667" x2="151.333" y2="204.667" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6B57FF"/>
+<stop offset="0.499" stop-color="#FF45ED"/>
+<stop offset="1" stop-color="#DD1265"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Passport.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="passportjs">
+<style>
+#passportjs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.5 44C91.2063 44 61 74.2063 61 111.5H94.75C94.75 92.87 109.87 77.75 128.5 77.75V44Z" fill="#D6FF00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M196 111.5C196 74.2063 165.794 44 128.5 44V77.75C147.13 77.75 162.25 92.87 162.25 111.5H196Z" fill="#34E27A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.5 179C165.794 179 196 148.794 196 111.5H162.25C162.25 130.13 147.13 145.25 128.5 145.25V179Z" fill="#00B9F1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94.75 179V111.5H61V212.75H128.5V179H94.75Z" fill="white"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Vuetify" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vuetify">
+<style>
+#vuetify {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M97.7929 145.245L128 197.597L208 59H147.567L97.7929 145.245Z" fill="#1697F6"/>
+<path d="M88.009 128.298L90.1045 131.943L132.209 59H48L88.009 128.298Z" fill="#AEDDFF"/>
+<path d="M147.567 59C162.689 108.764 128 197.597 128 197.597L97.7929 145.245L147.567 59Z" fill="#1867C0"/>
+<path d="M132.209 59C68.4967 59 90.1045 131.943 90.1045 131.943L132.209 59Z" fill="#7BC6FF"/>
+</svg>

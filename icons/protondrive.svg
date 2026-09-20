@@ -1,0 +1,23 @@
+<svg width="256" height="256" title="Proton Drive" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="protondrive">
+<style>
+#protondrive {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M53 83.0435L74.4286 72.3479L111.929 93.7392H176.214V184.652L170.857 190H69.0714C60.1954 190 53 182.817 53 173.957V83.0435Z" fill="url(#radialGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M111.72 74.6271C114.467 76.6214 117.776 77.6957 121.172 77.6957H186.929C195.805 77.6957 203 84.8786 203 93.7391V173.957C203 182.817 195.805 190 186.929 190H170.857V112.457C170.857 105.073 164.861 99.0871 157.464 99.0871H101.214C97.7371 99.0871 94.3533 97.9611 91.5714 95.8783L78.7143 86.2522C75.9324 84.1694 72.5488 83.0435 69.0714 83.0435L53 83.0435C53 74.183 60.1954 67 69.0714 67H95.9879C99.3846 67 102.694 68.0743 105.441 70.0685L111.72 74.6271Z" fill="url(#linearGradient1)"/>
+<radialGradient id="radialGradient1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(215.563 -17.4989) scale(279.898 254.677)">
+<stop offset="0.5561" stop-color="#6D4AFF"/>
+<stop offset="1" stop-color="#FF50C3"/>
+</radialGradient>
+<linearGradient id="linearGradient1" x1="51.0226" y1="2.8094" x2="236.634" y2="208.672" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7341FF"/>
+<stop offset="0.3593" stop-color="#B487FF"/>
+<stop offset="1" stop-color="#FFC8FF"/>
+</linearGradient>
+</svg>

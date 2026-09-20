@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="CMake" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="cmake">
+<style>
+#cmake {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M127.102 52L56.3994 191.807L133.493 126.298L127.102 52Z" fill="#064F8C"/>
+<path d="M196.207 196.201L101.138 157.854L56 196.201H196.207Z" fill="#249847"/>
+<path d="M201 195.003L130.298 54.3967L140.683 170.636L201 195.003Z" fill="#BE2128"/>
+<path d="M137.488 169.438L133.893 129.893L103.534 155.857L137.488 169.438Z" fill="#CDCDCE"/>
+</svg>

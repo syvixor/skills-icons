@@ -1,0 +1,27 @@
+<svg width="256" height="256" title="VLite.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vlitejs">
+<style>
+#vlitejs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M154.009 201H56V102.901C56 77.034 77.034 56 102.901 56H201V154.009C201 179.966 179.966 201 154.009 201Z" fill="url(#linearGradient1)"/>
+<path d="M139.241 165.466L167.256 91.534H160.722C151.951 91.534 143.985 96.9938 140.852 105.228L125.546 145.596C121.877 155.173 128.948 165.466 139.241 165.466Z" fill="url(#linearGradient2)"/>
+<path d="M139.062 165.466H134.318C124.383 165.466 115.522 159.38 112.031 150.071L89.8333 91.534H96.3673C105.139 91.534 113.105 96.9938 116.238 105.228L139.062 165.466Z" fill="url(#linearGradient3)"/>
+<linearGradient id="linearGradient1" x1="68.0771" y1="180.562" x2="177.867" y2="85.9022" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E94900"/>
+<stop offset="0.996" stop-color="#FFB100"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="127.367" y1="113.187" x2="109.306" y2="198.446" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E9ED80"/>
+<stop offset="1" stop-color="#FF9800"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="109.593" y1="114.324" x2="125.551" y2="160.856" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E9ED80"/>
+<stop offset="1" stop-color="#FFCD00"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="Pandas" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="pandas">
+<style>
+#pandas {
+    rect {fill: #15191C}
+    path.pan {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.pan {fill: #130754}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M103.713 51.3435H122.836V91.0505H103.713V51.3435ZM103.713 132.909H122.836V172.616H103.713V132.909ZM73 83.9934H92.1232V215.982H73V83.9934ZM133.799 165.67H152.922V205.377H133.799V165.67ZM133.799 84.0411H152.922V123.748H133.799V84.0411ZM163.877 41H183V172.989H163.877V41Z" class="pan" fill="#F4F2ED"/>
+<path d="M122.836 102.64H103.713V121.375H122.836V102.64Z" fill="#FFCA00"/>
+<path d="M152.922 135.338H133.799V154.072H152.922V135.338Z" fill="#E70488"/>
+</svg>

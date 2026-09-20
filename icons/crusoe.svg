@@ -1,0 +1,19 @@
+<svg width="256" height="256" title="Crusoe" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="crusoe">
+<style>
+#crusoe {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128.5 46L77.6186 91.2581C55.4605 110.983 55.4605 146.017 77.6186 165.742L128.5 211L179.381 165.742C201.54 146.017 201.54 110.983 179.381 91.2581L128.5 46Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="175.965" y1="84.4656" x2="79.2828" y2="171.611" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4BF45"/>
+<stop offset="0.35" stop-color="#E48047"/>
+<stop offset="0.69" stop-color="#C73361"/>
+<stop offset="1" stop-color="#A42F5F"/>
+</linearGradient>
+</svg>

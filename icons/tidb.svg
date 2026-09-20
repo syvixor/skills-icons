@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="TiDB" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="tidb">
+<style>
+#tidb {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128.007 42L53 85.2537V171.761L128.007 215L203 171.761V85.2537L128.007 42Z" fill="#DC150B"/>
+<path d="M102.995 171.761V114.089L77.9975 128.507V99.6716L128.007 70.8358L153.005 85.2537L128.007 99.6716V186.164L102.995 171.761Z" fill="white"/>
+<path d="M153.005 171.761V114.089L178.003 99.6716V157.343L153.005 171.761Z" fill="white"/>
+</svg>

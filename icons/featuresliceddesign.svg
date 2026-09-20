@@ -1,0 +1,24 @@
+<svg width="256" height="256" title="Feature-Sliced Design" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="fsd">
+<style>
+#fsd {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M193 68.4242V53H63V68.4235L193 68.4242Z" fill="url(#linearGradient)"/>
+<path d="M124.905 106.895V91.4705H63V106.894L124.905 106.895Z" fill="url(#linearGradient)"/>
+<path d="M124.905 164.938V149.514H63V164.938L124.905 164.938Z" fill="url(#linearGradient)"/>
+<path d="M124.905 184.802V169.378H63V184.802L124.905 184.802Z" fill="url(#linearGradient)"/>
+<path d="M124.905 204V188.576H63V203.999L124.905 204Z" fill="url(#linearGradient)"/>
+<path d="M193 87.9353V72.5111H63V87.9346L193 87.9353Z" fill="url(#linearGradient)"/>
+<path d="M193 125.916V110.492H63V125.915L193 125.916Z" fill="url(#linearGradient)"/>
+<path d="M193 145.427V130.003H63V145.427L193 145.427Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="63" y1="123.293" x2="193" y2="123.293" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2ABCDD"/>
+<stop offset="1" stop-color="#4889EA"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="256" height="256" title="Neovim" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="neovim">
+<style>
+#neovim {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M58 79.5169L94.1688 43V212.789L58 176.695V79.5169Z" fill="url(#linearGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197.752 79.8618L161.089 43.0192L161.831 212.788L198 176.694L197.752 79.8618Z" fill="url(#linearGradient2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94.1448 43.0288L188.179 186.521L161.865 212.834L67.7814 69.6594L94.1448 43.0288Z" fill="url(#linearGradient3)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94.1768 109.585L94.1263 115.237L65.0934 72.3731L67.7822 69.6346L94.1768 109.585Z" fill="black" fill-opacity="0.13"/>
+<linearGradient id="linearGradient1" x1="7058" y1="43" x2="7058" y2="17026.4" gradientUnits="userSpaceOnUse">
+<stop stop-color="#16B0ED" stop-opacity="0.8"/>
+<stop offset="1" stop-color="#0F59B2" stop-opacity="0.837"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="7058" y1="43" x2="7058" y2="17026.4" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7DB643"/>
+<stop offset="1" stop-color="#367533"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="7058" y1="43" x2="7058" y2="17026.4" gradientUnits="userSpaceOnUse">
+<stop stop-color="#88C649" stop-opacity="0.8"/>
+<stop offset="1" stop-color="#439240" stop-opacity="0.84"/>
+</linearGradient>
+</svg>

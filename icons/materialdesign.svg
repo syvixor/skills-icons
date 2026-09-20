@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Material Design" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="materialdesign">
+<style>
+#materialdesign {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 213C174.944 213 213 174.944 213 128C213 81.0558 174.944 43 128 43C81.0558 43 43 81.0558 43 128C43 174.944 81.0558 213 128 213Z" fill="#757575"/>
+<path d="M68.499 68.4991H187.501V187.492H68.499V68.4991Z" fill="#BDBDBD"/>
+<path d="M187.501 68.4991L128 187.492L68.499 68.4991H187.501Z" fill="white"/>
+</svg>

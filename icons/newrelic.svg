@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="New Relic" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="newrelic">
+<style>
+#newrelic {
+    rect {fill: #15191C}
+    path.nrelic {fill: #FFFFFF}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.nrelic {fill: #1D252C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M178.384 98.7664V157.234L127.963 186.467V223L209.915 175.5V80.5L178.384 98.7664Z" fill="#00AC69"/>
+<path d="M127.963 69.545L178.384 98.7664L209.915 80.5L127.963 33L46 80.5L77.531 98.7664L127.963 69.545Z" fill="#1CE783"/>
+<path d="M96.4324 146.279V204.734L127.963 223V128L46 80.5V117.045L96.4324 146.279Z" class="nrelic" fill="#FFFFFF"/>
+</svg>

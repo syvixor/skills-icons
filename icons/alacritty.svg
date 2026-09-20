@@ -1,0 +1,19 @@
+<svg width="256" height="256" title="Alacritty" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="alacritty">
+<style>
+#alacritty {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M112 152.766C122.268 184.384 122.268 184.384 128 211.965C133.732 184.384 133.732 184.384 144 152.766L128 114L112 152.766Z" fill="#069EFE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M117.506 139.545C124.253 160.322 124.253 160.322 128.019 178.445C131.786 160.322 131.786 160.322 138.533 139.545L128.019 114.073L117.506 139.545Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M114.184 42H141.816L203 193.85H177.342L128 77.8716L78.6579 193.85H53L114.184 42Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="128.247" y1="42" x2="128.019" y2="206.188" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EC2802"/>
+<stop offset="1" stop-color="#FCB200"/>
+</linearGradient>
+</svg>

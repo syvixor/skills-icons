@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="Spring Shell" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="springshell">
+<style>
+#springshell {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M73.4419 184C55.5349 184 41 169.113 41 150.97C41 137.13 49.3721 125.383 61.2326 120.498C64.6046 104.1 78.907 91.7715 96.1163 91.7715C101.698 91.7715 107.047 93.0509 111.698 95.3769C119.488 81.4206 134.256 72 151.233 72C176.349 72 196.581 92.702 196.581 118.172C196.581 119.103 196.581 120.033 196.465 120.847C207.977 125.965 216 137.595 216 151.086C216 169.229 201.581 184 183.558 184H73.4419Z" fill="#6DB33F"/>
+<path d="M165.535 161.437H136.698V169.113H165.535V161.437Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M129.023 136.432L99.4884 153.412L95.7674 147.016L118.558 133.873L95.6512 119.335L99.6047 113.171L129.14 131.896L129.023 136.432Z" fill="white"/>
+</svg>

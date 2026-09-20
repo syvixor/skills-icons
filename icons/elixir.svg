@@ -1,0 +1,49 @@
+<svg width="256" height="256" title="Elixir" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="elixir">
+<style>
+#elixir {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M133.332 40.4144C95.0722 58.9226 47.0061 154.917 87.0612 197.044C124.078 243.314 205.017 198.839 181.536 141.105C151.84 91.3811 133.194 88.7568 133.332 40.4144Z" fill="url(#linearGradient1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M133.332 40C95.2103 58.5082 47.006 154.226 87.1993 196.491C101.978 213.618 125.873 219.281 139.271 209.06C175.735 183.093 149.492 135.718 153.636 100.635C138.442 86.5468 133.055 55.3314 133.332 40Z" fill="url(#linearGradient2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M122.696 45.663C91.8954 67.6242 83.7463 149.254 89.4093 175.773C100.735 242.209 193.276 214.861 185.542 152.983C177.254 112.652 118.138 98.8396 122.696 45.663Z" fill="url(#linearGradient3)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M153.221 108.508C167.586 127.016 170.763 139.723 162.613 147.044C124.354 173.839 77.9452 157.265 88.028 95.5247C74.9065 126.74 50.5972 173.425 104.188 180.055C132.917 185.027 178.774 182.817 185.542 157.817C185.265 135.856 170.624 126.188 153.221 108.508Z" fill="url(#linearGradient4)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M97.0059 89.9998C93.0004 119.282 145.486 197.596 177.53 188.066C153.083 237.237 98.9396 158.784 89.133 130.469C91.2048 115.276 92.1716 107.817 97.0059 89.9998Z" fill="url(#linearGradient5)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.807 108.37C128.912 119.282 133.194 136.685 127.807 148.149C122.42 159.613 97.8346 180.607 104.603 198.977C120.348 233.231 155.846 192.9 155.569 172.734C157.089 156.436 146.453 119.282 153.083 100.221L150.044 96.3534L131.26 90.8286C128.221 95.2484 127.116 101.188 127.807 108.37Z" fill="url(#linearGradient6)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M134.575 54.6408C94.1054 77.5689 110.68 113.48 112.475 152.431L138.857 75.9115C136.923 68.0386 135.68 62.79 134.575 54.6408Z" fill="url(#linearGradient7)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M138.718 75.7734C118.277 91.9335 119.243 119.005 113.028 150.359C124.216 120.939 118.691 97.5965 138.718 75.7734Z" fill="#330A4C" fill-opacity="0.316"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M107.641 205.055C118.691 206.574 124.354 208.093 124.906 209.198C125.321 214.999 109.575 210.856 107.641 205.055Z" fill="white"/>
+<linearGradient id="linearGradient1" x1="130.165" y1="52.9985" x2="124.08" y2="216.225" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D9D8DC"/>
+<stop offset="1" stop-color="white" stop-opacity="0.385"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="145.111" y1="50.9205" x2="91.7826" y2="203.724" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8D67AF" stop-opacity="0.672"/>
+<stop offset="1" stop-color="#9F8DAF"/>
+</linearGradient>
+<linearGradient id="linearGradient3" x1="128.5" y1="95.4451" x2="128.5" y2="213.137" gradientUnits="userSpaceOnUse">
+<stop stop-color="#26053D" stop-opacity="0.762"/>
+<stop offset="1" stop-color="#B7B4B4" stop-opacity="0.278"/>
+</linearGradient>
+<linearGradient id="linearGradient4" x1="95.1778" y1="52.9225" x2="180.803" y2="164.883" gradientUnits="userSpaceOnUse">
+<stop stop-color="#91739F" stop-opacity="0.46"/>
+<stop offset="1" stop-color="#32054F" stop-opacity="0.54"/>
+</linearGradient>
+<linearGradient id="linearGradient5" x1="162.837" y1="210.3" x2="46.1031" y2="129.032" gradientUnits="userSpaceOnUse">
+<stop stop-color="#463D49" stop-opacity="0.331"/>
+<stop offset="1" stop-color="#340A50" stop-opacity="0.821"/>
+</linearGradient>
+<linearGradient id="linearGradient6" x1="151.488" y1="49.7325" x2="87.3653" y2="197.577" gradientUnits="userSpaceOnUse">
+<stop stop-color="#715383" stop-opacity="0.145"/>
+<stop offset="1" stop-color="#F4F4F4" stop-opacity="0.234"/>
+</linearGradient>
+<linearGradient id="linearGradient7" x1="223.242" y1="154.763" x2="82.8055" y2="137.266" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A5A1A8" stop-opacity="0.356"/>
+<stop offset="1" stop-color="#370C50" stop-opacity="0.582"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="HashiCorp Nomad" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="nomad">
+<style>
+#nomad {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 43L53 85.75V171.25L128 214L203 171.25V85.75L128 43ZM161.418 137.018L141.436 148.411L117.296 135.447V162.689L94.6036 176.904V119.939L112.604 109.059L137.589 122.055V94.2359L161.482 80.107L161.418 137.018Z" fill="#06D092"/>
+</svg>

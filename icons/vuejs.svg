@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="Vue.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vuejs">
+<style>
+#vuejs {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M148.701 63.0007L128.494 98L108.288 63.0007H40.9967L128.495 214.553L215.993 63.0007H148.701Z" fill="#41B883"/>
+<path d="M148.701 63.0007L128.494 98L108.288 63.0007H75.996L128.495 153.93L180.993 63.0007H148.701Z" fill="#34495E"/>
+</svg>

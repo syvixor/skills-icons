@@ -1,0 +1,23 @@
+<svg width="256" height="256" title="ProtonVPN" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="protonvpn">
+<style>
+#protonvpn {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M112.269 192.426C118.349 203.365 133.965 203.957 140.869 193.511L205.242 96.1065C212.069 85.7768 205.537 71.9279 193.175 70.5204L66.6473 56.1144C53.1575 54.5785 43.5527 68.8119 50.114 80.6152L50.6286 81.536L107.086 120.247L106.4 181.83L112.269 192.426Z" fill="url(#linearGradient)"/>
+<path d="M115.894 182.223L121.607 173.696L165.002 108.102C168.796 102.367 165.175 94.6731 158.31 93.8846L50.6134 81.512L106.403 181.874C108.439 185.467 113.588 185.664 115.894 182.223Z" fill="url(#radialGradient)"/>
+<linearGradient id="linearGradient" x1="192.686" y1="192.418" x2="89.633" y2="14.8179" gradientUnits="userSpaceOnUse">
+<stop offset="0.0660125" stop-color="#8EFFEE"/>
+<stop offset="0.4499" stop-color="#C9C7FF"/>
+<stop offset="1" stop-color="#7341FF"/>
+</linearGradient>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(116.042 35.567) rotate(93.7528) scale(163.465 210.668)">
+<stop offset="0.403126" stop-color="#6D4AFF"/>
+<stop offset="0.9944" stop-color="#00F0C3"/>
+</radialGradient>
+</svg>

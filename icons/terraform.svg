@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="HashiCorp Terraform" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="terraform">
+<style>
+#terraform {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M104.9 73L151.4 100V154L104.9 127V73Z" fill="#7B42BC"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M156.5 100V154L203 127V73L156.5 100Z" fill="#7B42BC"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M53 43V97L99.5 124V70L53 43Z" fill="#7B42BC"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M104.9 187L151.4 214V160L104.9 133V187Z" fill="#7B42BC"/>
+</svg>

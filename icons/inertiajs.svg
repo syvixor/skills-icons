@@ -1,0 +1,9 @@
+<svg width="256" height="256" title="Inertia.js" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="40" fill="url(#linearGradient)"/>
+<path d="M94.0097 84H48L92.4588 128.459L48 172.918H94.0097L138.469 128.459L94.0097 84Z" fill="white"/>
+<path d="M163.541 84H117.532L161.99 128.459L117.532 172.918H163.541L208 128.459L163.541 84Z" fill="white"/>
+<linearGradient id="linearGradient" x1="0" y1="128" x2="256" y2="128" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9354E9"/>
+<stop offset="1" stop-color="#6E72EF"/>
+</linearGradient>
+</svg>

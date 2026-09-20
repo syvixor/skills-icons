@@ -1,0 +1,26 @@
+<svg width="256" height="256" title="Flutter" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="flutter">
+<style>
+#flutter {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M181.997 122.29H132.474L89.1476 165.627L113.904 190.383L181.997 122.29Z" fill="#54C5F8"/>
+<path d="M76.7668 153.243L52 128.477L132.477 48H182L76.7668 153.243Z" fill="#54C5F8"/>
+<path d="M113.904 190.383L132.476 208.953H182L138.663 165.627L113.904 190.383Z" fill="#01579B"/>
+<path d="M113.904 190.383L150.633 177.67L138.663 165.627L113.904 190.383Z" fill="url(#linearGradient)"/>
+<path d="M113.903 140.857L89.1458 165.614L113.903 190.372L138.66 165.614L113.903 140.857Z" fill="#29B6F6"/>
+<path d="M181.997 122.29L138.673 165.616L182 208.953H132.476L113.904 190.383L89.1398 165.616L132.474 122.29H181.997ZM132.477 48L52 128.477L76.7668 153.243L182 48H132.477Z" fill="url(#radialGradient)"/>
+<linearGradient id="linearGradient" x1="77.5538" y1="240.036" x2="178.266" y2="185.205" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A237E" stop-opacity="0.4"/>
+<stop offset="1" stop-color="#1A237E" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(55.658 58.9741) scale(196.917 196.917)">
+<stop stop-color="white" stop-opacity="0.1"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</svg>

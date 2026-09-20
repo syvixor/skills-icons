@@ -1,0 +1,26 @@
+<svg width="256" height="256" title="Opera" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="opera">
+<style>
+#opera {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M103.31 170.27C95.015 160.475 89.645 146.015 89.285 129.77V126.23C89.645 109.985 95.015 95.525 103.31 85.73C114.08 71.765 130.07 62.9 147.92 62.9C158.9 62.9 169.19 66.26 177.98 72.095C164.78 60.275 147.38 53.075 128.285 53H128C86.585 53 53 86.585 53 128C53 168.23 84.665 201.05 124.43 202.91C125.615 202.97 126.8 203 128 203C147.2 203 164.72 195.785 177.98 183.92C169.19 189.74 158.915 193.1 147.92 193.1C130.07 193.1 114.08 184.235 103.31 170.27Z" fill="url(#linearGradient1)"/>
+<path d="M103.31 85.73C110.195 77.6 119.075 72.71 128.795 72.71C150.635 72.71 168.32 97.46 168.32 128C168.32 158.54 150.62 183.29 128.795 183.29C119.09 183.29 110.195 178.385 103.31 170.27C114.08 184.235 130.07 193.1 147.92 193.1C158.9 193.1 169.19 189.74 177.98 183.92C193.34 170.18 203 150.215 203 128C203 105.785 193.34 85.82 177.98 72.095C169.19 66.26 158.915 62.9 147.92 62.9C130.07 62.9 114.08 71.765 103.31 85.73Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="128.004" y1="55.4456" x2="128.004" y2="200.817" gradientUnits="userSpaceOnUse">
+<stop offset="0.3" stop-color="#FF1B2D"/>
+<stop offset="0.4381" stop-color="#FA1A2C"/>
+<stop offset="0.5939" stop-color="#ED1528"/>
+<stop offset="0.7581" stop-color="#D60E21"/>
+<stop offset="0.9272" stop-color="#B70519"/>
+<stop offset="1" stop-color="#A70014"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="153.156" y1="64.0139" x2="153.156" y2="192.588" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9C0000"/>
+<stop offset="0.7" stop-color="#FF4B4B"/>
+</linearGradient>
+</svg>

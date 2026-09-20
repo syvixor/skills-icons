@@ -1,0 +1,23 @@
+<svg width="256" height="256" title="MyShell AI" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="myshellai">
+<style>
+#myshellai {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M86.2852 76C59.3518 76 50.0384 138.043 48.0118 154.836C47.8384 156.276 49.6184 157.022 50.7051 156.049C103.752 108.401 128.332 180 149.385 180C137.599 180 128.965 147.079 118.119 118.27C109.685 95.8924 99.9185 76 86.2852 76Z" fill="url(#linearGradient1)"/>
+<path d="M205.199 154.37C206.219 155.603 208.226 154.79 207.979 153.21C205.553 137.863 197.566 97.2652 180.792 97.2652C170.479 97.2652 167.852 117.817 165.212 138.436L165.199 138.503C187.739 138.503 196.299 143.561 205.199 154.37Z" fill="url(#linearGradient2)"/>
+<path d="M118.119 118.27C128.965 147.079 137.599 180 149.385 180C159.872 180 162.546 159.221 165.199 138.503L165.212 138.436C167.852 117.817 170.479 97.2652 180.792 97.2652C160.126 97.2652 149.385 172.216 118.119 118.27Z" fill="#DDB1FF"/>
+<linearGradient id="linearGradient1" x1="47.9975" y1="126.401" x2="207.796" y2="133.965" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3239DC"/>
+<stop offset="1" stop-color="#5A38E2"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="48" y1="126.398" x2="207.799" y2="133.935" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3239DC"/>
+<stop offset="1" stop-color="#5A38E2"/>
+</linearGradient>
+</svg>

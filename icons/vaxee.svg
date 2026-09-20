@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="Vaxee" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="vaxee">
+<style>
+#vaxee {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M73.3656 163.987L134.935 197V173.374C135.069 163.992 139.175 143.521 154.641 135.304L192.634 114.945C199.018 111.522 203 104.882 203 97.6595V59L141.429 92.0127C135.045 95.4357 131.064 102.075 131.064 109.298L131.49 147.25C129.743 144.709 127.391 142.568 124.57 141.055L63 108.042V146.702C63 153.925 66.9815 160.564 73.3656 163.987Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="79.5789" y1="128" x2="720.816" y2="128" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9DDE8B"/>
+<stop offset="1" stop-color="#40A578"/>
+</linearGradient>
+</svg>

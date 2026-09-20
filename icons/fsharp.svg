@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="F#" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="fsharp">
+<style>
+#fsharp {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M124.305 207L46 128.5L124.305 50V89.25L85.1525 128.5L124.305 167.75V207Z" fill="#378BBA"/>
+<path d="M124.305 156.536L96.339 128.5L124.305 100.464V156.536Z" fill="#378BBA"/>
+<path d="M129.898 50V89.25L169.051 128.5L129.898 167.75V207L211 128.5L129.898 50Z" fill="#30B9DB"/>
+</svg>

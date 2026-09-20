@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="esbuild" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="esbuild">
+<style>
+#esbuild {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 213C174.944 213 213 174.944 213 128C213 81.0558 174.944 43 128 43C81.0558 43 43 81.0558 43 128C43 174.944 81.0558 213 128 213Z" fill="#FFCF00"/>
+<path d="M89.0096 81.9904L135.02 128L89.0096 174.01L77.7404 162.74L112.48 128L77.7404 93.2596L89.0096 81.9904ZM140.01 81.9904L186.02 128L140.01 174.01L128.74 162.74L163.48 128L128.74 93.2596L140.01 81.9904Z" fill="#191919"/>
+</svg>

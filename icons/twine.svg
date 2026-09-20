@@ -1,0 +1,22 @@
+<svg width="256" height="256" title="Twine" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="twine">
+<style>
+#twine {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M64 48H124V208H64V48Z" fill="url(#linearGradient1)"/>
+<path d="M64 178C64 68 204 68 204 68V128C204 128 124 128 124 178V208H64V178Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="134" y1="48" x2="132.391" y2="161.468" gradientUnits="userSpaceOnUse">
+<stop stop-color="#127AEE"/>
+<stop offset="1" stop-color="#117AEF" stop-opacity="0.251"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="62.125" y1="138" x2="205.875" y2="138" gradientUnits="userSpaceOnUse">
+<stop stop-color="#10F05E" stop-opacity="0.251"/>
+<stop offset="1" stop-color="#10F05E"/>
+</linearGradient>
+</svg>

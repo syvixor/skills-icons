@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="Stride" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="stride">
+<style>
+#stride {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M57.8739 82.6826L131.863 39L202.841 80.7641L128.846 124.443L57.8739 82.6826Z" fill="#FC365B"/>
+<path d="M54.6912 126.266V88.2117L125.747 130.021V168.075L54.6912 126.266Z" fill="#FC365B"/>
+<path d="M131.945 168.075V130.021L167.472 109.116L199.809 128.143L131.945 168.075Z" fill="#FC365B"/>
+<path d="M203 168.075L173.762 150.871L203 133.668V168.075Z" fill="#FC365B"/>
+<path d="M128.664 218L53 173.738L88.7823 153.497L128.845 177.3L167.469 154.574L202.127 174.704L128.664 218Z" fill="#FC365B"/>
+</svg>

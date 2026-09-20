@@ -1,0 +1,16 @@
+<svg width="256" height="256" title="Lucide" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="lucide">
+<style>
+#lucide {
+    rect {fill: #15191C}
+    path.switch {stroke: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.switch {stroke: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M143 127.847C143 111.831 130.016 98.8471 114 98.8471C97.9837 98.8471 85 111.831 85 127.847C85 159.88 110.967 185.847 143 185.847C175.033 185.847 201 159.88 201 127.847C201 102.081 189.799 78.9303 172 63" class="switch" stroke="#F4F2ED" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M114 127.847C114 143.863 126.984 156.847 143 156.847C159.016 156.847 172 143.863 172 127.847C172 95.8146 146.033 69.8471 114 69.8471C81.9675 69.8471 56 95.8146 56 127.847C56 153.832 67.3917 177.156 85.4533 193.097" stroke="#F56565" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

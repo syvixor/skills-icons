@@ -1,0 +1,26 @@
+<svg width="256" height="256" title="Azul" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="azul">
+<style>
+#azul {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 208C172.183 208 208 172.183 208 128C208 83.8172 172.183 48 128 48C83.8172 48 48 83.8172 48 128C48 172.183 83.8172 208 128 208Z" fill="url(#radialGradient)" stroke="url(#linearGradient)" stroke-width="4.46557" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M125.178 79.7166L75.8708 175.622L110.736 175.774L126.617 145.038L144.405 175.79L180.196 175.711L125.178 79.7166Z" fill="black" fill-opacity="0.33333"/>
+<path d="M125.178 70.9021L75.8708 166.807L110.736 166.959L126.617 136.224L144.405 166.976L180.196 166.897L125.178 70.9021Z" fill="white"/>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(91.7308 71.4184) rotate(35.2995) scale(160.938 186.791)">
+<stop stop-color="#0071D3"/>
+<stop offset="1" stop-color="#000741"/>
+</radialGradient>
+<linearGradient id="linearGradient" x1="52.0072" y1="85.2735" x2="197.639" y2="173.465" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BF953F"/>
+<stop offset="0.2598" stop-color="#FCF6BA" stop-opacity="0.89671"/>
+<stop offset="0.49454" stop-color="#B38728"/>
+<stop offset="0.75112" stop-color="#FBF5B7"/>
+<stop offset="1" stop-color="#AA771C"/>
+</linearGradient>
+</svg>

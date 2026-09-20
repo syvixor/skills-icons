@@ -1,0 +1,14 @@
+<svg width="256" height="256" title="Javascript Registry" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="javascriptregistry">
+<style>
+#javascriptregistry {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M43 108.286H69.1538V82H160.692V95.1429H213V147.714H186.846V174H95.3077V160.857H43" fill="#083344"/>
+<path d="M56.0769 121.429H69.1538V134.571H82.2308V95.1429H95.3077V147.714H56.0769M108.385 95.1429H147.615V108.286H121.462V121.429H147.615V160.857H108.385V147.714H134.538V134.571H108.385M160.692 108.286H199.923V134.571H186.846V121.429H173.769V160.857H160.692" fill="#F7DF1E"/>
+</svg>

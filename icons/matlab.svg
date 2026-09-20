@@ -1,0 +1,34 @@
+<svg width="256" height="256" title="MATLAB" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="matlab">
+<style>
+#matlab {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M36 140.062L85.8125 119.937C90.8687 113.256 96.5621 107.081 102.812 101.5C106.937 99.3125 114.688 100.5 128.875 82.875C142.625 65.6875 147 51 153.438 51C163.625 51 171.125 73 182.5 106.312C190.61 131.757 200.125 156.733 211 181.125C199.125 170.063 189 158.125 177.437 158.438C166.687 158.688 154.75 171.438 141.687 187.813C131.312 200.938 117.562 209.938 112.187 209.75C112.187 209.75 98.3125 170.5 86.6875 164.125C84.2757 163.14 81.6649 162.739 79.0687 162.957C76.4724 163.174 73.9645 164.003 71.75 165.375L36 140V140.062Z" fill="#4499DD"/>
+<path d="M147.25 55.5C143.062 61.125 138 71.4375 128.875 82.875C114.688 100.5 107 99.3125 102.812 101.5C96.5323 107.05 90.836 113.228 85.8125 119.937L106.437 135C123.937 111.125 133.312 85.25 140.625 68.5C142.456 63.9845 144.673 59.6351 147.25 55.5Z" fill="url(#linearGradient1)"/>
+<path d="M153.5 51C139.875 51 130.562 122.75 80.25 162.813C94.375 160.5 106.625 195.563 112.25 209.75C137.25 205.5 157.25 157.688 177.437 158.438C189 158.875 199.125 170.063 211 181.125C183.875 124.125 171.187 51 153.5 51Z" fill="url(#linearGradient2)"/>
+<linearGradient id="linearGradient1" x1="128.519" y1="126.431" x2="117.331" y2="90.3062" gradientUnits="userSpaceOnUse">
+<stop stop-color="#551122"/>
+<stop offset="0.23" stop-color="#552233"/>
+<stop offset="0.36" stop-color="#553344"/>
+<stop offset="0.51" stop-color="#664455"/>
+<stop offset="0.66" stop-color="#556688"/>
+<stop offset="0.84" stop-color="#2299DD"/>
+</linearGradient>
+<linearGradient id="linearGradient2" x1="209.187" y1="149.019" x2="96.6875" y2="121.394" gradientUnits="userSpaceOnUse">
+<stop offset="0.081" stop-color="#CC3333"/>
+<stop offset="0.189" stop-color="#DE5239"/>
+<stop offset="0.313" stop-color="#F06E3E"/>
+<stop offset="0.421" stop-color="#FA8042"/>
+<stop offset="0.5" stop-color="#FE8643"/>
+<stop offset="0.58" stop-color="#FA7F42"/>
+<stop offset="0.696" stop-color="#EF6C3E"/>
+<stop offset="0.833" stop-color="#DC4C37"/>
+<stop offset="0.916" stop-color="#CF3633"/>
+</linearGradient>
+</svg>

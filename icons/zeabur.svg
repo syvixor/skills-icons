@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="Zeabur" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="zeabur">
+<style>
+#zeabur {
+    rect {fill: #15191C}
+    path.z {fill: #F4F2ED}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path.z {fill: #15191C}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M110.16 144.096H208V190.014H48V144.096H92.9767L154.902 110.918H48V65H208V110.918L110.16 144.096Z" class="z" fill="#F4F2ED"/>
+<path d="M154.369 65H48V110.918H154.369V65Z" fill="#6300FF"/>
+<path d="M207.988 144.096H110.656V190.014H207.988V144.096Z" fill="#FF4400"/>
+</svg>

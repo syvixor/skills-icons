@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Supabase" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="supabase">
+<style>
+#supabase {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M142.438 208.944C138.11 214.395 129.333 211.408 129.229 204.448L127.703 102.645H196.155C208.554 102.645 215.469 116.966 207.759 126.676L142.438 208.944Z" fill="url(#linearGradient)"/>
+<path d="M114.599 45.135C118.928 39.6834 127.705 42.6705 127.809 49.6309L128.477 151.433H60.882C48.4831 151.433 41.5681 137.113 49.278 127.403L114.599 45.135Z" fill="#3ECF8E"/>
+<linearGradient id="linearGradient" x1="127.703" y1="125.218" x2="188.541" y2="150.733" gradientUnits="userSpaceOnUse">
+<stop stop-color="#249361"/>
+<stop offset="1" stop-color="#3ECF8E"/>
+</linearGradient>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="256" height="256" title="BookStack" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="bookstack">
+<style>
+#bookstack {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M116.054 178.394L208 125.309L142.324 87.3907L50.3781 140.476L116.054 178.394Z" fill="#0288D1" stroke="white" stroke-width="6.39995" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50.3766 140.476V155.643L116.053 193.561L207.999 140.476V125.309" fill="#0288D1"/>
+<path d="M50.3766 140.476V155.643L116.053 193.561L207.999 140.476V125.309" stroke="white" stroke-width="6.39995" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M116.054 203.671L50.3781 165.752C50.3781 165.752 45.0274 153.683 50.3781 145.53L116.054 183.448L208 130.363V150.586L116.054 203.671Z" fill="#0288D1" stroke="white" stroke-width="6.39995" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M116.054 143.001L208 89.9155L142.322 52L50.3766 105.083L116.054 143.001Z" fill="#0288D1" stroke="white" stroke-width="6.39995" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M116.054 143.001L208 89.9162V110.139L116.054 163.224L50.3781 125.305C50.3781 125.305 46.0469 112.726 50.3781 105.083L116.054 143.001Z" fill="#0288D1" stroke="white" stroke-width="6.39995" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M116.054 183.452L50.3781 145.534C50.3781 145.534 45.0274 133.464 50.3781 125.311L116.054 163.23L208 110.145V130.367L116.054 183.452Z" fill="#0288D1" stroke="white" stroke-width="6.39995" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M157.647 60.8479L118.242 83.5989L133.566 84.863L135.755 93.7109L175.161 70.9599L157.647 60.8479Z" fill="#0288D1" stroke="white" stroke-width="6.39995" stroke-linejoin="round"/>
+</svg>

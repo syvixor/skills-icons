@@ -1,0 +1,13 @@
+<svg width="256" height="256" title="Zig" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="zig">
+<style>
+#zig {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M132.757 109.56H91.6636V91.29H151.144L191.689 78L123.622 146.191H164.844V164.492H105.361L64.8155 177.33L132.757 109.56ZM43 146.163V91.29H83.6561V109.592H61.2954V146.194H88.747L70.4459 164.495H43V146.163ZM194.702 109.56H167.247L185.548 91.26H213V164.462H172.344V146.161H194.73L194.702 109.56Z" fill="#F7A41D"/>
+</svg>

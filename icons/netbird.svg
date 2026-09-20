@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="NetBird" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="netbird">
+<style>
+#netbird {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M164.85 69C144.324 70.8894 134.108 82.7455 130.248 88.7444L70.2701 192.993H142.629L214 69H164.85Z" fill="#F68330"/>
+<path d="M142.676 192.995L44 87.9906C44 87.9906 155.575 57.9017 166.451 151.759L142.676 192.995Z" fill="#F68330"/>
+<path d="M128.032 92.6247L97.7608 145.245L142.626 193L166.401 151.669C162.634 119.407 146.957 101.788 128.032 92.5775" fill="#F35E32"/>
+</svg>

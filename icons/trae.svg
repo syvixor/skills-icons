@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Trae" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="trae">
+<style>
+#trae {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M53 75H203V96.4H53V75Z" fill="#30F290"/>
+<path d="M74 161H203V182H74V161Z" fill="#30F290"/>
+<path d="M53 94H74V161H53V94Z" fill="#30F290"/>
+<path d="M182 94H203V163H182V94Z" fill="#30F290"/>
+<path d="M97.6429 128.445L112.824 113.342L127.947 128.502L112.766 143.606L97.6429 128.445Z" fill="#30F290"/>
+<path d="M140.5 128.445L155.681 113.342L170.805 128.502L155.624 143.606L140.5 128.445Z" fill="#30F290"/>
+</svg>

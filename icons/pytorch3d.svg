@@ -1,0 +1,17 @@
+<svg width="256" height="256" title="PyTorch3D" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="pytorch3d">
+<style>
+#pytorch3d {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M152.232 49H58V208H152.232L198 128.5L152.232 49ZM173.189 111.019L150.911 98.1255V72.3292L173.189 111.019ZM177.854 128.5L150.911 144.099V112.902L177.854 128.5ZM138.155 61.7931V90.7421L88.1777 61.7931H138.155ZM70.7289 66.4718L138.155 105.509V151.482L70.7289 190.519V66.4718ZM138.155 166.258V195.207H88.1777L138.155 166.258ZM150.911 184.662V158.875L173.189 145.972L150.911 184.662Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="148.205" y1="83.7241" x2="112.503" y2="157.204" gradientUnits="userSpaceOnUse">
+<stop offset="0.148474" stop-color="#812CE5"/>
+<stop offset="1" stop-color="#FFAF00"/>
+</linearGradient>
+</svg>

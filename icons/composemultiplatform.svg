@@ -1,0 +1,25 @@
+<svg width="256" height="256" title="Compose Multiplatform" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="composemultiplatform">
+<style>
+#composemultiplatform {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M203 84.75V172.25L128 216L53 172.25V84.75L128 41L203 84.75Z" fill="#6075F2"/>
+<path d="M157.688 111.312V145.687L128 162.875V216L203 172.25V84.75L157.688 111.312Z" fill="#6B57FF"/>
+<path d="M128 162.875L98.3125 145.688V111.312L53 84.75V172.25L128 216V162.875Z" fill="url(#radialGradient)"/>
+<path d="M98.3125 111.312L128 94.125L157.688 111.312L203 84.75L128 41L53 84.75L98.3125 111.312Z" fill="url(#linearGradient)"/>
+<path d="M128 94.125L157.688 111.312V145.687L128 162.875L98.3125 145.688V111.312L128 94.125Z" fill="black"/>
+<radialGradient id="radialGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(147.566 42.8383) scale(263.322 175.549)">
+<stop stop-color="#5383EC"/>
+<stop offset="0.86699" stop-color="#7F52FF"/>
+</radialGradient>
+<linearGradient id="linearGradient" x1="166.037" y1="43.9294" x2="11.2634" y2="114.328" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33C3FF"/>
+<stop offset="0.87843" stop-color="#5383EC"/>
+</linearGradient>
+</svg>
