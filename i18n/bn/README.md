@@ -62,7 +62,7 @@
 
 ## অবদান করুন 🎖️
 
-আমরা যেকোনো ডেভেলপারের অবদানকে স্বাগত জানাই! আপনি যদি সাহায্য করতে চান, তবে দয়া করে আমাদের [CONTRIBUTING.md](./CONTRIBUTING.md)-এ দেয়া বিস্তারিত নির্দেশগুলি মেনে চলুন।
+আমরা যেকোনো ডেভেলপারের অবদানকে স্বাগত জানাই! আপনি যদি সাহায্য করতে চান, তবে দয়া করে আমাদের [CONTRIBUTING.md](../../.github/CONTRIBUTING.md)-এ দেয়া বিস্তারিত নির্দেশগুলি মেনে চলুন।
 
 ### অবদানের উপায়
 
@@ -83,7 +83,7 @@ pnpm install # or npm install
 pnpm dev # বা npm run dev
 ```
 
-আরও তথ্যের জন্য [CONTRIBUTING.md](./CONTRIBUTING.md) দেখুন।
+আরও তথ্যের জন্য [CONTRIBUTING.md](../../.github/CONTRIBUTING.md) দেখুন।
 
 # 🐳 Docker ব্যবহার
 
@@ -143,4 +143,4 @@ sudo docker run -p 3000:3000 skills-icons
 
 ## লাইসেন্স 📝
 
-এই প্রজেক্টটি MIT License-এর অধীনে উপলব্ধ।
+এই প্রজেক্টটি [MIT License](../../LICENSE)-এর অধীনে উপলব্ধ।
