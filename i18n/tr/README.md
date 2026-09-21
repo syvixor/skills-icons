@@ -25,6 +25,7 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
 - 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
+- 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
 
 > [!IMPORTANT]
 > Eğer projemizi yıldızlarsanız çok memnun oluruz! Bu görününürlük kazanmamızı sağlıyor ve projeyi destekliyor.

@@ -25,6 +25,7 @@ Tunjukkan tumpukan teknologi anda dengan ikon yang bersih dan boleh disesuaikan,
 - 🇬🇷 [Ελληνικά (Greek)](./i18n/el/README.md)
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](./i18n/pt-BR/README.md)
 - 🇲🇾 Bahasa Melayu (Malay) ⬅
+- 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
 
 > [!IMPORTANT]
 > Kami sangat menghargai jika anda mempertimbangkan untuk memberi bintang pada repositori kami! Ini membantu kami mendapatkan keterlihatan repositori dan menyokong projek ini.

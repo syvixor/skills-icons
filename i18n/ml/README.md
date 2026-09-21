@@ -26,6 +26,7 @@
 - 🇬🇷 [Ελληνικά (Greek)](../el/README.md)
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
 - 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
+- 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
 
 > [!IMPORTANT]
 > ഞങ്ങളുടെ റെപ്പോസിറ്ററിയെ ⭐ സ്റ്റാർ ചെയ്യാൻ നിങ്ങൾ പരിഗണിക്കുമെങ്കിൽ ഞങ്ങൾ വളരെ നന്ദിയുള്ളവരായിരിക്കും!
