@@ -116,6 +116,7 @@ const shortNames: Record<string, string> = {
     "project": "microsoftproject",
     "ps": "adobephotoshop",
     "pyspark": "apachespark",
+    "rails": "rubyonrails",
     "react": "reactjs",
     "regle": "reglejs",
     "ros": "robotoperatingsystem",
