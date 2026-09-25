@@ -62,7 +62,7 @@
 
 ## অবদান করুন 🎖️
 
-আমরা যেকোনো ডেভেলপারের অবদানকে স্বাগত জানাই! আপনি যদি সাহায্য করতে চান, তবে দয়া করে আমাদের [CONTRIBUTING.md](../../.github/CONTRIBUTING.md)-এ দেয়া বিস্তারিত নির্দেশগুলি মেনে চলুন।
+আমরা যেকোনো ডেভেলপারের অবদানকে স্বাগত জানাই! আপনি যদি সাহায্য করতে চান, তবে দয়া করে আমাদের [CONTRIBUTING.md](./CONTRIBUTING.md)-এ দেয়া বিস্তারিত নির্দেশগুলি মেনে চলুন।
 
 ### অবদানের উপায়
 
@@ -77,13 +77,13 @@
 git clone [https://github.com/syvixor/skills-icons.git](https://github.com/syvixor/skills-icons.git)
 
 # ডিপেন্ডেন্সিগুলি ইনস্টল করুন
-pnpm install # or npm install
+pnpm install # বা npm install
 
 # ডেভেলপমেন্ট সার্ভারটি রান করুন
 pnpm dev # বা npm run dev
 ```
 
-আরও তথ্যের জন্য [CONTRIBUTING.md](../../.github/CONTRIBUTING.md) দেখুন।
+আরও তথ্যের জন্য [CONTRIBUTING.md](./CONTRIBUTING.md) দেখুন।
 
 # 🐳 Docker ব্যবহার
 
@@ -99,8 +99,8 @@ pnpm dev # বা npm run dev
 
 `Skills Icons`-এর Docker ইমেজ তৈরি করতে:
 
-১. টার্মিনাল খুলুন এবং প্রজেক্ট ডিরেক্টরিতে যান।
-২. নিচে দেয়া কমান্ডটি রান করুন:
+1. টার্মিনাল খুলুন এবং প্রজেক্ট ডিরেক্টরিতে যান।
+2. নিচে দেয়া কমান্ডটি রান করুন:
 
 ```bash
 docker build -t skills-icons .
