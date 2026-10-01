@@ -14,6 +14,7 @@ const shortNames: Record<string, string> = {
     "adonis": "adonisjs",
     "ae": "adobeaftereffects",
     "aftereffects": "adobeaftereffects",
+    "amber": "amberlang",
     "angular": "angularjs",
     "antigravity": "googleantigravity",
     "arc": "arcbrowser",
