@@ -1,8 +1,8 @@
 ## Skills Icons ✨
 Pamerkan teknologi yang Anda gunakan dengan ikon yang bersih dan dapat disesuaikan, cukup sebutkan teknologi tersebut dengan dipisahkan oleh koma.
 ### Contoh 💡
-![Banner Dark](./.github/example-dark.png#gh-dark-mode-only)
-![Banner Light](./.github/example-light.png#gh-light-mode-only)
+![Banner Dark](../../.github/example-dark.png#gh-dark-mode-only)
+![Banner Light](../../.github/example-light.png#gh-light-mode-only)
 ### Bahasa yang Tersedia 🌐
 - 🇬🇧 English ⬅
 - 🇨🇳 [中文 (Chinese)](./i18n/zh/README.md)
