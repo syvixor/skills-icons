@@ -17,8 +17,8 @@ Jika Anda menemukan bug atau masalah, silakan ikuti langkah-langkah berikut:
 
 #### Templat Ikon
 
-- [Ikon Normal](ICON_TEMPLATES/icon.svg)
-- [Ikon Bertema](ICON_TEMPLATES/themed_icon.svg)
+- [Ikon Normal](../../.github/ICON_TEMPLATES/icon.svg)
+- [Ikon Bertema](../../.github/ICON_TEMPLATES/themed_icon.svg)
 
 Jika Anda ingin berkontribusi ikon baru, silakan ikuti langkah-langkah berikut:
 
@@ -36,8 +36,8 @@ Setelah Anda mengajukan pull request, pengelola akan meninjaunya dan mungkin mem
 
 ## Kode Etik
 
-Dengan berkontribusi pada proyek ini, Anda setuju untuk mengikuti [Kode Etik](CODE_OF_CONDUCT.md) kami, yang menetapkan ekspektasi untuk komunikasi yang saling menghormati dan inklusif.
+Dengan berkontribusi pada proyek ini, Anda setuju untuk mengikuti [Kode Etik](../../.github/CODE_OF_CONDUCT.md) kami, yang menetapkan ekspektasi untuk komunikasi yang saling menghormati dan inklusif.
 
 ## Lisensi
 
-Dengan berkontribusi pada proyek ini, Anda setuju bahwa kontribusi Anda akan dilisensikan di bawah [lisensi proyek](../LICENSE).
+Dengan berkontribusi pada proyek ini, Anda setuju bahwa kontribusi Anda akan dilisensikan di bawah [lisensi proyek](../../LICENSE).
