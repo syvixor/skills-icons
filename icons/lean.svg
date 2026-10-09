@@ -1,0 +1,15 @@
+<svg width="256" height="256" title="lean" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="lean">
+<style>
+#lean {
+    rect {fill: #15191C}
+    path {stroke: #FFFFFF}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+        path {stroke: #212121}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128.1 128.5L113.364 97.2692H73.1822M113.364 97.2692V128.5M128.1 128.5H157.757M223 97V159.784H222.734L172.174 97.2692H171.908L157.757 128.5L143.124 159.73L142.636 159.731L128.1 128.5M113.364 128.5V159.731H33V97M113.364 128.5H73.1822M171.908 97.2692V160" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
