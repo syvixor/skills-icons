@@ -26,6 +26,7 @@
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
 - 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 - 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
+- 🇮🇩 [Bahasa Indonesia (Indonesian)](../id/README.md)
 
 > [!IMPORTANT]
 > リポジトリにスターを付けていただけると大変助かります！

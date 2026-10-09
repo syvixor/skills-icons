@@ -26,6 +26,7 @@
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
 - 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 - 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
+- 🇮🇩 [Bahasa Indonesia (Indonesian)](../id/README.md)
 
 > [!IMPORTANT]
 > Мы будем очень признательны, если вы поставите ⭐ нашему репозиторию! Это большая поддержка для проекта.
