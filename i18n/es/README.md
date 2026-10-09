@@ -26,6 +26,7 @@ Muestra tu 'tech stack' con íconos modernos y personalizables; solo enumera las
 - 🇧🇷 [Português Brasileiro (Brazilian Portuguese)](../pt-BR/README.md)
 - 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 - 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
+- 🇮🇩 [Bahasa Indonesia (Indonesian)](../id/README.md)
 
 > [!IMPORTANT]
 > Si te gusta el proyecto, ¡considera darle una estrella ⭐! Eso nos ayuda a ganar visibilidad y seguir mejorándolo.
