@@ -1,4 +1,13 @@
-<svg width="256" height="256" title="Tamagui" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" title="Tamagui" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="tamagui">
+<style>
+#tamagui {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
 <rect width="256" height="256" rx="40" fill="#15191C"/>
 <g transform="translate(40 40) scale(5.5)">
 <rect x="11" y="4" width="14" height="8" fill="#000000"/>
