@@ -103,6 +103,7 @@ const shortNames: Record<string, string> = {
     "objc": "objectivec",
     "oci": "oraclecloudinfrastructure",
     "office": "microsoftoffice",
+    "one": "onejs",
     "onenote": "microsoftonenote",
     "ood": "openondemand",
     "otel": "opentelemetry",
