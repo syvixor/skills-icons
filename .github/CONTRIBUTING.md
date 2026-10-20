@@ -17,8 +17,8 @@ If you find a bug or issue, please follow these steps:
 
 #### Icon Templates
 
-- [Normal Icon](ICON_TEMPLATES/icon.svg)
-- [Themed Icon](ICON_TEMPLATES/themed_icon.svg)
+- [Normal Icon](https://github.com/syvixor/skills-icons/blob/main/.github/ICON_TEMPLATES/icon.svg)
+- [Themed Icon](https://github.com/syvixor/skills-icons/blob/main/.github/ICON_TEMPLATES/themed_icon.svg)
 
 If you'd like to contribute a new icon, please follow these steps:
 
@@ -36,8 +36,8 @@ Once you submit a pull request, the maintainers will review it and may ask for c
 
 ## Code of Conduct
 
-By contributing to this project, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md), which sets expectations for respectful and inclusive communication.
+By contributing to this project, you agree to follow our [Code of Conduct](https://github.com/syvixor/skills-icons/blob/main/.github/CODE_OF_CONDUCT.md), which sets expectations for respectful and inclusive communication.
 
 ## Licensing
 
-By contributing to this project, you agree that your contributions will be licensed under the [project’s license](../LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the [project’s license](https://github.com/syvixor/skills-icons/blob/main/LICENSE).
