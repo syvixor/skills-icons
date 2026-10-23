@@ -2,11 +2,9 @@
 <style>
 #n8n {
     rect {fill: #191919}
-    path {fill: #FF91AC}
 
     @media (prefers-color-scheme: light) {
         rect {fill: #FAFAFA}
-        path {fill: #FF91AC}
     }
 }
 </style>
