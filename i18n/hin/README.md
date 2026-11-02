@@ -27,6 +27,7 @@
 - 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 - 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
 - 🇮🇩 [Bahasa Indonesia (Indonesian)](../id/README.md)
+- 🇳🇱 [Nederlands (Dutch)](../nl/README.md)
 
 > [!IMPORTANT]
 > यदि आपको यह प्रोजेक्ट पसंद आए, तो कृपया रिपॉज़िटरी को स्टार करने पर विचार करें! इससे हमें विज़िबिलिटी मिलती है और प्रोजेक्ट को सहायता मिलती है।
