@@ -27,7 +27,7 @@ Tunjukkan tumpukan teknologi anda dengan ikon yang bersih dan boleh disesuaikan,
 - 🇲🇾 Bahasa Melayu (Malay) ⬅
 - 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
 - 🇮🇩 [Bahasa Indonesia (Indonesian)](../id/README.md)
-- 🇳🇱 [Belanda (Dutch)](../nl/README.md)
+- 🇳🇱 [Nederlands (Dutch)](../nl/README.md)
 
 > [!IMPORTANT]
 > Kami sangat menghargai jika anda mempertimbangkan untuk memberi bintang pada repositori kami! Ini membantu kami mendapatkan keterlihatan repositori dan menyokong projek ini.

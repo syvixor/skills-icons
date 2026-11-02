@@ -27,7 +27,7 @@
 - 🇲🇾 [Bahasa Melayu (Malay)](../ms/README.md)
 - 🇧🇩 [বাংলা (Bengali)](../bn/README.md)
 - 🇮🇩 [Bahasa Indonesia (Indonesian)](../id/README.md)
-- 🇳🇱 [荷兰语 (Dutch)](../nl/README.md)
+- 🇳🇱 [Nederlands (Dutch)](../nl/README.md)
 
 > [!IMPORTANT]
 > 如果您能为我们的仓库点个星星，我们将不胜感激！这有助于提升项目可见度并获得支持。
