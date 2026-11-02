@@ -27,6 +27,7 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 - 🇲🇾 [Bahasa Melayu (Malay)](./i18n/ms/README.md)
 - 🇧🇩 [বাংলা (Bengali)](./i18n/bn/README.md)
 - 🇮🇩 [Bahasa Indonesia (Indonesian)](./i18n/id/README.md)
+- 🇳🇱 [Nederlands (Dutch)](./i18n/nl/README.md)
 
 
 > [!IMPORTANT]
