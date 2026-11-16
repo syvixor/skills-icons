@@ -1,0 +1,18 @@
+<svg width="256" height="256" title="Microsoft To Do" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="microsofttodo">
+<style>
+#microsofttodo {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M69.9763 98.4308L45.1527 123.295C42.2824 126.169 42.2824 130.831 45.1527 133.705L105.194 193.844C108.064 196.719 112.718 196.719 115.588 193.844L140.412 168.98C143.282 166.105 143.282 161.444 140.412 158.569L80.3704 98.4308C77.5002 95.5559 72.8466 95.5559 69.9763 98.4308Z" fill="#195ABD"/>
+<path d="M210.847 88.0199L186.024 63.1562C183.153 60.2813 178.5 60.2813 175.63 63.1562L80.3705 158.569C77.5002 161.444 77.5002 166.105 80.3705 168.98L105.194 193.844C108.064 196.719 112.718 196.719 115.588 193.844L210.847 98.4308C213.718 95.5559 213.718 90.8948 210.847 88.0199Z" fill="url(#linearGradient)"/>
+<linearGradient id="linearGradient" x1="92.7822" y1="181.412" x2="198.606" y2="75.7589" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2987E6"/>
+<stop offset="0.994" stop-color="#58C1F5"/>
+</linearGradient>
+</svg>
