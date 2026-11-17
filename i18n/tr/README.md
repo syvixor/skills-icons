@@ -15,6 +15,7 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 - 🇪🇸 [Català (Català 🇨🇹)](../ca/README.md)
 - 🇮🇹 [Italiano (İtalyanca)](../it/README.md)
 - 🇷🇺 [Русский (Rusça)](../ru/README.md)
+- 🇺🇦 [Українська (Ukrainian)](../uk/README.md)
 - 🇹🇷 Turkish (Türkçe) ⬅
 - 🇵🇹 [Português (Portuguese)](../pt/README.md)
 - 🇩🇪 [Deutsch (Almanca)](../de/README.md)

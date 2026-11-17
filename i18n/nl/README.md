@@ -15,6 +15,7 @@ Laat je tech stack zien met schone, aanpasbare iconen. Geef gewoon de technologi
 - 🇪🇸 [Català (Catalaans 🇨🇹)](../ca/README.md)
 - 🇮🇹 [Italiano (Italiaans)](../it/README.md)
 - 🇷🇺 [Русский (Russisch)](../ru/README.md)
+- 🇺🇦 [Українська (Ukrainian)](../uk/README.md)
 - 🇹🇷 [Türkçe (Turks)](../tr/README.md)
 - 🇵🇹 [Português (Portugees)](../pt/README.md)
 - 🇩🇪 [Deutsch (Duits)](../de/README.md)

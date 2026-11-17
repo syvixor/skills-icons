@@ -15,6 +15,7 @@ Mostra el teu stack tecnològic amb icones netes i personalitzables, només llis
 - 🇪🇸 Català (Català 🇨🇹) ⬅
 - 🇮🇹 [Italiano (Italià)](../it/README.md)
 - 🇷🇺 [Русский (Rus)](../ru/README.md)
+- 🇺🇦 [Українська (Ukrainian)](../uk/README.md)
 - 🇹🇷 [Türkçe (Turc)](../tr/README.md)
 - 🇵🇹 [Português (Portuguès)](../pt/README.md)
 - 🇩🇪 [Deutsch (Alemany)](../de/README.md)
