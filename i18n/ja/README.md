@@ -12,7 +12,7 @@
 - 🇬🇧 [English](../../README.md)
 - 🇨🇳 [中文 (Chinese)](../zh/README.md)
 - 🇪🇸 [Español (Spanish)](../es/README.md)
-- 🇪🇸 [Català (Catalan 🇨🇹)](../ca/README.md)
+- 🇪🇸 [Català (Catalan)](../ca/README.md)
 - 🇮🇹 [Italiano (Italian)](../it/README.md)
 - 🇷🇺 [Русский (Russian)](../ru/README.md)
 - 🇺🇦 [Українська (Ukrainian)](../uk/README.md)

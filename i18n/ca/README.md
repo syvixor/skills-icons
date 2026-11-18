@@ -12,7 +12,7 @@ Mostra el teu stack tecnològic amb icones netes i personalitzables, només llis
 - 🇬🇧 [English (Anglès)](../../README.md)
 - 🇨🇳 [中文 (Xinès)](../zh/README.md)
 - 🇪🇸 [Español (Espanyol)](../es/README.md)
-- 🇪🇸 Català (Català 🇨🇹) ⬅
+- 🇪🇸 Català (Català) ⬅
 - 🇮🇹 [Italiano (Italià)](../it/README.md)
 - 🇷🇺 [Русский (Rus)](../ru/README.md)
 - 🇺🇦 [Українська (Ukrainian)](../uk/README.md)

@@ -12,7 +12,7 @@ Laat je tech stack zien met schone, aanpasbare iconen. Geef gewoon de technologi
 - 🇬🇧 [English (Engels)](../../README.md)
 - 🇨🇳 [中文 (Chinees)](../zh/README.md)
 - 🇪🇸 [Español (Spaans)](../es/README.md)
-- 🇪🇸 [Català (Catalaans 🇨🇹)](../ca/README.md)
+- 🇪🇸 [Català (Catalaans)](../ca/README.md)
 - 🇮🇹 [Italiano (Italiaans)](../it/README.md)
 - 🇷🇺 [Русский (Russisch)](../ru/README.md)
 - 🇺🇦 [Українська (Ukrainian)](../uk/README.md)
