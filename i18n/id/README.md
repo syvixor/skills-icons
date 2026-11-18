@@ -15,6 +15,7 @@ Pamerkan teknologi yang Anda gunakan dengan ikon yang bersih dan dapat disesuaik
 - 🇪🇸 [Català (Catalan 🇨🇹)](./i18n/ca/README.md)
 - 🇮🇹 [Italiano (Italian)](./i18n/it/README.md)
 - 🇷🇺 [Русский (Russian)](./i18n/ru/README.md)
+- 🇺🇦 [Українська (Ukrainian)](../uk/README.md)
 - 🇹🇷 [Türkçe (Turkish)](./i18n/tr/README.md)
 - 🇵🇹 [Português (Portuguese)](./i18n/pt/README.md)
 - 🇩🇪 [Deutsch (German)](./i18n/de/README.md)

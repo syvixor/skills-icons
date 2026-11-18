@@ -15,6 +15,7 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 - 🇪🇸 [Català (Catalan 🇨🇹)](./i18n/ca/README.md)
 - 🇮🇹 [Italiano (Italian)](./i18n/it/README.md)
 - 🇷🇺 [Русский (Russian)](./i18n/ru/README.md)
+- 🇺🇦 [Український (Ukrainian)](./i18n/uk/README.md)
 - 🇹🇷 [Türkçe (Turkish)](./i18n/tr/README.md)
 - 🇵🇹 [Português (Portuguese)](./i18n/pt/README.md)
 - 🇩🇪 [Deutsch (German)](./i18n/de/README.md)
