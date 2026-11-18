@@ -12,7 +12,7 @@ Kullandığınız teknolojik şeyleri temiz ve özelleştirilebilir ikonlarla te
 - 🇬🇧 [English (İngilizce)](../../README.md)
 - 🇨🇳 [中文 (Çince)](../zh/README.md)
 - 🇪🇸 [Español (İspanyolca)](../es/README.md)
-- 🇪🇸 [Català (Català 🇨🇹)](../ca/README.md)
+- 🇪🇸 [Català (Català)](../ca/README.md)
 - 🇮🇹 [Italiano (İtalyanca)](../it/README.md)
 - 🇷🇺 [Русский (Rusça)](../ru/README.md)
 - 🇺🇦 [Українська (Ukrainian)](../uk/README.md)
