@@ -1,0 +1,50 @@
+<svg width="256" height="256" title="WSL" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="wsl">
+<style>
+#wsl {
+    rect {fill: #15191C}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+<rect width="256" height="256" rx="40" fill="#15191C"/>
+<path d="M128 35C166.634 35 198 66.3659 198 105V213.446C198 217.449 194.75 220.699 190.746 220.699H65.2539C61.2504 220.699 58 217.449 58 213.446V105C58 66.3659 89.3659 35 128 35Z" fill="url(#paint0_linear_189_100)"/>
+<path d="M98.9844 121.401C111.804 121.401 122.197 111.008 122.197 98.1886C122.197 85.3687 111.804 74.9761 98.9844 74.9761C86.1645 74.9761 75.772 85.3687 75.772 98.1886C75.772 111.008 86.1645 121.401 98.9844 121.401Z" fill="white"/>
+<path d="M157.016 121.401C169.835 121.401 180.228 111.008 180.228 98.1886C180.228 85.3687 169.835 74.9761 157.016 74.9761C144.196 74.9761 133.803 85.3687 133.803 98.1886C133.803 111.008 144.196 121.401 157.016 121.401Z" fill="white"/>
+<path d="M122.197 98.1886H75.772V156.783C75.772 182.344 96.4927 203.064 122.053 203.064H122.197V98.1886Z" fill="white"/>
+<path d="M133.803 98.1886H180.228V156.783C180.228 182.344 159.507 203.064 133.947 203.064H133.803V98.1886Z" fill="white"/>
+<path d="M142.665 164.126H113.102V199.273H142.665V164.126Z" fill="white"/>
+<path d="M110.657 106.611C111.703 100.165 107.325 94.0907 100.879 93.0446C94.4321 91.9984 88.358 96.3763 87.3119 102.823C86.2658 109.269 90.6437 115.343 97.0902 116.39C103.537 117.436 109.611 113.058 110.657 106.611Z" fill="black"/>
+<path d="M157.016 116.542C163.546 116.542 168.841 111.248 168.841 104.717C168.841 98.1862 163.546 92.8919 157.016 92.8919C150.485 92.8919 145.19 98.1862 145.19 104.717C145.19 111.248 150.485 116.542 157.016 116.542Z" fill="black"/>
+<g filter="url(#filter0_d_189_100)">
+<path d="M128 168.406C140.82 168.406 151.212 158.014 151.212 145.194C151.212 132.374 140.82 121.981 128 121.981C115.18 121.981 104.788 132.374 104.788 145.194C104.788 158.014 115.18 168.406 128 168.406Z" fill="url(#paint1_radial_189_100)"/>
+</g>
+<path d="M104.788 143.432C104.788 132.592 114.337 122.243 128 122.126C141.842 122.008 151.212 134.371 151.212 143.432C151.212 143.432 142.836 148.966 128 148.966C113.164 148.966 104.788 143.432 104.788 143.432Z" fill="url(#paint2_radial_189_100)"/>
+<path d="M75.772 151.247C75.772 165.237 73.8898 203.37 127.968 203.37C182.046 203.37 180.228 166.493 180.228 150.888C180.228 150.888 169.419 190.009 127.968 190.009C86.5161 190.009 75.772 151.247 75.772 151.247Z" fill="url(#paint3_radial_189_100)"/>
+<filter id="filter0_d_189_100" x="88.7876" y="112.981" width="78.4249" height="78.4249" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="7"/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_189_100"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_189_100" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_189_100" x1="73.1596" y1="55.8195" x2="174.438" y2="231.239" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0078D3"/>
+<stop offset="1" stop-color="#0C5AA5"/>
+</linearGradient>
+<radialGradient id="paint1_radial_189_100" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128.082 153.181) rotate(-90) scale(29.4386 22.5759)">
+<stop stop-color="#C86508"/>
+<stop offset="1" stop-color="#BF6009"/>
+</radialGradient>
+<radialGradient id="paint2_radial_189_100" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 147.261) rotate(-90) scale(29.2826 18.7629)">
+<stop stop-color="#EF8506"/>
+<stop offset="1" stop-color="#ED7E03"/>
+</radialGradient>
+<radialGradient id="paint3_radial_189_100" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128.328 129.25) rotate(-90) scale(74.7688 62.2667)">
+<stop offset="0.0784" stop-color="#FFC700"/>
+<stop offset="1" stop-color="#FFC700"/>
+</radialGradient>
+</svg>
